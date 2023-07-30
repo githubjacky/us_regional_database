@@ -1,0 +1,1501 @@
+"","Code","GeoFips","GeoName","TimePeriod","CL_UNIT","UNIT_MULT","DataValue"
+"1","SAGDP1-1","00000","United States","1997","Millions of chained 2012 dollars","6",11529157
+"2","SAGDP1-1","00000","United States","1998","Millions of chained 2012 dollars","6",12045824
+"3","SAGDP1-1","00000","United States","1999","Millions of chained 2012 dollars","6",12623361
+"4","SAGDP1-1","00000","United States","2000","Millions of chained 2012 dollars","6",13138035
+"5","SAGDP1-1","00000","United States","2001","Millions of chained 2012 dollars","6",13263417
+"6","SAGDP1-1","00000","United States","2002","Millions of chained 2012 dollars","6",13488357
+"7","SAGDP1-1","00000","United States","2003","Millions of chained 2012 dollars","6",13865519
+"8","SAGDP1-1","00000","United States","2004","Millions of chained 2012 dollars","6",14399696
+"9","SAGDP1-1","00000","United States","2005","Millions of chained 2012 dollars","6",14901269
+"10","SAGDP1-1","00000","United States","2006","Millions of chained 2012 dollars","6",15315943
+"11","SAGDP1-1","00000","United States","2007","Millions of chained 2012 dollars","6",15623871
+"12","SAGDP1-1","00000","United States","2008","Millions of chained 2012 dollars","6",15642962
+"13","SAGDP1-1","00000","United States","2009","Millions of chained 2012 dollars","6",15236262
+"14","SAGDP1-1","00000","United States","2010","Millions of chained 2012 dollars","6",15648991
+"15","SAGDP1-1","00000","United States","2011","Millions of chained 2012 dollars","6",15891534
+"16","SAGDP1-1","00000","United States","2012","Millions of chained 2012 dollars","6",16253970
+"17","SAGDP1-1","00000","United States","2013","Millions of chained 2012 dollars","6",16553348
+"18","SAGDP1-1","00000","United States","2014","Millions of chained 2012 dollars","6",16932051
+"19","SAGDP1-1","00000","United States","2015","Millions of chained 2012 dollars","6",17390295
+"20","SAGDP1-1","00000","United States","2016","Millions of chained 2012 dollars","6",17680274
+"21","SAGDP1-1","00000","United States","2017","Millions of chained 2012 dollars","6",18079084
+"22","SAGDP1-1","00000","United States","2018","Millions of chained 2012 dollars","6",18606787
+"23","SAGDP1-1","00000","United States","2019","Millions of chained 2012 dollars","6",19032672
+"24","SAGDP1-1","00000","United States","2020","Millions of chained 2012 dollars","6",18384687
+"25","SAGDP1-1","00000","United States","2021","Millions of chained 2012 dollars","6",19427287
+"26","SAGDP1-1","01000","Alabama","1997","Millions of chained 2012 dollars","6",144501.2
+"27","SAGDP1-1","01000","Alabama","1998","Millions of chained 2012 dollars","6",149568.2
+"28","SAGDP1-1","01000","Alabama","1999","Millions of chained 2012 dollars","6",154900.2
+"29","SAGDP1-1","01000","Alabama","2000","Millions of chained 2012 dollars","6",157221.3
+"30","SAGDP1-1","01000","Alabama","2001","Millions of chained 2012 dollars","6",156853.2
+"31","SAGDP1-1","01000","Alabama","2002","Millions of chained 2012 dollars","6",160422.4
+"32","SAGDP1-1","01000","Alabama","2003","Millions of chained 2012 dollars","6",165134.7
+"33","SAGDP1-1","01000","Alabama","2004","Millions of chained 2012 dollars","6",176625
+"34","SAGDP1-1","01000","Alabama","2005","Millions of chained 2012 dollars","6",184369.5
+"35","SAGDP1-1","01000","Alabama","2006","Millions of chained 2012 dollars","6",187270.8
+"36","SAGDP1-1","01000","Alabama","2007","Millions of chained 2012 dollars","6",189002.5
+"37","SAGDP1-1","01000","Alabama","2008","Millions of chained 2012 dollars","6",186946.7
+"38","SAGDP1-1","01000","Alabama","2009","Millions of chained 2012 dollars","6",180707.2
+"39","SAGDP1-1","01000","Alabama","2010","Millions of chained 2012 dollars","6",184702.4
+"40","SAGDP1-1","01000","Alabama","2011","Millions of chained 2012 dollars","6",187605.8
+"41","SAGDP1-1","01000","Alabama","2012","Millions of chained 2012 dollars","6",189245.5
+"42","SAGDP1-1","01000","Alabama","2013","Millions of chained 2012 dollars","6",191369.8
+"43","SAGDP1-1","01000","Alabama","2014","Millions of chained 2012 dollars","6",189886.3
+"44","SAGDP1-1","01000","Alabama","2015","Millions of chained 2012 dollars","6",191335.2
+"45","SAGDP1-1","01000","Alabama","2016","Millions of chained 2012 dollars","6",194283.8
+"46","SAGDP1-1","01000","Alabama","2017","Millions of chained 2012 dollars","6",197566.6
+"47","SAGDP1-1","01000","Alabama","2018","Millions of chained 2012 dollars","6",200800.9
+"48","SAGDP1-1","01000","Alabama","2019","Millions of chained 2012 dollars","6",203383.9
+"49","SAGDP1-1","01000","Alabama","2020","Millions of chained 2012 dollars","6",196906.1
+"50","SAGDP1-1","01000","Alabama","2021","Millions of chained 2012 dollars","6",204884.6
+"51","SAGDP1-1","02000","Alaska","1997","Millions of chained 2012 dollars","6",42211.3
+"52","SAGDP1-1","02000","Alaska","1998","Millions of chained 2012 dollars","6",41095.9
+"53","SAGDP1-1","02000","Alaska","1999","Millions of chained 2012 dollars","6",40590.5
+"54","SAGDP1-1","02000","Alaska","2000","Millions of chained 2012 dollars","6",39406.6
+"55","SAGDP1-1","02000","Alaska","2001","Millions of chained 2012 dollars","6",40958.7
+"56","SAGDP1-1","02000","Alaska","2002","Millions of chained 2012 dollars","6",42979
+"57","SAGDP1-1","02000","Alaska","2003","Millions of chained 2012 dollars","6",42355.3
+"58","SAGDP1-1","02000","Alaska","2004","Millions of chained 2012 dollars","6",44055
+"59","SAGDP1-1","02000","Alaska","2005","Millions of chained 2012 dollars","6",45657.1
+"60","SAGDP1-1","02000","Alaska","2006","Millions of chained 2012 dollars","6",49190.2
+"61","SAGDP1-1","02000","Alaska","2007","Millions of chained 2012 dollars","6",51721
+"62","SAGDP1-1","02000","Alaska","2008","Millions of chained 2012 dollars","6",51252.1
+"63","SAGDP1-1","02000","Alaska","2009","Millions of chained 2012 dollars","6",56215.1
+"64","SAGDP1-1","02000","Alaska","2010","Millions of chained 2012 dollars","6",54601.5
+"65","SAGDP1-1","02000","Alaska","2011","Millions of chained 2012 dollars","6",55280.3
+"66","SAGDP1-1","02000","Alaska","2012","Millions of chained 2012 dollars","6",58283.6
+"67","SAGDP1-1","02000","Alaska","2013","Millions of chained 2012 dollars","6",55354.3
+"68","SAGDP1-1","02000","Alaska","2014","Millions of chained 2012 dollars","6",54188.2
+"69","SAGDP1-1","02000","Alaska","2015","Millions of chained 2012 dollars","6",54740.8
+"70","SAGDP1-1","02000","Alaska","2016","Millions of chained 2012 dollars","6",54246.6
+"71","SAGDP1-1","02000","Alaska","2017","Millions of chained 2012 dollars","6",54129.5
+"72","SAGDP1-1","02000","Alaska","2018","Millions of chained 2012 dollars","6",53249.6
+"73","SAGDP1-1","02000","Alaska","2019","Millions of chained 2012 dollars","6",53336.5
+"74","SAGDP1-1","02000","Alaska","2020","Millions of chained 2012 dollars","6",50161
+"75","SAGDP1-1","02000","Alaska","2021","Millions of chained 2012 dollars","6",50300.3
+"76","SAGDP1-1","04000","Arizona","1997","Millions of chained 2012 dollars","6",168408.8
+"77","SAGDP1-1","04000","Arizona","1998","Millions of chained 2012 dollars","6",183060.5
+"78","SAGDP1-1","04000","Arizona","1999","Millions of chained 2012 dollars","6",198699.9
+"79","SAGDP1-1","04000","Arizona","2000","Millions of chained 2012 dollars","6",208439.5
+"80","SAGDP1-1","04000","Arizona","2001","Millions of chained 2012 dollars","6",213166.2
+"81","SAGDP1-1","04000","Arizona","2002","Millions of chained 2012 dollars","6",220696.7
+"82","SAGDP1-1","04000","Arizona","2003","Millions of chained 2012 dollars","6",234065.9
+"83","SAGDP1-1","04000","Arizona","2004","Millions of chained 2012 dollars","6",244317.3
+"84","SAGDP1-1","04000","Arizona","2005","Millions of chained 2012 dollars","6",262326
+"85","SAGDP1-1","04000","Arizona","2006","Millions of chained 2012 dollars","6",274179.4
+"86","SAGDP1-1","04000","Arizona","2007","Millions of chained 2012 dollars","6",283250.7
+"87","SAGDP1-1","04000","Arizona","2008","Millions of chained 2012 dollars","6",280810.1
+"88","SAGDP1-1","04000","Arizona","2009","Millions of chained 2012 dollars","6",257498.5
+"89","SAGDP1-1","04000","Arizona","2010","Millions of chained 2012 dollars","6",260307.1
+"90","SAGDP1-1","04000","Arizona","2011","Millions of chained 2012 dollars","6",266101.5
+"91","SAGDP1-1","04000","Arizona","2012","Millions of chained 2012 dollars","6",271440
+"92","SAGDP1-1","04000","Arizona","2013","Millions of chained 2012 dollars","6",273481.9
+"93","SAGDP1-1","04000","Arizona","2014","Millions of chained 2012 dollars","6",276948.9
+"94","SAGDP1-1","04000","Arizona","2015","Millions of chained 2012 dollars","6",282577
+"95","SAGDP1-1","04000","Arizona","2016","Millions of chained 2012 dollars","6",291275.2
+"96","SAGDP1-1","04000","Arizona","2017","Millions of chained 2012 dollars","6",302455.4
+"97","SAGDP1-1","04000","Arizona","2018","Millions of chained 2012 dollars","6",313618.7
+"98","SAGDP1-1","04000","Arizona","2019","Millions of chained 2012 dollars","6",323894.3
+"99","SAGDP1-1","04000","Arizona","2020","Millions of chained 2012 dollars","6",320550.6
+"100","SAGDP1-1","04000","Arizona","2021","Millions of chained 2012 dollars","6",337424.7
+"101","SAGDP1-1","05000","Arkansas","1997","Millions of chained 2012 dollars","6",82571.3
+"102","SAGDP1-1","05000","Arkansas","1998","Millions of chained 2012 dollars","6",84570.8
+"103","SAGDP1-1","05000","Arkansas","1999","Millions of chained 2012 dollars","6",89115.2
+"104","SAGDP1-1","05000","Arkansas","2000","Millions of chained 2012 dollars","6",89871.7
+"105","SAGDP1-1","05000","Arkansas","2001","Millions of chained 2012 dollars","6",89789
+"106","SAGDP1-1","05000","Arkansas","2002","Millions of chained 2012 dollars","6",92950.5
+"107","SAGDP1-1","05000","Arkansas","2003","Millions of chained 2012 dollars","6",96944.5
+"108","SAGDP1-1","05000","Arkansas","2004","Millions of chained 2012 dollars","6",101733.6
+"109","SAGDP1-1","05000","Arkansas","2005","Millions of chained 2012 dollars","6",105980
+"110","SAGDP1-1","05000","Arkansas","2006","Millions of chained 2012 dollars","6",108460.6
+"111","SAGDP1-1","05000","Arkansas","2007","Millions of chained 2012 dollars","6",107606.1
+"112","SAGDP1-1","05000","Arkansas","2008","Millions of chained 2012 dollars","6",106536.5
+"113","SAGDP1-1","05000","Arkansas","2009","Millions of chained 2012 dollars","6",102996.6
+"114","SAGDP1-1","05000","Arkansas","2010","Millions of chained 2012 dollars","6",105662
+"115","SAGDP1-1","05000","Arkansas","2011","Millions of chained 2012 dollars","6",107932.5
+"116","SAGDP1-1","05000","Arkansas","2012","Millions of chained 2012 dollars","6",108492.1
+"117","SAGDP1-1","05000","Arkansas","2013","Millions of chained 2012 dollars","6",110752.4
+"118","SAGDP1-1","05000","Arkansas","2014","Millions of chained 2012 dollars","6",111734.5
+"119","SAGDP1-1","05000","Arkansas","2015","Millions of chained 2012 dollars","6",112351
+"120","SAGDP1-1","05000","Arkansas","2016","Millions of chained 2012 dollars","6",112798.1
+"121","SAGDP1-1","05000","Arkansas","2017","Millions of chained 2012 dollars","6",113885.2
+"122","SAGDP1-1","05000","Arkansas","2018","Millions of chained 2012 dollars","6",115937.6
+"123","SAGDP1-1","05000","Arkansas","2019","Millions of chained 2012 dollars","6",116790.9
+"124","SAGDP1-1","05000","Arkansas","2020","Millions of chained 2012 dollars","6",114943.5
+"125","SAGDP1-1","05000","Arkansas","2021","Millions of chained 2012 dollars","6",120710.5
+"126","SAGDP1-1","06000","California","1997","Millions of chained 2012 dollars","6",1378276.5
+"127","SAGDP1-1","06000","California","1998","Millions of chained 2012 dollars","6",1468730.8
+"128","SAGDP1-1","06000","California","1999","Millions of chained 2012 dollars","6",1574305.9
+"129","SAGDP1-1","06000","California","2000","Millions of chained 2012 dollars","6",1696172.4
+"130","SAGDP1-1","06000","California","2001","Millions of chained 2012 dollars","6",1692324.1
+"131","SAGDP1-1","06000","California","2002","Millions of chained 2012 dollars","6",1722522.4
+"132","SAGDP1-1","06000","California","2003","Millions of chained 2012 dollars","6",1789998.5
+"133","SAGDP1-1","06000","California","2004","Millions of chained 2012 dollars","6",1850904.5
+"134","SAGDP1-1","06000","California","2005","Millions of chained 2012 dollars","6",1926842.1
+"135","SAGDP1-1","06000","California","2006","Millions of chained 2012 dollars","6",2002437.4
+"136","SAGDP1-1","06000","California","2007","Millions of chained 2012 dollars","6",2041192.2
+"137","SAGDP1-1","06000","California","2008","Millions of chained 2012 dollars","6",2061638.8
+"138","SAGDP1-1","06000","California","2009","Millions of chained 2012 dollars","6",1995439.7
+"139","SAGDP1-1","06000","California","2010","Millions of chained 2012 dollars","6",2036015
+"140","SAGDP1-1","06000","California","2011","Millions of chained 2012 dollars","6",2063827.5
+"141","SAGDP1-1","06000","California","2012","Millions of chained 2012 dollars","6",2113096.4
+"142","SAGDP1-1","06000","California","2013","Millions of chained 2012 dollars","6",2179229
+"143","SAGDP1-1","06000","California","2014","Millions of chained 2012 dollars","6",2256054.7
+"144","SAGDP1-1","06000","California","2015","Millions of chained 2012 dollars","6",2357452.9
+"145","SAGDP1-1","06000","California","2016","Millions of chained 2012 dollars","6",2427894.6
+"146","SAGDP1-1","06000","California","2017","Millions of chained 2012 dollars","6",2541769.3
+"147","SAGDP1-1","06000","California","2018","Millions of chained 2012 dollars","6",2643576.3
+"148","SAGDP1-1","06000","California","2019","Millions of chained 2012 dollars","6",2739343.4
+"149","SAGDP1-1","06000","California","2020","Millions of chained 2012 dollars","6",2663665.9
+"150","SAGDP1-1","06000","California","2021","Millions of chained 2012 dollars","6",2871424.2
+"151","SAGDP1-1","08000","Colorado","1997","Millions of chained 2012 dollars","6",184185.3
+"152","SAGDP1-1","08000","Colorado","1998","Millions of chained 2012 dollars","6",200679.7
+"153","SAGDP1-1","08000","Colorado","1999","Millions of chained 2012 dollars","6",215294.6
+"154","SAGDP1-1","08000","Colorado","2000","Millions of chained 2012 dollars","6",231589.8
+"155","SAGDP1-1","08000","Colorado","2001","Millions of chained 2012 dollars","6",234979.4
+"156","SAGDP1-1","08000","Colorado","2002","Millions of chained 2012 dollars","6",235417.3
+"157","SAGDP1-1","08000","Colorado","2003","Millions of chained 2012 dollars","6",237782.3
+"158","SAGDP1-1","08000","Colorado","2004","Millions of chained 2012 dollars","6",240747.6
+"159","SAGDP1-1","08000","Colorado","2005","Millions of chained 2012 dollars","6",251558.4
+"160","SAGDP1-1","08000","Colorado","2006","Millions of chained 2012 dollars","6",257430.2
+"161","SAGDP1-1","08000","Colorado","2007","Millions of chained 2012 dollars","6",266887.5
+"162","SAGDP1-1","08000","Colorado","2008","Millions of chained 2012 dollars","6",270981.4
+"163","SAGDP1-1","08000","Colorado","2009","Millions of chained 2012 dollars","6",264966.3
+"164","SAGDP1-1","08000","Colorado","2010","Millions of chained 2012 dollars","6",267858.9
+"165","SAGDP1-1","08000","Colorado","2011","Millions of chained 2012 dollars","6",271700.6
+"166","SAGDP1-1","08000","Colorado","2012","Millions of chained 2012 dollars","6",276823.1
+"167","SAGDP1-1","08000","Colorado","2013","Millions of chained 2012 dollars","6",286259.1
+"168","SAGDP1-1","08000","Colorado","2014","Millions of chained 2012 dollars","6",298655.3
+"169","SAGDP1-1","08000","Colorado","2015","Millions of chained 2012 dollars","6",312409.7
+"170","SAGDP1-1","08000","Colorado","2016","Millions of chained 2012 dollars","6",318953.4
+"171","SAGDP1-1","08000","Colorado","2017","Millions of chained 2012 dollars","6",329960.6
+"172","SAGDP1-1","08000","Colorado","2018","Millions of chained 2012 dollars","6",342535.9
+"173","SAGDP1-1","08000","Colorado","2019","Millions of chained 2012 dollars","6",356773.6
+"174","SAGDP1-1","08000","Colorado","2020","Millions of chained 2012 dollars","6",346011.3
+"175","SAGDP1-1","08000","Colorado","2021","Millions of chained 2012 dollars","6",365918.3
+"176","SAGDP1-1","09000","Connecticut","1997","Millions of chained 2012 dollars","6",190518.9
+"177","SAGDP1-1","09000","Connecticut","1998","Millions of chained 2012 dollars","6",196391.1
+"178","SAGDP1-1","09000","Connecticut","1999","Millions of chained 2012 dollars","6",202351.7
+"179","SAGDP1-1","09000","Connecticut","2000","Millions of chained 2012 dollars","6",216157.6
+"180","SAGDP1-1","09000","Connecticut","2001","Millions of chained 2012 dollars","6",218135.3
+"181","SAGDP1-1","09000","Connecticut","2002","Millions of chained 2012 dollars","6",216677.7
+"182","SAGDP1-1","09000","Connecticut","2003","Millions of chained 2012 dollars","6",219186
+"183","SAGDP1-1","09000","Connecticut","2004","Millions of chained 2012 dollars","6",233426.5
+"184","SAGDP1-1","09000","Connecticut","2005","Millions of chained 2012 dollars","6",238549.5
+"185","SAGDP1-1","09000","Connecticut","2006","Millions of chained 2012 dollars","6",248233.8
+"186","SAGDP1-1","09000","Connecticut","2007","Millions of chained 2012 dollars","6",257953
+"187","SAGDP1-1","09000","Connecticut","2008","Millions of chained 2012 dollars","6",257756
+"188","SAGDP1-1","09000","Connecticut","2009","Millions of chained 2012 dollars","6",244894.7
+"189","SAGDP1-1","09000","Connecticut","2010","Millions of chained 2012 dollars","6",244354.7
+"190","SAGDP1-1","09000","Connecticut","2011","Millions of chained 2012 dollars","6",238542.4
+"191","SAGDP1-1","09000","Connecticut","2012","Millions of chained 2012 dollars","6",240911.9
+"192","SAGDP1-1","09000","Connecticut","2013","Millions of chained 2012 dollars","6",236050.6
+"193","SAGDP1-1","09000","Connecticut","2014","Millions of chained 2012 dollars","6",235780.9
+"194","SAGDP1-1","09000","Connecticut","2015","Millions of chained 2012 dollars","6",242706.5
+"195","SAGDP1-1","09000","Connecticut","2016","Millions of chained 2012 dollars","6",243286.7
+"196","SAGDP1-1","09000","Connecticut","2017","Millions of chained 2012 dollars","6",247358.5
+"197","SAGDP1-1","09000","Connecticut","2018","Millions of chained 2012 dollars","6",249998.1
+"198","SAGDP1-1","09000","Connecticut","2019","Millions of chained 2012 dollars","6",251495.1
+"199","SAGDP1-1","09000","Connecticut","2020","Millions of chained 2012 dollars","6",235888.6
+"200","SAGDP1-1","09000","Connecticut","2021","Millions of chained 2012 dollars","6",245782.6
+"201","SAGDP1-1","10000","Delaware","1997","Millions of chained 2012 dollars","6",45980.1
+"202","SAGDP1-1","10000","Delaware","1998","Millions of chained 2012 dollars","6",50434.3
+"203","SAGDP1-1","10000","Delaware","1999","Millions of chained 2012 dollars","6",54236.7
+"204","SAGDP1-1","10000","Delaware","2000","Millions of chained 2012 dollars","6",56550.2
+"205","SAGDP1-1","10000","Delaware","2001","Millions of chained 2012 dollars","6",58372.7
+"206","SAGDP1-1","10000","Delaware","2002","Millions of chained 2012 dollars","6",56534.5
+"207","SAGDP1-1","10000","Delaware","2003","Millions of chained 2012 dollars","6",57300
+"208","SAGDP1-1","10000","Delaware","2004","Millions of chained 2012 dollars","6",60069.9
+"209","SAGDP1-1","10000","Delaware","2005","Millions of chained 2012 dollars","6",59335.1
+"210","SAGDP1-1","10000","Delaware","2006","Millions of chained 2012 dollars","6",60624.3
+"211","SAGDP1-1","10000","Delaware","2007","Millions of chained 2012 dollars","6",60477.9
+"212","SAGDP1-1","10000","Delaware","2008","Millions of chained 2012 dollars","6",58655.7
+"213","SAGDP1-1","10000","Delaware","2009","Millions of chained 2012 dollars","6",61517.7
+"214","SAGDP1-1","10000","Delaware","2010","Millions of chained 2012 dollars","6",60577.2
+"215","SAGDP1-1","10000","Delaware","2011","Millions of chained 2012 dollars","6",62919.3
+"216","SAGDP1-1","10000","Delaware","2012","Millions of chained 2012 dollars","6",62354.6
+"217","SAGDP1-1","10000","Delaware","2013","Millions of chained 2012 dollars","6",60235.8
+"218","SAGDP1-1","10000","Delaware","2014","Millions of chained 2012 dollars","6",64940.1
+"219","SAGDP1-1","10000","Delaware","2015","Millions of chained 2012 dollars","6",66793.5
+"220","SAGDP1-1","10000","Delaware","2016","Millions of chained 2012 dollars","6",63001.3
+"221","SAGDP1-1","10000","Delaware","2017","Millions of chained 2012 dollars","6",60801.2
+"222","SAGDP1-1","10000","Delaware","2018","Millions of chained 2012 dollars","6",61735.1
+"223","SAGDP1-1","10000","Delaware","2019","Millions of chained 2012 dollars","6",64262.4
+"224","SAGDP1-1","10000","Delaware","2020","Millions of chained 2012 dollars","6",62056.2
+"225","SAGDP1-1","10000","Delaware","2021","Millions of chained 2012 dollars","6",64338
+"226","SAGDP1-1","11000","District of Columbia","1997","Millions of chained 2012 dollars","6",79827.7
+"227","SAGDP1-1","11000","District of Columbia","1998","Millions of chained 2012 dollars","6",81214.4
+"228","SAGDP1-1","11000","District of Columbia","1999","Millions of chained 2012 dollars","6",84756.2
+"229","SAGDP1-1","11000","District of Columbia","2000","Millions of chained 2012 dollars","6",85355.9
+"230","SAGDP1-1","11000","District of Columbia","2001","Millions of chained 2012 dollars","6",88440.7
+"231","SAGDP1-1","11000","District of Columbia","2002","Millions of chained 2012 dollars","6",91141.5
+"232","SAGDP1-1","11000","District of Columbia","2003","Millions of chained 2012 dollars","6",92921
+"233","SAGDP1-1","11000","District of Columbia","2004","Millions of chained 2012 dollars","6",97463.5
+"234","SAGDP1-1","11000","District of Columbia","2005","Millions of chained 2012 dollars","6",99480.7
+"235","SAGDP1-1","11000","District of Columbia","2006","Millions of chained 2012 dollars","6",99805.5
+"236","SAGDP1-1","11000","District of Columbia","2007","Millions of chained 2012 dollars","6",102738.7
+"237","SAGDP1-1","11000","District of Columbia","2008","Millions of chained 2012 dollars","6",106768.9
+"238","SAGDP1-1","11000","District of Columbia","2009","Millions of chained 2012 dollars","6",105893.9
+"239","SAGDP1-1","11000","District of Columbia","2010","Millions of chained 2012 dollars","6",109986.5
+"240","SAGDP1-1","11000","District of Columbia","2011","Millions of chained 2012 dollars","6",111646.5
+"241","SAGDP1-1","11000","District of Columbia","2012","Millions of chained 2012 dollars","6",112157
+"242","SAGDP1-1","11000","District of Columbia","2013","Millions of chained 2012 dollars","6",112332.4
+"243","SAGDP1-1","11000","District of Columbia","2014","Millions of chained 2012 dollars","6",114553.6
+"244","SAGDP1-1","11000","District of Columbia","2015","Millions of chained 2012 dollars","6",116808.4
+"245","SAGDP1-1","11000","District of Columbia","2016","Millions of chained 2012 dollars","6",119644.3
+"246","SAGDP1-1","11000","District of Columbia","2017","Millions of chained 2012 dollars","6",120898.9
+"247","SAGDP1-1","11000","District of Columbia","2018","Millions of chained 2012 dollars","6",123836.1
+"248","SAGDP1-1","11000","District of Columbia","2019","Millions of chained 2012 dollars","6",124990.3
+"249","SAGDP1-1","11000","District of Columbia","2020","Millions of chained 2012 dollars","6",122342.1
+"250","SAGDP1-1","11000","District of Columbia","2021","Millions of chained 2012 dollars","6",125795.8
+"251","SAGDP1-1","12000","Florida","1997","Millions of chained 2012 dollars","6",559805.3
+"252","SAGDP1-1","12000","Florida","1998","Millions of chained 2012 dollars","6",587970.7
+"253","SAGDP1-1","12000","Florida","1999","Millions of chained 2012 dollars","6",615238.2
+"254","SAGDP1-1","12000","Florida","2000","Millions of chained 2012 dollars","6",642708.2
+"255","SAGDP1-1","12000","Florida","2001","Millions of chained 2012 dollars","6",660659.5
+"256","SAGDP1-1","12000","Florida","2002","Millions of chained 2012 dollars","6",689974
+"257","SAGDP1-1","12000","Florida","2003","Millions of chained 2012 dollars","6",722374.5
+"258","SAGDP1-1","12000","Florida","2004","Millions of chained 2012 dollars","6",769140.5
+"259","SAGDP1-1","12000","Florida","2005","Millions of chained 2012 dollars","6",815755.8
+"260","SAGDP1-1","12000","Florida","2006","Millions of chained 2012 dollars","6",839963.8
+"261","SAGDP1-1","12000","Florida","2007","Millions of chained 2012 dollars","6",850048.6
+"262","SAGDP1-1","12000","Florida","2008","Millions of chained 2012 dollars","6",816070.2
+"263","SAGDP1-1","12000","Florida","2009","Millions of chained 2012 dollars","6",769061.1
+"264","SAGDP1-1","12000","Florida","2010","Millions of chained 2012 dollars","6",775039.5
+"265","SAGDP1-1","12000","Florida","2011","Millions of chained 2012 dollars","6",772021.3
+"266","SAGDP1-1","12000","Florida","2012","Millions of chained 2012 dollars","6",778545
+"267","SAGDP1-1","12000","Florida","2013","Millions of chained 2012 dollars","6",794842.1
+"268","SAGDP1-1","12000","Florida","2014","Millions of chained 2012 dollars","6",817233.5
+"269","SAGDP1-1","12000","Florida","2015","Millions of chained 2012 dollars","6",852242.4
+"270","SAGDP1-1","12000","Florida","2016","Millions of chained 2012 dollars","6",881539.2
+"271","SAGDP1-1","12000","Florida","2017","Millions of chained 2012 dollars","6",912966.2
+"272","SAGDP1-1","12000","Florida","2018","Millions of chained 2012 dollars","6",943463.4
+"273","SAGDP1-1","12000","Florida","2019","Millions of chained 2012 dollars","6",971619.2
+"274","SAGDP1-1","12000","Florida","2020","Millions of chained 2012 dollars","6",944000.8
+"275","SAGDP1-1","12000","Florida","2021","Millions of chained 2012 dollars","6",1008694
+"276","SAGDP1-1","13000","Georgia","1997","Millions of chained 2012 dollars","6",328118.7
+"277","SAGDP1-1","13000","Georgia","1998","Millions of chained 2012 dollars","6",352472.3
+"278","SAGDP1-1","13000","Georgia","1999","Millions of chained 2012 dollars","6",377127.4
+"279","SAGDP1-1","13000","Georgia","2000","Millions of chained 2012 dollars","6",389727.3
+"280","SAGDP1-1","13000","Georgia","2001","Millions of chained 2012 dollars","6",394317.3
+"281","SAGDP1-1","13000","Georgia","2002","Millions of chained 2012 dollars","6",399413.4
+"282","SAGDP1-1","13000","Georgia","2003","Millions of chained 2012 dollars","6",411685.6
+"283","SAGDP1-1","13000","Georgia","2004","Millions of chained 2012 dollars","6",428555.2
+"284","SAGDP1-1","13000","Georgia","2005","Millions of chained 2012 dollars","6",447152.9
+"285","SAGDP1-1","13000","Georgia","2006","Millions of chained 2012 dollars","6",453032.1
+"286","SAGDP1-1","13000","Georgia","2007","Millions of chained 2012 dollars","6",455904
+"287","SAGDP1-1","13000","Georgia","2008","Millions of chained 2012 dollars","6",445764.6
+"288","SAGDP1-1","13000","Georgia","2009","Millions of chained 2012 dollars","6",428740.7
+"289","SAGDP1-1","13000","Georgia","2010","Millions of chained 2012 dollars","6",433727.2
+"290","SAGDP1-1","13000","Georgia","2011","Millions of chained 2012 dollars","6",441626.7
+"291","SAGDP1-1","13000","Georgia","2012","Millions of chained 2012 dollars","6",447764.7
+"292","SAGDP1-1","13000","Georgia","2013","Millions of chained 2012 dollars","6",454908.9
+"293","SAGDP1-1","13000","Georgia","2014","Millions of chained 2012 dollars","6",470009.7
+"294","SAGDP1-1","13000","Georgia","2015","Millions of chained 2012 dollars","6",489182.3
+"295","SAGDP1-1","13000","Georgia","2016","Millions of chained 2012 dollars","6",506816.2
+"296","SAGDP1-1","13000","Georgia","2017","Millions of chained 2012 dollars","6",524874.7
+"297","SAGDP1-1","13000","Georgia","2018","Millions of chained 2012 dollars","6",539300.3
+"298","SAGDP1-1","13000","Georgia","2019","Millions of chained 2012 dollars","6",558277.3
+"299","SAGDP1-1","13000","Georgia","2020","Millions of chained 2012 dollars","6",536693
+"300","SAGDP1-1","13000","Georgia","2021","Millions of chained 2012 dollars","6",567939.5
+"301","SAGDP1-1","15000","Hawaii","1997","Millions of chained 2012 dollars","6",55804.2
+"302","SAGDP1-1","15000","Hawaii","1998","Millions of chained 2012 dollars","6",54404.8
+"303","SAGDP1-1","15000","Hawaii","1999","Millions of chained 2012 dollars","6",54852.1
+"304","SAGDP1-1","15000","Hawaii","2000","Millions of chained 2012 dollars","6",55891.1
+"305","SAGDP1-1","15000","Hawaii","2001","Millions of chained 2012 dollars","6",55678.5
+"306","SAGDP1-1","15000","Hawaii","2002","Millions of chained 2012 dollars","6",56990.8
+"307","SAGDP1-1","15000","Hawaii","2003","Millions of chained 2012 dollars","6",59978.8
+"308","SAGDP1-1","15000","Hawaii","2004","Millions of chained 2012 dollars","6",63318.1
+"309","SAGDP1-1","15000","Hawaii","2005","Millions of chained 2012 dollars","6",67123.9
+"310","SAGDP1-1","15000","Hawaii","2006","Millions of chained 2012 dollars","6",68759.3
+"311","SAGDP1-1","15000","Hawaii","2007","Millions of chained 2012 dollars","6",70080.4
+"312","SAGDP1-1","15000","Hawaii","2008","Millions of chained 2012 dollars","6",70460.8
+"313","SAGDP1-1","15000","Hawaii","2009","Millions of chained 2012 dollars","6",67927.5
+"314","SAGDP1-1","15000","Hawaii","2010","Millions of chained 2012 dollars","6",69628.1
+"315","SAGDP1-1","15000","Hawaii","2011","Millions of chained 2012 dollars","6",70646.6
+"316","SAGDP1-1","15000","Hawaii","2012","Millions of chained 2012 dollars","6",71905.3
+"317","SAGDP1-1","15000","Hawaii","2013","Millions of chained 2012 dollars","6",73063.2
+"318","SAGDP1-1","15000","Hawaii","2014","Millions of chained 2012 dollars","6",73512.4
+"319","SAGDP1-1","15000","Hawaii","2015","Millions of chained 2012 dollars","6",75869.5
+"320","SAGDP1-1","15000","Hawaii","2016","Millions of chained 2012 dollars","6",77303.9
+"321","SAGDP1-1","15000","Hawaii","2017","Millions of chained 2012 dollars","6",78941.6
+"322","SAGDP1-1","15000","Hawaii","2018","Millions of chained 2012 dollars","6",79854.7
+"323","SAGDP1-1","15000","Hawaii","2019","Millions of chained 2012 dollars","6",79175.4
+"324","SAGDP1-1","15000","Hawaii","2020","Millions of chained 2012 dollars","6",70625.2
+"325","SAGDP1-1","15000","Hawaii","2021","Millions of chained 2012 dollars","6",73879.5
+"326","SAGDP1-1","16000","Idaho","1997","Millions of chained 2012 dollars","6",36997.4
+"327","SAGDP1-1","16000","Idaho","1998","Millions of chained 2012 dollars","6",38795.3
+"328","SAGDP1-1","16000","Idaho","1999","Millions of chained 2012 dollars","6",42510.4
+"329","SAGDP1-1","16000","Idaho","2000","Millions of chained 2012 dollars","6",47295.4
+"330","SAGDP1-1","16000","Idaho","2001","Millions of chained 2012 dollars","6",46084.5
+"331","SAGDP1-1","16000","Idaho","2002","Millions of chained 2012 dollars","6",47056.8
+"332","SAGDP1-1","16000","Idaho","2003","Millions of chained 2012 dollars","6",48593.7
+"333","SAGDP1-1","16000","Idaho","2004","Millions of chained 2012 dollars","6",51815.1
+"334","SAGDP1-1","16000","Idaho","2005","Millions of chained 2012 dollars","6",56043
+"335","SAGDP1-1","16000","Idaho","2006","Millions of chained 2012 dollars","6",57613.7
+"336","SAGDP1-1","16000","Idaho","2007","Millions of chained 2012 dollars","6",58670.9
+"337","SAGDP1-1","16000","Idaho","2008","Millions of chained 2012 dollars","6",60309.5
+"338","SAGDP1-1","16000","Idaho","2009","Millions of chained 2012 dollars","6",57327.9
+"339","SAGDP1-1","16000","Idaho","2010","Millions of chained 2012 dollars","6",58281.8
+"340","SAGDP1-1","16000","Idaho","2011","Millions of chained 2012 dollars","6",58226.2
+"341","SAGDP1-1","16000","Idaho","2012","Millions of chained 2012 dollars","6",58323.9
+"342","SAGDP1-1","16000","Idaho","2013","Millions of chained 2012 dollars","6",60631.2
+"343","SAGDP1-1","16000","Idaho","2014","Millions of chained 2012 dollars","6",62454
+"344","SAGDP1-1","16000","Idaho","2015","Millions of chained 2012 dollars","6",63081.2
+"345","SAGDP1-1","16000","Idaho","2016","Millions of chained 2012 dollars","6",65479
+"346","SAGDP1-1","16000","Idaho","2017","Millions of chained 2012 dollars","6",66980.5
+"347","SAGDP1-1","16000","Idaho","2018","Millions of chained 2012 dollars","6",71075.4
+"348","SAGDP1-1","16000","Idaho","2019","Millions of chained 2012 dollars","6",73912
+"349","SAGDP1-1","16000","Idaho","2020","Millions of chained 2012 dollars","6",73655.4
+"350","SAGDP1-1","16000","Idaho","2021","Millions of chained 2012 dollars","6",77912.9
+"351","SAGDP1-1","17000","Illinois","1997","Millions of chained 2012 dollars","6",576730.2
+"352","SAGDP1-1","17000","Illinois","1998","Millions of chained 2012 dollars","6",595615.8
+"353","SAGDP1-1","17000","Illinois","1999","Millions of chained 2012 dollars","6",618148.4
+"354","SAGDP1-1","17000","Illinois","2000","Millions of chained 2012 dollars","6",640723.4
+"355","SAGDP1-1","17000","Illinois","2001","Millions of chained 2012 dollars","6",642292.5
+"356","SAGDP1-1","17000","Illinois","2002","Millions of chained 2012 dollars","6",647517.8
+"357","SAGDP1-1","17000","Illinois","2003","Millions of chained 2012 dollars","6",658317.3
+"358","SAGDP1-1","17000","Illinois","2004","Millions of chained 2012 dollars","6",676805.9
+"359","SAGDP1-1","17000","Illinois","2005","Millions of chained 2012 dollars","6",687706.6
+"360","SAGDP1-1","17000","Illinois","2006","Millions of chained 2012 dollars","6",704827.6
+"361","SAGDP1-1","17000","Illinois","2007","Millions of chained 2012 dollars","6",712619.8
+"362","SAGDP1-1","17000","Illinois","2008","Millions of chained 2012 dollars","6",706616.5
+"363","SAGDP1-1","17000","Illinois","2009","Millions of chained 2012 dollars","6",688161
+"364","SAGDP1-1","17000","Illinois","2010","Millions of chained 2012 dollars","6",698179.6
+"365","SAGDP1-1","17000","Illinois","2011","Millions of chained 2012 dollars","6",711283.4
+"366","SAGDP1-1","17000","Illinois","2012","Millions of chained 2012 dollars","6",726399.1
+"367","SAGDP1-1","17000","Illinois","2013","Millions of chained 2012 dollars","6",726125
+"368","SAGDP1-1","17000","Illinois","2014","Millions of chained 2012 dollars","6",741194
+"369","SAGDP1-1","17000","Illinois","2015","Millions of chained 2012 dollars","6",751754.9
+"370","SAGDP1-1","17000","Illinois","2016","Millions of chained 2012 dollars","6",749333.5
+"371","SAGDP1-1","17000","Illinois","2017","Millions of chained 2012 dollars","6",755594.7
+"372","SAGDP1-1","17000","Illinois","2018","Millions of chained 2012 dollars","6",774065
+"373","SAGDP1-1","17000","Illinois","2019","Millions of chained 2012 dollars","6",777653.8
+"374","SAGDP1-1","17000","Illinois","2020","Millions of chained 2012 dollars","6",737643.6
+"375","SAGDP1-1","17000","Illinois","2021","Millions of chained 2012 dollars","6",774587.8
+"376","SAGDP1-1","18000","Indiana","1997","Millions of chained 2012 dollars","6",231713.9
+"377","SAGDP1-1","18000","Indiana","1998","Millions of chained 2012 dollars","6",245675.7
+"378","SAGDP1-1","18000","Indiana","1999","Millions of chained 2012 dollars","6",254089.2
+"379","SAGDP1-1","18000","Indiana","2000","Millions of chained 2012 dollars","6",264121.7
+"380","SAGDP1-1","18000","Indiana","2001","Millions of chained 2012 dollars","6",259474.8
+"381","SAGDP1-1","18000","Indiana","2002","Millions of chained 2012 dollars","6",265345.1
+"382","SAGDP1-1","18000","Indiana","2003","Millions of chained 2012 dollars","6",277151.6
+"383","SAGDP1-1","18000","Indiana","2004","Millions of chained 2012 dollars","6",287655.9
+"384","SAGDP1-1","18000","Indiana","2005","Millions of chained 2012 dollars","6",290328.2
+"385","SAGDP1-1","18000","Indiana","2006","Millions of chained 2012 dollars","6",296112.7
+"386","SAGDP1-1","18000","Indiana","2007","Millions of chained 2012 dollars","6",304085.7
+"387","SAGDP1-1","18000","Indiana","2008","Millions of chained 2012 dollars","6",300962.6
+"388","SAGDP1-1","18000","Indiana","2009","Millions of chained 2012 dollars","6",279520.7
+"389","SAGDP1-1","18000","Indiana","2010","Millions of chained 2012 dollars","6",297517.3
+"390","SAGDP1-1","18000","Indiana","2011","Millions of chained 2012 dollars","6",299064.5
+"391","SAGDP1-1","18000","Indiana","2012","Millions of chained 2012 dollars","6",300513.9
+"392","SAGDP1-1","18000","Indiana","2013","Millions of chained 2012 dollars","6",307279.1
+"393","SAGDP1-1","18000","Indiana","2014","Millions of chained 2012 dollars","6",316783.1
+"394","SAGDP1-1","18000","Indiana","2015","Millions of chained 2012 dollars","6",313751.2
+"395","SAGDP1-1","18000","Indiana","2016","Millions of chained 2012 dollars","6",319601.5
+"396","SAGDP1-1","18000","Indiana","2017","Millions of chained 2012 dollars","6",325841.7
+"397","SAGDP1-1","18000","Indiana","2018","Millions of chained 2012 dollars","6",337149.6
+"398","SAGDP1-1","18000","Indiana","2019","Millions of chained 2012 dollars","6",338350.1
+"399","SAGDP1-1","18000","Indiana","2020","Millions of chained 2012 dollars","6",329863.3
+"400","SAGDP1-1","18000","Indiana","2021","Millions of chained 2012 dollars","6",352624.1
+"401","SAGDP1-1","19000","Iowa","1997","Millions of chained 2012 dollars","6",113289.8
+"402","SAGDP1-1","19000","Iowa","1998","Millions of chained 2012 dollars","6",114087.4
+"403","SAGDP1-1","19000","Iowa","1999","Millions of chained 2012 dollars","6",116523
+"404","SAGDP1-1","19000","Iowa","2000","Millions of chained 2012 dollars","6",121924.2
+"405","SAGDP1-1","19000","Iowa","2001","Millions of chained 2012 dollars","6",120449.8
+"406","SAGDP1-1","19000","Iowa","2002","Millions of chained 2012 dollars","6",123298.2
+"407","SAGDP1-1","19000","Iowa","2003","Millions of chained 2012 dollars","6",128962.3
+"408","SAGDP1-1","19000","Iowa","2004","Millions of chained 2012 dollars","6",139978.1
+"409","SAGDP1-1","19000","Iowa","2005","Millions of chained 2012 dollars","6",144577.3
+"410","SAGDP1-1","19000","Iowa","2006","Millions of chained 2012 dollars","6",146555.3
+"411","SAGDP1-1","19000","Iowa","2007","Millions of chained 2012 dollars","6",152861.8
+"412","SAGDP1-1","19000","Iowa","2008","Millions of chained 2012 dollars","6",149881.4
+"413","SAGDP1-1","19000","Iowa","2009","Millions of chained 2012 dollars","6",146182.8
+"414","SAGDP1-1","19000","Iowa","2010","Millions of chained 2012 dollars","6",150148.4
+"415","SAGDP1-1","19000","Iowa","2011","Millions of chained 2012 dollars","6",152435.2
+"416","SAGDP1-1","19000","Iowa","2012","Millions of chained 2012 dollars","6",158538.4
+"417","SAGDP1-1","19000","Iowa","2013","Millions of chained 2012 dollars","6",158480.8
+"418","SAGDP1-1","19000","Iowa","2014","Millions of chained 2012 dollars","6",166619.2
+"419","SAGDP1-1","19000","Iowa","2015","Millions of chained 2012 dollars","6",171126.5
+"420","SAGDP1-1","19000","Iowa","2016","Millions of chained 2012 dollars","6",170389.1
+"421","SAGDP1-1","19000","Iowa","2017","Millions of chained 2012 dollars","6",170182.7
+"422","SAGDP1-1","19000","Iowa","2018","Millions of chained 2012 dollars","6",172929.4
+"423","SAGDP1-1","19000","Iowa","2019","Millions of chained 2012 dollars","6",172906
+"424","SAGDP1-1","19000","Iowa","2020","Millions of chained 2012 dollars","6",169420.3
+"425","SAGDP1-1","19000","Iowa","2021","Millions of chained 2012 dollars","6",180266.1
+"426","SAGDP1-1","20000","Kansas","1997","Millions of chained 2012 dollars","6",104575
+"427","SAGDP1-1","20000","Kansas","1998","Millions of chained 2012 dollars","6",108183.6
+"428","SAGDP1-1","20000","Kansas","1999","Millions of chained 2012 dollars","6",111005.5
+"429","SAGDP1-1","20000","Kansas","2000","Millions of chained 2012 dollars","6",114030.5
+"430","SAGDP1-1","20000","Kansas","2001","Millions of chained 2012 dollars","6",114327.7
+"431","SAGDP1-1","20000","Kansas","2002","Millions of chained 2012 dollars","6",116195
+"432","SAGDP1-1","20000","Kansas","2003","Millions of chained 2012 dollars","6",118192.5
+"433","SAGDP1-1","20000","Kansas","2004","Millions of chained 2012 dollars","6",119391.6
+"434","SAGDP1-1","20000","Kansas","2005","Millions of chained 2012 dollars","6",123949.8
+"435","SAGDP1-1","20000","Kansas","2006","Millions of chained 2012 dollars","6",130364.5
+"436","SAGDP1-1","20000","Kansas","2007","Millions of chained 2012 dollars","6",137093.6
+"437","SAGDP1-1","20000","Kansas","2008","Millions of chained 2012 dollars","6",139536.8
+"438","SAGDP1-1","20000","Kansas","2009","Millions of chained 2012 dollars","6",134227
+"439","SAGDP1-1","20000","Kansas","2010","Millions of chained 2012 dollars","6",135723.2
+"440","SAGDP1-1","20000","Kansas","2011","Millions of chained 2012 dollars","6",139579.4
+"441","SAGDP1-1","20000","Kansas","2012","Millions of chained 2012 dollars","6",141818.2
+"442","SAGDP1-1","20000","Kansas","2013","Millions of chained 2012 dollars","6",141723.4
+"443","SAGDP1-1","20000","Kansas","2014","Millions of chained 2012 dollars","6",145344.1
+"444","SAGDP1-1","20000","Kansas","2015","Millions of chained 2012 dollars","6",148810.5
+"445","SAGDP1-1","20000","Kansas","2016","Millions of chained 2012 dollars","6",153695.3
+"446","SAGDP1-1","20000","Kansas","2017","Millions of chained 2012 dollars","6",155407.9
+"447","SAGDP1-1","20000","Kansas","2018","Millions of chained 2012 dollars","6",158906.3
+"448","SAGDP1-1","20000","Kansas","2019","Millions of chained 2012 dollars","6",160182.3
+"449","SAGDP1-1","20000","Kansas","2020","Millions of chained 2012 dollars","6",156770.1
+"450","SAGDP1-1","20000","Kansas","2021","Millions of chained 2012 dollars","6",162734
+"451","SAGDP1-1","21000","Kentucky","1997","Millions of chained 2012 dollars","6",146522.8
+"452","SAGDP1-1","21000","Kentucky","1998","Millions of chained 2012 dollars","6",150774.4
+"453","SAGDP1-1","21000","Kentucky","1999","Millions of chained 2012 dollars","6",155611.5
+"454","SAGDP1-1","21000","Kentucky","2000","Millions of chained 2012 dollars","6",151495.1
+"455","SAGDP1-1","21000","Kentucky","2001","Millions of chained 2012 dollars","6",151834.3
+"456","SAGDP1-1","21000","Kentucky","2002","Millions of chained 2012 dollars","6",155643.9
+"457","SAGDP1-1","21000","Kentucky","2003","Millions of chained 2012 dollars","6",159990.8
+"458","SAGDP1-1","21000","Kentucky","2004","Millions of chained 2012 dollars","6",164650.2
+"459","SAGDP1-1","21000","Kentucky","2005","Millions of chained 2012 dollars","6",171180.3
+"460","SAGDP1-1","21000","Kentucky","2006","Millions of chained 2012 dollars","6",175657.7
+"461","SAGDP1-1","21000","Kentucky","2007","Millions of chained 2012 dollars","6",174407.3
+"462","SAGDP1-1","21000","Kentucky","2008","Millions of chained 2012 dollars","6",173810.1
+"463","SAGDP1-1","21000","Kentucky","2009","Millions of chained 2012 dollars","6",166704.2
+"464","SAGDP1-1","21000","Kentucky","2010","Millions of chained 2012 dollars","6",173780.1
+"465","SAGDP1-1","21000","Kentucky","2011","Millions of chained 2012 dollars","6",175745.3
+"466","SAGDP1-1","21000","Kentucky","2012","Millions of chained 2012 dollars","6",178143.7
+"467","SAGDP1-1","21000","Kentucky","2013","Millions of chained 2012 dollars","6",181505.9
+"468","SAGDP1-1","21000","Kentucky","2014","Millions of chained 2012 dollars","6",181471.8
+"469","SAGDP1-1","21000","Kentucky","2015","Millions of chained 2012 dollars","6",182916
+"470","SAGDP1-1","21000","Kentucky","2016","Millions of chained 2012 dollars","6",184115
+"471","SAGDP1-1","21000","Kentucky","2017","Millions of chained 2012 dollars","6",185866.5
+"472","SAGDP1-1","21000","Kentucky","2018","Millions of chained 2012 dollars","6",188083.6
+"473","SAGDP1-1","21000","Kentucky","2019","Millions of chained 2012 dollars","6",191355.5
+"474","SAGDP1-1","21000","Kentucky","2020","Millions of chained 2012 dollars","6",185535.1
+"475","SAGDP1-1","21000","Kentucky","2021","Millions of chained 2012 dollars","6",194340
+"476","SAGDP1-1","22000","Louisiana","1997","Millions of chained 2012 dollars","6",200862.9
+"477","SAGDP1-1","22000","Louisiana","1998","Millions of chained 2012 dollars","6",207611.6
+"478","SAGDP1-1","22000","Louisiana","1999","Millions of chained 2012 dollars","6",211952.5
+"479","SAGDP1-1","22000","Louisiana","2000","Millions of chained 2012 dollars","6",205722.6
+"480","SAGDP1-1","22000","Louisiana","2001","Millions of chained 2012 dollars","6",208617.8
+"481","SAGDP1-1","22000","Louisiana","2002","Millions of chained 2012 dollars","6",213079.4
+"482","SAGDP1-1","22000","Louisiana","2003","Millions of chained 2012 dollars","6",221774.4
+"483","SAGDP1-1","22000","Louisiana","2004","Millions of chained 2012 dollars","6",232712.8
+"484","SAGDP1-1","22000","Louisiana","2005","Millions of chained 2012 dollars","6",247773.2
+"485","SAGDP1-1","22000","Louisiana","2006","Millions of chained 2012 dollars","6",245500.2
+"486","SAGDP1-1","22000","Louisiana","2007","Millions of chained 2012 dollars","6",230367.7
+"487","SAGDP1-1","22000","Louisiana","2008","Millions of chained 2012 dollars","6",232150.7
+"488","SAGDP1-1","22000","Louisiana","2009","Millions of chained 2012 dollars","6",236411
+"489","SAGDP1-1","22000","Louisiana","2010","Millions of chained 2012 dollars","6",246836.2
+"490","SAGDP1-1","22000","Louisiana","2011","Millions of chained 2012 dollars","6",234975.7
+"491","SAGDP1-1","22000","Louisiana","2012","Millions of chained 2012 dollars","6",235384.7
+"492","SAGDP1-1","22000","Louisiana","2013","Millions of chained 2012 dollars","6",228452.8
+"493","SAGDP1-1","22000","Louisiana","2014","Millions of chained 2012 dollars","6",235355.1
+"494","SAGDP1-1","22000","Louisiana","2015","Millions of chained 2012 dollars","6",233016
+"495","SAGDP1-1","22000","Louisiana","2016","Millions of chained 2012 dollars","6",228428.5
+"496","SAGDP1-1","22000","Louisiana","2017","Millions of chained 2012 dollars","6",233774.4
+"497","SAGDP1-1","22000","Louisiana","2018","Millions of chained 2012 dollars","6",236265.6
+"498","SAGDP1-1","22000","Louisiana","2019","Millions of chained 2012 dollars","6",235947.6
+"499","SAGDP1-1","22000","Louisiana","2020","Millions of chained 2012 dollars","6",222296.8
+"500","SAGDP1-1","22000","Louisiana","2021","Millions of chained 2012 dollars","6",227734.6
+"501","SAGDP1-1","23000","Maine","1997","Millions of chained 2012 dollars","6",42942.2
+"502","SAGDP1-1","23000","Maine","1998","Millions of chained 2012 dollars","6",44140.2
+"503","SAGDP1-1","23000","Maine","1999","Millions of chained 2012 dollars","6",46351.4
+"504","SAGDP1-1","23000","Maine","2000","Millions of chained 2012 dollars","6",48490.2
+"505","SAGDP1-1","23000","Maine","2001","Millions of chained 2012 dollars","6",49471
+"506","SAGDP1-1","23000","Maine","2002","Millions of chained 2012 dollars","6",50910.4
+"507","SAGDP1-1","23000","Maine","2003","Millions of chained 2012 dollars","6",52209.8
+"508","SAGDP1-1","23000","Maine","2004","Millions of chained 2012 dollars","6",54256
+"509","SAGDP1-1","23000","Maine","2005","Millions of chained 2012 dollars","6",54926.9
+"510","SAGDP1-1","23000","Maine","2006","Millions of chained 2012 dollars","6",55448.4
+"511","SAGDP1-1","23000","Maine","2007","Millions of chained 2012 dollars","6",55359.9
+"512","SAGDP1-1","23000","Maine","2008","Millions of chained 2012 dollars","6",54653.9
+"513","SAGDP1-1","23000","Maine","2009","Millions of chained 2012 dollars","6",53630.1
+"514","SAGDP1-1","23000","Maine","2010","Millions of chained 2012 dollars","6",54305
+"515","SAGDP1-1","23000","Maine","2011","Millions of chained 2012 dollars","6",53789
+"516","SAGDP1-1","23000","Maine","2012","Millions of chained 2012 dollars","6",53679.7
+"517","SAGDP1-1","23000","Maine","2013","Millions of chained 2012 dollars","6",53239.1
+"518","SAGDP1-1","23000","Maine","2014","Millions of chained 2012 dollars","6",54037.9
+"519","SAGDP1-1","23000","Maine","2015","Millions of chained 2012 dollars","6",54425.8
+"520","SAGDP1-1","23000","Maine","2016","Millions of chained 2012 dollars","6",55565.4
+"521","SAGDP1-1","23000","Maine","2017","Millions of chained 2012 dollars","6",56662.6
+"522","SAGDP1-1","23000","Maine","2018","Millions of chained 2012 dollars","6",58178.8
+"523","SAGDP1-1","23000","Maine","2019","Millions of chained 2012 dollars","6",59433.9
+"524","SAGDP1-1","23000","Maine","2020","Millions of chained 2012 dollars","6",58757.3
+"525","SAGDP1-1","23000","Maine","2021","Millions of chained 2012 dollars","6",61815.1
+"526","SAGDP1-1","24000","Maryland","1997","Millions of chained 2012 dollars","6",221211.6
+"527","SAGDP1-1","24000","Maryland","1998","Millions of chained 2012 dollars","6",231806.4
+"528","SAGDP1-1","24000","Maryland","1999","Millions of chained 2012 dollars","6",240946.2
+"529","SAGDP1-1","24000","Maryland","2000","Millions of chained 2012 dollars","6",250771.7
+"530","SAGDP1-1","24000","Maryland","2001","Millions of chained 2012 dollars","6",261532.9
+"531","SAGDP1-1","24000","Maryland","2002","Millions of chained 2012 dollars","6",270468.4
+"532","SAGDP1-1","24000","Maryland","2003","Millions of chained 2012 dollars","6",278332
+"533","SAGDP1-1","24000","Maryland","2004","Millions of chained 2012 dollars","6",290284.6
+"534","SAGDP1-1","24000","Maryland","2005","Millions of chained 2012 dollars","6",301660.6
+"535","SAGDP1-1","24000","Maryland","2006","Millions of chained 2012 dollars","6",305794.1
+"536","SAGDP1-1","24000","Maryland","2007","Millions of chained 2012 dollars","6",306755.8
+"537","SAGDP1-1","24000","Maryland","2008","Millions of chained 2012 dollars","6",314757.6
+"538","SAGDP1-1","24000","Maryland","2009","Millions of chained 2012 dollars","6",311342.2
+"539","SAGDP1-1","24000","Maryland","2010","Millions of chained 2012 dollars","6",325369.7
+"540","SAGDP1-1","24000","Maryland","2011","Millions of chained 2012 dollars","6",332437.2
+"541","SAGDP1-1","24000","Maryland","2012","Millions of chained 2012 dollars","6",332523.5
+"542","SAGDP1-1","24000","Maryland","2013","Millions of chained 2012 dollars","6",334268.9
+"543","SAGDP1-1","24000","Maryland","2014","Millions of chained 2012 dollars","6",339604.6
+"544","SAGDP1-1","24000","Maryland","2015","Millions of chained 2012 dollars","6",348151.8
+"545","SAGDP1-1","24000","Maryland","2016","Millions of chained 2012 dollars","6",360082
+"546","SAGDP1-1","24000","Maryland","2017","Millions of chained 2012 dollars","6",366680.5
+"547","SAGDP1-1","24000","Maryland","2018","Millions of chained 2012 dollars","6",368643.9
+"548","SAGDP1-1","24000","Maryland","2019","Millions of chained 2012 dollars","6",369623.9
+"549","SAGDP1-1","24000","Maryland","2020","Millions of chained 2012 dollars","6",353052.5
+"550","SAGDP1-1","24000","Maryland","2021","Millions of chained 2012 dollars","6",364242.4
+"551","SAGDP1-1","25000","Massachusetts","1997","Millions of chained 2012 dollars","6",302724.1
+"552","SAGDP1-1","25000","Massachusetts","1998","Millions of chained 2012 dollars","6",315040.3
+"553","SAGDP1-1","25000","Massachusetts","1999","Millions of chained 2012 dollars","6",331602.3
+"554","SAGDP1-1","25000","Massachusetts","2000","Millions of chained 2012 dollars","6",358121.5
+"555","SAGDP1-1","25000","Massachusetts","2001","Millions of chained 2012 dollars","6",362663.8
+"556","SAGDP1-1","25000","Massachusetts","2002","Millions of chained 2012 dollars","6",362581.6
+"557","SAGDP1-1","25000","Massachusetts","2003","Millions of chained 2012 dollars","6",369007.4
+"558","SAGDP1-1","25000","Massachusetts","2004","Millions of chained 2012 dollars","6",379086.1
+"559","SAGDP1-1","25000","Massachusetts","2005","Millions of chained 2012 dollars","6",386803.5
+"560","SAGDP1-1","25000","Massachusetts","2006","Millions of chained 2012 dollars","6",395535.8
+"561","SAGDP1-1","25000","Massachusetts","2007","Millions of chained 2012 dollars","6",406421.2
+"562","SAGDP1-1","25000","Massachusetts","2008","Millions of chained 2012 dollars","6",414919.9
+"563","SAGDP1-1","25000","Massachusetts","2009","Millions of chained 2012 dollars","6",407219.6
+"564","SAGDP1-1","25000","Massachusetts","2010","Millions of chained 2012 dollars","6",425792.7
+"565","SAGDP1-1","25000","Massachusetts","2011","Millions of chained 2012 dollars","6",434494.5
+"566","SAGDP1-1","25000","Massachusetts","2012","Millions of chained 2012 dollars","6",442916.9
+"567","SAGDP1-1","25000","Massachusetts","2013","Millions of chained 2012 dollars","6",444874
+"568","SAGDP1-1","25000","Massachusetts","2014","Millions of chained 2012 dollars","6",451568.9
+"569","SAGDP1-1","25000","Massachusetts","2015","Millions of chained 2012 dollars","6",468060.9
+"570","SAGDP1-1","25000","Massachusetts","2016","Millions of chained 2012 dollars","6",475349
+"571","SAGDP1-1","25000","Massachusetts","2017","Millions of chained 2012 dollars","6",484413.8
+"572","SAGDP1-1","25000","Massachusetts","2018","Millions of chained 2012 dollars","6",502954.3
+"573","SAGDP1-1","25000","Massachusetts","2019","Millions of chained 2012 dollars","6",517727.1
+"574","SAGDP1-1","25000","Massachusetts","2020","Millions of chained 2012 dollars","6",498577
+"575","SAGDP1-1","25000","Massachusetts","2021","Millions of chained 2012 dollars","6",530505.1
+"576","SAGDP1-1","26000","Michigan","1997","Millions of chained 2012 dollars","6",396974.5
+"577","SAGDP1-1","26000","Michigan","1998","Millions of chained 2012 dollars","6",406051.6
+"578","SAGDP1-1","26000","Michigan","1999","Millions of chained 2012 dollars","6",429936.2
+"579","SAGDP1-1","26000","Michigan","2000","Millions of chained 2012 dollars","6",438463.8
+"580","SAGDP1-1","26000","Michigan","2001","Millions of chained 2012 dollars","6",425103.2
+"581","SAGDP1-1","26000","Michigan","2002","Millions of chained 2012 dollars","6",436802.2
+"582","SAGDP1-1","26000","Michigan","2003","Millions of chained 2012 dollars","6",443652.2
+"583","SAGDP1-1","26000","Michigan","2004","Millions of chained 2012 dollars","6",448888.3
+"584","SAGDP1-1","26000","Michigan","2005","Millions of chained 2012 dollars","6",457137.7
+"585","SAGDP1-1","26000","Michigan","2006","Millions of chained 2012 dollars","6",449853.5
+"586","SAGDP1-1","26000","Michigan","2007","Millions of chained 2012 dollars","6",446943.2
+"587","SAGDP1-1","26000","Michigan","2008","Millions of chained 2012 dollars","6",420974
+"588","SAGDP1-1","26000","Michigan","2009","Millions of chained 2012 dollars","6",383140.1
+"589","SAGDP1-1","26000","Michigan","2010","Millions of chained 2012 dollars","6",404216.9
+"590","SAGDP1-1","26000","Michigan","2011","Millions of chained 2012 dollars","6",414834.4
+"591","SAGDP1-1","26000","Michigan","2012","Millions of chained 2012 dollars","6",422691.2
+"592","SAGDP1-1","26000","Michigan","2013","Millions of chained 2012 dollars","6",428737.6
+"593","SAGDP1-1","26000","Michigan","2014","Millions of chained 2012 dollars","6",434313.2
+"594","SAGDP1-1","26000","Michigan","2015","Millions of chained 2012 dollars","6",443831.2
+"595","SAGDP1-1","26000","Michigan","2016","Millions of chained 2012 dollars","6",452325.2
+"596","SAGDP1-1","26000","Michigan","2017","Millions of chained 2012 dollars","6",457764.9
+"597","SAGDP1-1","26000","Michigan","2018","Millions of chained 2012 dollars","6",467830.4
+"598","SAGDP1-1","26000","Michigan","2019","Millions of chained 2012 dollars","6",467300.2
+"599","SAGDP1-1","26000","Michigan","2020","Millions of chained 2012 dollars","6",445682.6
+"600","SAGDP1-1","26000","Michigan","2021","Millions of chained 2012 dollars","6",473333.1
+"601","SAGDP1-1","27000","Minnesota","1997","Millions of chained 2012 dollars","6",212378.4
+"602","SAGDP1-1","27000","Minnesota","1998","Millions of chained 2012 dollars","6",223654.5
+"603","SAGDP1-1","27000","Minnesota","1999","Millions of chained 2012 dollars","6",232068.1
+"604","SAGDP1-1","27000","Minnesota","2000","Millions of chained 2012 dollars","6",247802.6
+"605","SAGDP1-1","27000","Minnesota","2001","Millions of chained 2012 dollars","6",247599.4
+"606","SAGDP1-1","27000","Minnesota","2002","Millions of chained 2012 dollars","6",253478.4
+"607","SAGDP1-1","27000","Minnesota","2003","Millions of chained 2012 dollars","6",264165.9
+"608","SAGDP1-1","27000","Minnesota","2004","Millions of chained 2012 dollars","6",275560.1
+"609","SAGDP1-1","27000","Minnesota","2005","Millions of chained 2012 dollars","6",284636.9
+"610","SAGDP1-1","27000","Minnesota","2006","Millions of chained 2012 dollars","6",284382
+"611","SAGDP1-1","27000","Minnesota","2007","Millions of chained 2012 dollars","6",286299.2
+"612","SAGDP1-1","27000","Minnesota","2008","Millions of chained 2012 dollars","6",288420.6
+"613","SAGDP1-1","27000","Minnesota","2009","Millions of chained 2012 dollars","6",277494.1
+"614","SAGDP1-1","27000","Minnesota","2010","Millions of chained 2012 dollars","6",287140.1
+"615","SAGDP1-1","27000","Minnesota","2011","Millions of chained 2012 dollars","6",293783.2
+"616","SAGDP1-1","27000","Minnesota","2012","Millions of chained 2012 dollars","6",298328.3
+"617","SAGDP1-1","27000","Minnesota","2013","Millions of chained 2012 dollars","6",305486.4
+"618","SAGDP1-1","27000","Minnesota","2014","Millions of chained 2012 dollars","6",314091.3
+"619","SAGDP1-1","27000","Minnesota","2015","Millions of chained 2012 dollars","6",318913.2
+"620","SAGDP1-1","27000","Minnesota","2016","Millions of chained 2012 dollars","6",324030.3
+"621","SAGDP1-1","27000","Minnesota","2017","Millions of chained 2012 dollars","6",328696.1
+"622","SAGDP1-1","27000","Minnesota","2018","Millions of chained 2012 dollars","6",338524.5
+"623","SAGDP1-1","27000","Minnesota","2019","Millions of chained 2012 dollars","6",340130.4
+"624","SAGDP1-1","27000","Minnesota","2020","Millions of chained 2012 dollars","6",326635.6
+"625","SAGDP1-1","27000","Minnesota","2021","Millions of chained 2012 dollars","6",345172
+"626","SAGDP1-1","28000","Mississippi","1997","Millions of chained 2012 dollars","6",83153.1
+"627","SAGDP1-1","28000","Mississippi","1998","Millions of chained 2012 dollars","6",85193.8
+"628","SAGDP1-1","28000","Mississippi","1999","Millions of chained 2012 dollars","6",87638
+"629","SAGDP1-1","28000","Mississippi","2000","Millions of chained 2012 dollars","6",88077.5
+"630","SAGDP1-1","28000","Mississippi","2001","Millions of chained 2012 dollars","6",87309.5
+"631","SAGDP1-1","28000","Mississippi","2002","Millions of chained 2012 dollars","6",88569.4
+"632","SAGDP1-1","28000","Mississippi","2003","Millions of chained 2012 dollars","6",92354.7
+"633","SAGDP1-1","28000","Mississippi","2004","Millions of chained 2012 dollars","6",94482.6
+"634","SAGDP1-1","28000","Mississippi","2005","Millions of chained 2012 dollars","6",96820.7
+"635","SAGDP1-1","28000","Mississippi","2006","Millions of chained 2012 dollars","6",99005.8
+"636","SAGDP1-1","28000","Mississippi","2007","Millions of chained 2012 dollars","6",100211.8
+"637","SAGDP1-1","28000","Mississippi","2008","Millions of chained 2012 dollars","6",101777.6
+"638","SAGDP1-1","28000","Mississippi","2009","Millions of chained 2012 dollars","6",98000.6
+"639","SAGDP1-1","28000","Mississippi","2010","Millions of chained 2012 dollars","6",98601.1
+"640","SAGDP1-1","28000","Mississippi","2011","Millions of chained 2012 dollars","6",98515.8
+"641","SAGDP1-1","28000","Mississippi","2012","Millions of chained 2012 dollars","6",100448.4
+"642","SAGDP1-1","28000","Mississippi","2013","Millions of chained 2012 dollars","6",100331.2
+"643","SAGDP1-1","28000","Mississippi","2014","Millions of chained 2012 dollars","6",100283.6
+"644","SAGDP1-1","28000","Mississippi","2015","Millions of chained 2012 dollars","6",100482.4
+"645","SAGDP1-1","28000","Mississippi","2016","Millions of chained 2012 dollars","6",101255.3
+"646","SAGDP1-1","28000","Mississippi","2017","Millions of chained 2012 dollars","6",101642.1
+"647","SAGDP1-1","28000","Mississippi","2018","Millions of chained 2012 dollars","6",101131.5
+"648","SAGDP1-1","28000","Mississippi","2019","Millions of chained 2012 dollars","6",101525.1
+"649","SAGDP1-1","28000","Mississippi","2020","Millions of chained 2012 dollars","6",99667.5
+"650","SAGDP1-1","28000","Mississippi","2021","Millions of chained 2012 dollars","6",104009.8
+"651","SAGDP1-1","29000","Missouri","1997","Millions of chained 2012 dollars","6",227796.8
+"652","SAGDP1-1","29000","Missouri","1998","Millions of chained 2012 dollars","6",231693.3
+"653","SAGDP1-1","29000","Missouri","1999","Millions of chained 2012 dollars","6",238452
+"654","SAGDP1-1","29000","Missouri","2000","Millions of chained 2012 dollars","6",244705.9
+"655","SAGDP1-1","29000","Missouri","2001","Millions of chained 2012 dollars","6",243060.4
+"656","SAGDP1-1","29000","Missouri","2002","Millions of chained 2012 dollars","6",247437.1
+"657","SAGDP1-1","29000","Missouri","2003","Millions of chained 2012 dollars","6",252677.3
+"658","SAGDP1-1","29000","Missouri","2004","Millions of chained 2012 dollars","6",259741.4
+"659","SAGDP1-1","29000","Missouri","2005","Millions of chained 2012 dollars","6",265735.1
+"660","SAGDP1-1","29000","Missouri","2006","Millions of chained 2012 dollars","6",267221.1
+"661","SAGDP1-1","29000","Missouri","2007","Millions of chained 2012 dollars","6",267691.2
+"662","SAGDP1-1","29000","Missouri","2008","Millions of chained 2012 dollars","6",273436.2
+"663","SAGDP1-1","29000","Missouri","2009","Millions of chained 2012 dollars","6",266834.9
+"664","SAGDP1-1","29000","Missouri","2010","Millions of chained 2012 dollars","6",270732.9
+"665","SAGDP1-1","29000","Missouri","2011","Millions of chained 2012 dollars","6",268533.8
+"666","SAGDP1-1","29000","Missouri","2012","Millions of chained 2012 dollars","6",271535.1
+"667","SAGDP1-1","29000","Missouri","2013","Millions of chained 2012 dollars","6",274599.3
+"668","SAGDP1-1","29000","Missouri","2014","Millions of chained 2012 dollars","6",276080.7
+"669","SAGDP1-1","29000","Missouri","2015","Millions of chained 2012 dollars","6",279020.8
+"670","SAGDP1-1","29000","Missouri","2016","Millions of chained 2012 dollars","6",279109.2
+"671","SAGDP1-1","29000","Missouri","2017","Millions of chained 2012 dollars","6",282174.2
+"672","SAGDP1-1","29000","Missouri","2018","Millions of chained 2012 dollars","6",285995.1
+"673","SAGDP1-1","29000","Missouri","2019","Millions of chained 2012 dollars","6",290842
+"674","SAGDP1-1","29000","Missouri","2020","Millions of chained 2012 dollars","6",282654.2
+"675","SAGDP1-1","29000","Missouri","2021","Millions of chained 2012 dollars","6",295726
+"676","SAGDP1-1","30000","Montana","1997","Millions of chained 2012 dollars","6",29047
+"677","SAGDP1-1","30000","Montana","1998","Millions of chained 2012 dollars","6",30342.4
+"678","SAGDP1-1","30000","Montana","1999","Millions of chained 2012 dollars","6",30461.3
+"679","SAGDP1-1","30000","Montana","2000","Millions of chained 2012 dollars","6",31241.1
+"680","SAGDP1-1","30000","Montana","2001","Millions of chained 2012 dollars","6",31532.6
+"681","SAGDP1-1","30000","Montana","2002","Millions of chained 2012 dollars","6",32503.7
+"682","SAGDP1-1","30000","Montana","2003","Millions of chained 2012 dollars","6",33810.5
+"683","SAGDP1-1","30000","Montana","2004","Millions of chained 2012 dollars","6",35528.6
+"684","SAGDP1-1","30000","Montana","2005","Millions of chained 2012 dollars","6",37373.9
+"685","SAGDP1-1","30000","Montana","2006","Millions of chained 2012 dollars","6",38577.6
+"686","SAGDP1-1","30000","Montana","2007","Millions of chained 2012 dollars","6",40438.3
+"687","SAGDP1-1","30000","Montana","2008","Millions of chained 2012 dollars","6",40471.1
+"688","SAGDP1-1","30000","Montana","2009","Millions of chained 2012 dollars","6",39513.4
+"689","SAGDP1-1","30000","Montana","2010","Millions of chained 2012 dollars","6",40793.7
+"690","SAGDP1-1","30000","Montana","2011","Millions of chained 2012 dollars","6",41875.7
+"691","SAGDP1-1","30000","Montana","2012","Millions of chained 2012 dollars","6",42340.9
+"692","SAGDP1-1","30000","Montana","2013","Millions of chained 2012 dollars","6",42968.2
+"693","SAGDP1-1","30000","Montana","2014","Millions of chained 2012 dollars","6",43829.1
+"694","SAGDP1-1","30000","Montana","2015","Millions of chained 2012 dollars","6",45395.7
+"695","SAGDP1-1","30000","Montana","2016","Millions of chained 2012 dollars","6",44436.8
+"696","SAGDP1-1","30000","Montana","2017","Millions of chained 2012 dollars","6",45910.5
+"697","SAGDP1-1","30000","Montana","2018","Millions of chained 2012 dollars","6",46614.1
+"698","SAGDP1-1","30000","Montana","2019","Millions of chained 2012 dollars","6",46788
+"699","SAGDP1-1","30000","Montana","2020","Millions of chained 2012 dollars","6",46158.1
+"700","SAGDP1-1","30000","Montana","2021","Millions of chained 2012 dollars","6",49263.7
+"701","SAGDP1-1","31000","Nebraska","1997","Millions of chained 2012 dollars","6",70412.5
+"702","SAGDP1-1","31000","Nebraska","1998","Millions of chained 2012 dollars","6",72089.6
+"703","SAGDP1-1","31000","Nebraska","1999","Millions of chained 2012 dollars","6",73625.7
+"704","SAGDP1-1","31000","Nebraska","2000","Millions of chained 2012 dollars","6",76368.1
+"705","SAGDP1-1","31000","Nebraska","2001","Millions of chained 2012 dollars","6",78180.9
+"706","SAGDP1-1","31000","Nebraska","2002","Millions of chained 2012 dollars","6",79179.8
+"707","SAGDP1-1","31000","Nebraska","2003","Millions of chained 2012 dollars","6",83773.3
+"708","SAGDP1-1","31000","Nebraska","2004","Millions of chained 2012 dollars","6",85987.1
+"709","SAGDP1-1","31000","Nebraska","2005","Millions of chained 2012 dollars","6",89309.1
+"710","SAGDP1-1","31000","Nebraska","2006","Millions of chained 2012 dollars","6",91832.7
+"711","SAGDP1-1","31000","Nebraska","2007","Millions of chained 2012 dollars","6",93910.8
+"712","SAGDP1-1","31000","Nebraska","2008","Millions of chained 2012 dollars","6",93840.5
+"713","SAGDP1-1","31000","Nebraska","2009","Millions of chained 2012 dollars","6",93977.6
+"714","SAGDP1-1","31000","Nebraska","2010","Millions of chained 2012 dollars","6",97466.1
+"715","SAGDP1-1","31000","Nebraska","2011","Millions of chained 2012 dollars","6",102587.4
+"716","SAGDP1-1","31000","Nebraska","2012","Millions of chained 2012 dollars","6",102725.9
+"717","SAGDP1-1","31000","Nebraska","2013","Millions of chained 2012 dollars","6",104680
+"718","SAGDP1-1","31000","Nebraska","2014","Millions of chained 2012 dollars","6",107936.8
+"719","SAGDP1-1","31000","Nebraska","2015","Millions of chained 2012 dollars","6",111401.5
+"720","SAGDP1-1","31000","Nebraska","2016","Millions of chained 2012 dollars","6",112611.5
+"721","SAGDP1-1","31000","Nebraska","2017","Millions of chained 2012 dollars","6",114480.9
+"722","SAGDP1-1","31000","Nebraska","2018","Millions of chained 2012 dollars","6",116904.4
+"723","SAGDP1-1","31000","Nebraska","2019","Millions of chained 2012 dollars","6",118286.5
+"724","SAGDP1-1","31000","Nebraska","2020","Millions of chained 2012 dollars","6",117664.9
+"725","SAGDP1-1","31000","Nebraska","2021","Millions of chained 2012 dollars","6",123897
+"726","SAGDP1-1","32000","Nevada","1997","Millions of chained 2012 dollars","6",89895.1
+"727","SAGDP1-1","32000","Nevada","1998","Millions of chained 2012 dollars","6",94672.8
+"728","SAGDP1-1","32000","Nevada","1999","Millions of chained 2012 dollars","6",101394.7
+"729","SAGDP1-1","32000","Nevada","2000","Millions of chained 2012 dollars","6",105635.4
+"730","SAGDP1-1","32000","Nevada","2001","Millions of chained 2012 dollars","6",106635.3
+"731","SAGDP1-1","32000","Nevada","2002","Millions of chained 2012 dollars","6",110448.6
+"732","SAGDP1-1","32000","Nevada","2003","Millions of chained 2012 dollars","6",115275.4
+"733","SAGDP1-1","32000","Nevada","2004","Millions of chained 2012 dollars","6",127325.6
+"734","SAGDP1-1","32000","Nevada","2005","Millions of chained 2012 dollars","6",137508.8
+"735","SAGDP1-1","32000","Nevada","2006","Millions of chained 2012 dollars","6",142967.1
+"736","SAGDP1-1","32000","Nevada","2007","Millions of chained 2012 dollars","6",144107.1
+"737","SAGDP1-1","32000","Nevada","2008","Millions of chained 2012 dollars","6",139954.2
+"738","SAGDP1-1","32000","Nevada","2009","Millions of chained 2012 dollars","6",128241.3
+"739","SAGDP1-1","32000","Nevada","2010","Millions of chained 2012 dollars","6",129828.4
+"740","SAGDP1-1","32000","Nevada","2011","Millions of chained 2012 dollars","6",130697.9
+"741","SAGDP1-1","32000","Nevada","2012","Millions of chained 2012 dollars","6",129312.9
+"742","SAGDP1-1","32000","Nevada","2013","Millions of chained 2012 dollars","6",129720.9
+"743","SAGDP1-1","32000","Nevada","2014","Millions of chained 2012 dollars","6",130897.4
+"744","SAGDP1-1","32000","Nevada","2015","Millions of chained 2012 dollars","6",136347.4
+"745","SAGDP1-1","32000","Nevada","2016","Millions of chained 2012 dollars","6",140081.2
+"746","SAGDP1-1","32000","Nevada","2017","Millions of chained 2012 dollars","6",145699.9
+"747","SAGDP1-1","32000","Nevada","2018","Millions of chained 2012 dollars","6",150711.6
+"748","SAGDP1-1","32000","Nevada","2019","Millions of chained 2012 dollars","6",156828.8
+"749","SAGDP1-1","32000","Nevada","2020","Millions of chained 2012 dollars","6",145219.1
+"750","SAGDP1-1","32000","Nevada","2021","Millions of chained 2012 dollars","6",155509.6
+"751","SAGDP1-1","33000","New Hampshire","1997","Millions of chained 2012 dollars","6",48359.7
+"752","SAGDP1-1","33000","New Hampshire","1998","Millions of chained 2012 dollars","6",51538.7
+"753","SAGDP1-1","33000","New Hampshire","1999","Millions of chained 2012 dollars","6",53084.5
+"754","SAGDP1-1","33000","New Hampshire","2000","Millions of chained 2012 dollars","6",56779.4
+"755","SAGDP1-1","33000","New Hampshire","2001","Millions of chained 2012 dollars","6",57632.6
+"756","SAGDP1-1","33000","New Hampshire","2002","Millions of chained 2012 dollars","6",59474.6
+"757","SAGDP1-1","33000","New Hampshire","2003","Millions of chained 2012 dollars","6",61892.7
+"758","SAGDP1-1","33000","New Hampshire","2004","Millions of chained 2012 dollars","6",64408.6
+"759","SAGDP1-1","33000","New Hampshire","2005","Millions of chained 2012 dollars","6",65034.4
+"760","SAGDP1-1","33000","New Hampshire","2006","Millions of chained 2012 dollars","6",66628.2
+"761","SAGDP1-1","33000","New Hampshire","2007","Millions of chained 2012 dollars","6",66853.6
+"762","SAGDP1-1","33000","New Hampshire","2008","Millions of chained 2012 dollars","6",65854.1
+"763","SAGDP1-1","33000","New Hampshire","2009","Millions of chained 2012 dollars","6",65023.4
+"764","SAGDP1-1","33000","New Hampshire","2010","Millions of chained 2012 dollars","6",67125.8
+"765","SAGDP1-1","33000","New Hampshire","2011","Millions of chained 2012 dollars","6",67559.1
+"766","SAGDP1-1","33000","New Hampshire","2012","Millions of chained 2012 dollars","6",68498.1
+"767","SAGDP1-1","33000","New Hampshire","2013","Millions of chained 2012 dollars","6",69080.3
+"768","SAGDP1-1","33000","New Hampshire","2014","Millions of chained 2012 dollars","6",70213.7
+"769","SAGDP1-1","33000","New Hampshire","2015","Millions of chained 2012 dollars","6",72042.4
+"770","SAGDP1-1","33000","New Hampshire","2016","Millions of chained 2012 dollars","6",73572.2
+"771","SAGDP1-1","33000","New Hampshire","2017","Millions of chained 2012 dollars","6",74107.3
+"772","SAGDP1-1","33000","New Hampshire","2018","Millions of chained 2012 dollars","6",75534.6
+"773","SAGDP1-1","33000","New Hampshire","2019","Millions of chained 2012 dollars","6",77126.5
+"774","SAGDP1-1","33000","New Hampshire","2020","Millions of chained 2012 dollars","6",75543.1
+"775","SAGDP1-1","33000","New Hampshire","2021","Millions of chained 2012 dollars","6",81931.8
+"776","SAGDP1-1","34000","New Jersey","1997","Millions of chained 2012 dollars","6",426002.8
+"777","SAGDP1-1","34000","New Jersey","1998","Millions of chained 2012 dollars","6",433564
+"778","SAGDP1-1","34000","New Jersey","1999","Millions of chained 2012 dollars","6",447872.1
+"779","SAGDP1-1","34000","New Jersey","2000","Millions of chained 2012 dollars","6",471426.9
+"780","SAGDP1-1","34000","New Jersey","2001","Millions of chained 2012 dollars","6",476616.7
+"781","SAGDP1-1","34000","New Jersey","2002","Millions of chained 2012 dollars","6",484657.1
+"782","SAGDP1-1","34000","New Jersey","2003","Millions of chained 2012 dollars","6",494703.5
+"783","SAGDP1-1","34000","New Jersey","2004","Millions of chained 2012 dollars","6",498245.2
+"784","SAGDP1-1","34000","New Jersey","2005","Millions of chained 2012 dollars","6",507894.7
+"785","SAGDP1-1","34000","New Jersey","2006","Millions of chained 2012 dollars","6",516681.4
+"786","SAGDP1-1","34000","New Jersey","2007","Millions of chained 2012 dollars","6",520898.3
+"787","SAGDP1-1","34000","New Jersey","2008","Millions of chained 2012 dollars","6",534501.4
+"788","SAGDP1-1","34000","New Jersey","2009","Millions of chained 2012 dollars","6",506850.7
+"789","SAGDP1-1","34000","New Jersey","2010","Millions of chained 2012 dollars","6",513917.9
+"790","SAGDP1-1","34000","New Jersey","2011","Millions of chained 2012 dollars","6",507604
+"791","SAGDP1-1","34000","New Jersey","2012","Millions of chained 2012 dollars","6",517195.9
+"792","SAGDP1-1","34000","New Jersey","2013","Millions of chained 2012 dollars","6",523725.8
+"793","SAGDP1-1","34000","New Jersey","2014","Millions of chained 2012 dollars","6",522166.4
+"794","SAGDP1-1","34000","New Jersey","2015","Millions of chained 2012 dollars","6",529953.7
+"795","SAGDP1-1","34000","New Jersey","2016","Millions of chained 2012 dollars","6",535055.3
+"796","SAGDP1-1","34000","New Jersey","2017","Millions of chained 2012 dollars","6",537045.1
+"797","SAGDP1-1","34000","New Jersey","2018","Millions of chained 2012 dollars","6",550064.5
+"798","SAGDP1-1","34000","New Jersey","2019","Millions of chained 2012 dollars","6",561842.8
+"799","SAGDP1-1","34000","New Jersey","2020","Millions of chained 2012 dollars","6",535794.9
+"800","SAGDP1-1","34000","New Jersey","2021","Millions of chained 2012 dollars","6",561782
+"801","SAGDP1-1","35000","New Mexico","1997","Millions of chained 2012 dollars","6",67285.2
+"802","SAGDP1-1","35000","New Mexico","1998","Millions of chained 2012 dollars","6",66944
+"803","SAGDP1-1","35000","New Mexico","1999","Millions of chained 2012 dollars","6",70487.9
+"804","SAGDP1-1","35000","New Mexico","2000","Millions of chained 2012 dollars","6",71652.8
+"805","SAGDP1-1","35000","New Mexico","2001","Millions of chained 2012 dollars","6",71730.5
+"806","SAGDP1-1","35000","New Mexico","2002","Millions of chained 2012 dollars","6",73909.6
+"807","SAGDP1-1","35000","New Mexico","2003","Millions of chained 2012 dollars","6",76767.5
+"808","SAGDP1-1","35000","New Mexico","2004","Millions of chained 2012 dollars","6",83038.7
+"809","SAGDP1-1","35000","New Mexico","2005","Millions of chained 2012 dollars","6",84034.4
+"810","SAGDP1-1","35000","New Mexico","2006","Millions of chained 2012 dollars","6",86058.4
+"811","SAGDP1-1","35000","New Mexico","2007","Millions of chained 2012 dollars","6",86738.8
+"812","SAGDP1-1","35000","New Mexico","2008","Millions of chained 2012 dollars","6",86965.2
+"813","SAGDP1-1","35000","New Mexico","2009","Millions of chained 2012 dollars","6",88069.9
+"814","SAGDP1-1","35000","New Mexico","2010","Millions of chained 2012 dollars","6",87610.3
+"815","SAGDP1-1","35000","New Mexico","2011","Millions of chained 2012 dollars","6",87592.9
+"816","SAGDP1-1","35000","New Mexico","2012","Millions of chained 2012 dollars","6",87925.2
+"817","SAGDP1-1","35000","New Mexico","2013","Millions of chained 2012 dollars","6",86856.6
+"818","SAGDP1-1","35000","New Mexico","2014","Millions of chained 2012 dollars","6",88991.2
+"819","SAGDP1-1","35000","New Mexico","2015","Millions of chained 2012 dollars","6",89701.3
+"820","SAGDP1-1","35000","New Mexico","2016","Millions of chained 2012 dollars","6",89151.4
+"821","SAGDP1-1","35000","New Mexico","2017","Millions of chained 2012 dollars","6",89032
+"822","SAGDP1-1","35000","New Mexico","2018","Millions of chained 2012 dollars","6",90999.4
+"823","SAGDP1-1","35000","New Mexico","2019","Millions of chained 2012 dollars","6",94872.3
+"824","SAGDP1-1","35000","New Mexico","2020","Millions of chained 2012 dollars","6",92696.5
+"825","SAGDP1-1","35000","New Mexico","2021","Millions of chained 2012 dollars","6",95012.2
+"826","SAGDP1-1","36000","New York","1997","Millions of chained 2012 dollars","6",977797.9
+"827","SAGDP1-1","36000","New York","1998","Millions of chained 2012 dollars","6",997251.9
+"828","SAGDP1-1","36000","New York","1999","Millions of chained 2012 dollars","6",1051337.6
+"829","SAGDP1-1","36000","New York","2000","Millions of chained 2012 dollars","6",1092188.2
+"830","SAGDP1-1","36000","New York","2001","Millions of chained 2012 dollars","6",1112794.4
+"831","SAGDP1-1","36000","New York","2002","Millions of chained 2012 dollars","6",1106150.8
+"832","SAGDP1-1","36000","New York","2003","Millions of chained 2012 dollars","6",1110613.1
+"833","SAGDP1-1","36000","New York","2004","Millions of chained 2012 dollars","6",1144125.1
+"834","SAGDP1-1","36000","New York","2005","Millions of chained 2012 dollars","6",1168891.1
+"835","SAGDP1-1","36000","New York","2006","Millions of chained 2012 dollars","6",1199276.9
+"836","SAGDP1-1","36000","New York","2007","Millions of chained 2012 dollars","6",1208564.6
+"837","SAGDP1-1","36000","New York","2008","Millions of chained 2012 dollars","6",1190080.9
+"838","SAGDP1-1","36000","New York","2009","Millions of chained 2012 dollars","6",1230672.3
+"839","SAGDP1-1","36000","New York","2010","Millions of chained 2012 dollars","6",1277466.8
+"840","SAGDP1-1","36000","New York","2011","Millions of chained 2012 dollars","6",1279527.1
+"841","SAGDP1-1","36000","New York","2012","Millions of chained 2012 dollars","6",1328233.5
+"842","SAGDP1-1","36000","New York","2013","Millions of chained 2012 dollars","6",1329376.3
+"843","SAGDP1-1","36000","New York","2014","Millions of chained 2012 dollars","6",1353410.4
+"844","SAGDP1-1","36000","New York","2015","Millions of chained 2012 dollars","6",1373643
+"845","SAGDP1-1","36000","New York","2016","Millions of chained 2012 dollars","6",1403230.5
+"846","SAGDP1-1","36000","New York","2017","Millions of chained 2012 dollars","6",1419583.6
+"847","SAGDP1-1","36000","New York","2018","Millions of chained 2012 dollars","6",1457995.8
+"848","SAGDP1-1","36000","New York","2019","Millions of chained 2012 dollars","6",1494736.4
+"849","SAGDP1-1","36000","New York","2020","Millions of chained 2012 dollars","6",1420141
+"850","SAGDP1-1","36000","New York","2021","Millions of chained 2012 dollars","6",1491809.3
+"851","SAGDP1-1","37000","North Carolina","1997","Millions of chained 2012 dollars","6",315648.2
+"852","SAGDP1-1","37000","North Carolina","1998","Millions of chained 2012 dollars","6",326786.2
+"853","SAGDP1-1","37000","North Carolina","1999","Millions of chained 2012 dollars","6",345457.6
+"854","SAGDP1-1","37000","North Carolina","2000","Millions of chained 2012 dollars","6",356912.5
+"855","SAGDP1-1","37000","North Carolina","2001","Millions of chained 2012 dollars","6",359617
+"856","SAGDP1-1","37000","North Carolina","2002","Millions of chained 2012 dollars","6",364870.4
+"857","SAGDP1-1","37000","North Carolina","2003","Millions of chained 2012 dollars","6",373987.6
+"858","SAGDP1-1","37000","North Carolina","2004","Millions of chained 2012 dollars","6",389210.1
+"859","SAGDP1-1","37000","North Carolina","2005","Millions of chained 2012 dollars","6",409003.9
+"860","SAGDP1-1","37000","North Carolina","2006","Millions of chained 2012 dollars","6",434209.2
+"861","SAGDP1-1","37000","North Carolina","2007","Millions of chained 2012 dollars","6",438960.1
+"862","SAGDP1-1","37000","North Carolina","2008","Millions of chained 2012 dollars","6",450538
+"863","SAGDP1-1","37000","North Carolina","2009","Millions of chained 2012 dollars","6",431955.3
+"864","SAGDP1-1","37000","North Carolina","2010","Millions of chained 2012 dollars","6",437836.5
+"865","SAGDP1-1","37000","North Carolina","2011","Millions of chained 2012 dollars","6",443288.7
+"866","SAGDP1-1","37000","North Carolina","2012","Millions of chained 2012 dollars","6",445095.3
+"867","SAGDP1-1","37000","North Carolina","2013","Millions of chained 2012 dollars","6",452056.2
+"868","SAGDP1-1","37000","North Carolina","2014","Millions of chained 2012 dollars","6",462253.1
+"869","SAGDP1-1","37000","North Carolina","2015","Millions of chained 2012 dollars","6",475096.6
+"870","SAGDP1-1","37000","North Carolina","2016","Millions of chained 2012 dollars","6",482968.9
+"871","SAGDP1-1","37000","North Carolina","2017","Millions of chained 2012 dollars","6",496726.5
+"872","SAGDP1-1","37000","North Carolina","2018","Millions of chained 2012 dollars","6",504049.5
+"873","SAGDP1-1","37000","North Carolina","2019","Millions of chained 2012 dollars","6",514624.9
+"874","SAGDP1-1","37000","North Carolina","2020","Millions of chained 2012 dollars","6",499517.5
+"875","SAGDP1-1","37000","North Carolina","2021","Millions of chained 2012 dollars","6",533089.8
+"876","SAGDP1-1","38000","North Dakota","1997","Millions of chained 2012 dollars","6",22413.1
+"877","SAGDP1-1","38000","North Dakota","1998","Millions of chained 2012 dollars","6",23674.9
+"878","SAGDP1-1","38000","North Dakota","1999","Millions of chained 2012 dollars","6",23770.7
+"879","SAGDP1-1","38000","North Dakota","2000","Millions of chained 2012 dollars","6",24706
+"880","SAGDP1-1","38000","North Dakota","2001","Millions of chained 2012 dollars","6",24909.9
+"881","SAGDP1-1","38000","North Dakota","2002","Millions of chained 2012 dollars","6",26290.8
+"882","SAGDP1-1","38000","North Dakota","2003","Millions of chained 2012 dollars","6",27870.4
+"883","SAGDP1-1","38000","North Dakota","2004","Millions of chained 2012 dollars","6",28284.1
+"884","SAGDP1-1","38000","North Dakota","2005","Millions of chained 2012 dollars","6",29345.2
+"885","SAGDP1-1","38000","North Dakota","2006","Millions of chained 2012 dollars","6",30590.1
+"886","SAGDP1-1","38000","North Dakota","2007","Millions of chained 2012 dollars","6",32022.2
+"887","SAGDP1-1","38000","North Dakota","2008","Millions of chained 2012 dollars","6",34256.4
+"888","SAGDP1-1","38000","North Dakota","2009","Millions of chained 2012 dollars","6",35244.4
+"889","SAGDP1-1","38000","North Dakota","2010","Millions of chained 2012 dollars","6",37917.2
+"890","SAGDP1-1","38000","North Dakota","2011","Millions of chained 2012 dollars","6",42340.8
+"891","SAGDP1-1","38000","North Dakota","2012","Millions of chained 2012 dollars","6",51832.6
+"892","SAGDP1-1","38000","North Dakota","2013","Millions of chained 2012 dollars","6",52892.4
+"893","SAGDP1-1","38000","North Dakota","2014","Millions of chained 2012 dollars","6",57790
+"894","SAGDP1-1","38000","North Dakota","2015","Millions of chained 2012 dollars","6",56542.4
+"895","SAGDP1-1","38000","North Dakota","2016","Millions of chained 2012 dollars","6",52974.6
+"896","SAGDP1-1","38000","North Dakota","2017","Millions of chained 2012 dollars","6",54083.1
+"897","SAGDP1-1","38000","North Dakota","2018","Millions of chained 2012 dollars","6",55884
+"898","SAGDP1-1","38000","North Dakota","2019","Millions of chained 2012 dollars","6",56247
+"899","SAGDP1-1","38000","North Dakota","2020","Millions of chained 2012 dollars","6",54581.1
+"900","SAGDP1-1","38000","North Dakota","2021","Millions of chained 2012 dollars","6",55730
+"901","SAGDP1-1","39000","Ohio","1997","Millions of chained 2012 dollars","6",471450.9
+"902","SAGDP1-1","39000","Ohio","1998","Millions of chained 2012 dollars","6",487532.8
+"903","SAGDP1-1","39000","Ohio","1999","Millions of chained 2012 dollars","6",499292.8
+"904","SAGDP1-1","39000","Ohio","2000","Millions of chained 2012 dollars","6",509949.2
+"905","SAGDP1-1","39000","Ohio","2001","Millions of chained 2012 dollars","6",502967.6
+"906","SAGDP1-1","39000","Ohio","2002","Millions of chained 2012 dollars","6",513215.5
+"907","SAGDP1-1","39000","Ohio","2003","Millions of chained 2012 dollars","6",519939.4
+"908","SAGDP1-1","39000","Ohio","2004","Millions of chained 2012 dollars","6",534064.6
+"909","SAGDP1-1","39000","Ohio","2005","Millions of chained 2012 dollars","6",545968.7
+"910","SAGDP1-1","39000","Ohio","2006","Millions of chained 2012 dollars","6",545504.1
+"911","SAGDP1-1","39000","Ohio","2007","Millions of chained 2012 dollars","6",546729.3
+"912","SAGDP1-1","39000","Ohio","2008","Millions of chained 2012 dollars","6",537124.1
+"913","SAGDP1-1","39000","Ohio","2009","Millions of chained 2012 dollars","6",511076.5
+"914","SAGDP1-1","39000","Ohio","2010","Millions of chained 2012 dollars","6",523979.4
+"915","SAGDP1-1","39000","Ohio","2011","Millions of chained 2012 dollars","6",541180.2
+"916","SAGDP1-1","39000","Ohio","2012","Millions of chained 2012 dollars","6",545740.1
+"917","SAGDP1-1","39000","Ohio","2013","Millions of chained 2012 dollars","6",556210.5
+"918","SAGDP1-1","39000","Ohio","2014","Millions of chained 2012 dollars","6",574177.9
+"919","SAGDP1-1","39000","Ohio","2015","Millions of chained 2012 dollars","6",578852.4
+"920","SAGDP1-1","39000","Ohio","2016","Millions of chained 2012 dollars","6",583946.4
+"921","SAGDP1-1","39000","Ohio","2017","Millions of chained 2012 dollars","6",590738.9
+"922","SAGDP1-1","39000","Ohio","2018","Millions of chained 2012 dollars","6",598917.1
+"923","SAGDP1-1","39000","Ohio","2019","Millions of chained 2012 dollars","6",611145.8
+"924","SAGDP1-1","39000","Ohio","2020","Millions of chained 2012 dollars","6",589897.7
+"925","SAGDP1-1","39000","Ohio","2021","Millions of chained 2012 dollars","6",615416.1
+"926","SAGDP1-1","40000","Oklahoma","1997","Millions of chained 2012 dollars","6",115088.5
+"927","SAGDP1-1","40000","Oklahoma","1998","Millions of chained 2012 dollars","6",117596
+"928","SAGDP1-1","40000","Oklahoma","1999","Millions of chained 2012 dollars","6",119685.4
+"929","SAGDP1-1","40000","Oklahoma","2000","Millions of chained 2012 dollars","6",124227.6
+"930","SAGDP1-1","40000","Oklahoma","2001","Millions of chained 2012 dollars","6",128891.2
+"931","SAGDP1-1","40000","Oklahoma","2002","Millions of chained 2012 dollars","6",131293.3
+"932","SAGDP1-1","40000","Oklahoma","2003","Millions of chained 2012 dollars","6",133417.2
+"933","SAGDP1-1","40000","Oklahoma","2004","Millions of chained 2012 dollars","6",138096.8
+"934","SAGDP1-1","40000","Oklahoma","2005","Millions of chained 2012 dollars","6",143471.1
+"935","SAGDP1-1","40000","Oklahoma","2006","Millions of chained 2012 dollars","6",152857.7
+"936","SAGDP1-1","40000","Oklahoma","2007","Millions of chained 2012 dollars","6",156219.5
+"937","SAGDP1-1","40000","Oklahoma","2008","Millions of chained 2012 dollars","6",162387
+"938","SAGDP1-1","40000","Oklahoma","2009","Millions of chained 2012 dollars","6",160091.6
+"939","SAGDP1-1","40000","Oklahoma","2010","Millions of chained 2012 dollars","6",160564.2
+"940","SAGDP1-1","40000","Oklahoma","2011","Millions of chained 2012 dollars","6",166327.2
+"941","SAGDP1-1","40000","Oklahoma","2012","Millions of chained 2012 dollars","6",174874.4
+"942","SAGDP1-1","40000","Oklahoma","2013","Millions of chained 2012 dollars","6",177698.9
+"943","SAGDP1-1","40000","Oklahoma","2014","Millions of chained 2012 dollars","6",189360
+"944","SAGDP1-1","40000","Oklahoma","2015","Millions of chained 2012 dollars","6",197071.9
+"945","SAGDP1-1","40000","Oklahoma","2016","Millions of chained 2012 dollars","6",193025.1
+"946","SAGDP1-1","40000","Oklahoma","2017","Millions of chained 2012 dollars","6",194256
+"947","SAGDP1-1","40000","Oklahoma","2018","Millions of chained 2012 dollars","6",197358.3
+"948","SAGDP1-1","40000","Oklahoma","2019","Millions of chained 2012 dollars","6",200710.9
+"949","SAGDP1-1","40000","Oklahoma","2020","Millions of chained 2012 dollars","6",190893.8
+"950","SAGDP1-1","40000","Oklahoma","2021","Millions of chained 2012 dollars","6",195072.7
+"951","SAGDP1-1","41000","Oregon","1997","Millions of chained 2012 dollars","6",118360.3
+"952","SAGDP1-1","41000","Oregon","1998","Millions of chained 2012 dollars","6",123994.7
+"953","SAGDP1-1","41000","Oregon","1999","Millions of chained 2012 dollars","6",126739.2
+"954","SAGDP1-1","41000","Oregon","2000","Millions of chained 2012 dollars","6",137400.6
+"955","SAGDP1-1","41000","Oregon","2001","Millions of chained 2012 dollars","6",136166.1
+"956","SAGDP1-1","41000","Oregon","2002","Millions of chained 2012 dollars","6",138932.5
+"957","SAGDP1-1","41000","Oregon","2003","Millions of chained 2012 dollars","6",144802.8
+"958","SAGDP1-1","41000","Oregon","2004","Millions of chained 2012 dollars","6",152001.1
+"959","SAGDP1-1","41000","Oregon","2005","Millions of chained 2012 dollars","6",158163.4
+"960","SAGDP1-1","41000","Oregon","2006","Millions of chained 2012 dollars","6",166107.2
+"961","SAGDP1-1","41000","Oregon","2007","Millions of chained 2012 dollars","6",168975.1
+"962","SAGDP1-1","41000","Oregon","2008","Millions of chained 2012 dollars","6",173598.5
+"963","SAGDP1-1","41000","Oregon","2009","Millions of chained 2012 dollars","6",165527.2
+"964","SAGDP1-1","41000","Oregon","2010","Millions of chained 2012 dollars","6",169234
+"965","SAGDP1-1","41000","Oregon","2011","Millions of chained 2012 dollars","6",173831.7
+"966","SAGDP1-1","41000","Oregon","2012","Millions of chained 2012 dollars","6",174611
+"967","SAGDP1-1","41000","Oregon","2013","Millions of chained 2012 dollars","6",175933.8
+"968","SAGDP1-1","41000","Oregon","2014","Millions of chained 2012 dollars","6",181220.6
+"969","SAGDP1-1","41000","Oregon","2015","Millions of chained 2012 dollars","6",189946.5
+"970","SAGDP1-1","41000","Oregon","2016","Millions of chained 2012 dollars","6",198079.3
+"971","SAGDP1-1","41000","Oregon","2017","Millions of chained 2012 dollars","6",205744.8
+"972","SAGDP1-1","41000","Oregon","2018","Millions of chained 2012 dollars","6",215208.8
+"973","SAGDP1-1","41000","Oregon","2019","Millions of chained 2012 dollars","6",219458.2
+"974","SAGDP1-1","41000","Oregon","2020","Millions of chained 2012 dollars","6",212849.7
+"975","SAGDP1-1","41000","Oregon","2021","Millions of chained 2012 dollars","6",224428.6
+"976","SAGDP1-1","42000","Pennsylvania","1997","Millions of chained 2012 dollars","6",496658.9
+"977","SAGDP1-1","42000","Pennsylvania","1998","Millions of chained 2012 dollars","6",509550.8
+"978","SAGDP1-1","42000","Pennsylvania","1999","Millions of chained 2012 dollars","6",524960.9
+"979","SAGDP1-1","42000","Pennsylvania","2000","Millions of chained 2012 dollars","6",538790.2
+"980","SAGDP1-1","42000","Pennsylvania","2001","Millions of chained 2012 dollars","6",547260.9
+"981","SAGDP1-1","42000","Pennsylvania","2002","Millions of chained 2012 dollars","6",555055.9
+"982","SAGDP1-1","42000","Pennsylvania","2003","Millions of chained 2012 dollars","6",568242.4
+"983","SAGDP1-1","42000","Pennsylvania","2004","Millions of chained 2012 dollars","6",584328.3
+"984","SAGDP1-1","42000","Pennsylvania","2005","Millions of chained 2012 dollars","6",594855.1
+"985","SAGDP1-1","42000","Pennsylvania","2006","Millions of chained 2012 dollars","6",597219.2
+"986","SAGDP1-1","42000","Pennsylvania","2007","Millions of chained 2012 dollars","6",617309.9
+"987","SAGDP1-1","42000","Pennsylvania","2008","Millions of chained 2012 dollars","6",629807.9
+"988","SAGDP1-1","42000","Pennsylvania","2009","Millions of chained 2012 dollars","6",610147.9
+"989","SAGDP1-1","42000","Pennsylvania","2010","Millions of chained 2012 dollars","6",627726.3
+"990","SAGDP1-1","42000","Pennsylvania","2011","Millions of chained 2012 dollars","6",637114
+"991","SAGDP1-1","42000","Pennsylvania","2012","Millions of chained 2012 dollars","6",647925.9
+"992","SAGDP1-1","42000","Pennsylvania","2013","Millions of chained 2012 dollars","6",655929.2
+"993","SAGDP1-1","42000","Pennsylvania","2014","Millions of chained 2012 dollars","6",669643.1
+"994","SAGDP1-1","42000","Pennsylvania","2015","Millions of chained 2012 dollars","6",682466.1
+"995","SAGDP1-1","42000","Pennsylvania","2016","Millions of chained 2012 dollars","6",688359.4
+"996","SAGDP1-1","42000","Pennsylvania","2017","Millions of chained 2012 dollars","6",694236.5
+"997","SAGDP1-1","42000","Pennsylvania","2018","Millions of chained 2012 dollars","6",703946
+"998","SAGDP1-1","42000","Pennsylvania","2019","Millions of chained 2012 dollars","6",716173.4
+"999","SAGDP1-1","42000","Pennsylvania","2020","Millions of chained 2012 dollars","6",683773.9
+"1000","SAGDP1-1","42000","Pennsylvania","2021","Millions of chained 2012 dollars","6",713690.7
+"1001","SAGDP1-1","44000","Rhode Island","1997","Millions of chained 2012 dollars","6",40145.8
+"1002","SAGDP1-1","44000","Rhode Island","1998","Millions of chained 2012 dollars","6",41912.5
+"1003","SAGDP1-1","44000","Rhode Island","1999","Millions of chained 2012 dollars","6",43144.9
+"1004","SAGDP1-1","44000","Rhode Island","2000","Millions of chained 2012 dollars","6",45178.6
+"1005","SAGDP1-1","44000","Rhode Island","2001","Millions of chained 2012 dollars","6",45749.8
+"1006","SAGDP1-1","44000","Rhode Island","2002","Millions of chained 2012 dollars","6",47224.5
+"1007","SAGDP1-1","44000","Rhode Island","2003","Millions of chained 2012 dollars","6",48571.1
+"1008","SAGDP1-1","44000","Rhode Island","2004","Millions of chained 2012 dollars","6",50513.8
+"1009","SAGDP1-1","44000","Rhode Island","2005","Millions of chained 2012 dollars","6",51369.7
+"1010","SAGDP1-1","44000","Rhode Island","2006","Millions of chained 2012 dollars","6",52899.6
+"1011","SAGDP1-1","44000","Rhode Island","2007","Millions of chained 2012 dollars","6",51469.1
+"1012","SAGDP1-1","44000","Rhode Island","2008","Millions of chained 2012 dollars","6",50575.2
+"1013","SAGDP1-1","44000","Rhode Island","2009","Millions of chained 2012 dollars","6",50004.3
+"1014","SAGDP1-1","44000","Rhode Island","2010","Millions of chained 2012 dollars","6",51332.8
+"1015","SAGDP1-1","44000","Rhode Island","2011","Millions of chained 2012 dollars","6",51279.6
+"1016","SAGDP1-1","44000","Rhode Island","2012","Millions of chained 2012 dollars","6",51583
+"1017","SAGDP1-1","44000","Rhode Island","2013","Millions of chained 2012 dollars","6",51910.8
+"1018","SAGDP1-1","44000","Rhode Island","2014","Millions of chained 2012 dollars","6",52293.4
+"1019","SAGDP1-1","44000","Rhode Island","2015","Millions of chained 2012 dollars","6",52819.1
+"1020","SAGDP1-1","44000","Rhode Island","2016","Millions of chained 2012 dollars","6",52902.6
+"1021","SAGDP1-1","44000","Rhode Island","2017","Millions of chained 2012 dollars","6",52608.8
+"1022","SAGDP1-1","44000","Rhode Island","2018","Millions of chained 2012 dollars","6",52493.8
+"1023","SAGDP1-1","44000","Rhode Island","2019","Millions of chained 2012 dollars","6",53225
+"1024","SAGDP1-1","44000","Rhode Island","2020","Millions of chained 2012 dollars","6",51415.1
+"1025","SAGDP1-1","44000","Rhode Island","2021","Millions of chained 2012 dollars","6",54222.6
+"1026","SAGDP1-1","45000","South Carolina","1997","Millions of chained 2012 dollars","6",134607.9
+"1027","SAGDP1-1","45000","South Carolina","1998","Millions of chained 2012 dollars","6",139526.3
+"1028","SAGDP1-1","45000","South Carolina","1999","Millions of chained 2012 dollars","6",146104.4
+"1029","SAGDP1-1","45000","South Carolina","2000","Millions of chained 2012 dollars","6",150156.4
+"1030","SAGDP1-1","45000","South Carolina","2001","Millions of chained 2012 dollars","6",151015.9
+"1031","SAGDP1-1","45000","South Carolina","2002","Millions of chained 2012 dollars","6",155275.1
+"1032","SAGDP1-1","45000","South Carolina","2003","Millions of chained 2012 dollars","6",161269.3
+"1033","SAGDP1-1","45000","South Carolina","2004","Millions of chained 2012 dollars","6",164083.4
+"1034","SAGDP1-1","45000","South Carolina","2005","Millions of chained 2012 dollars","6",169488.5
+"1035","SAGDP1-1","45000","South Carolina","2006","Millions of chained 2012 dollars","6",173370.9
+"1036","SAGDP1-1","45000","South Carolina","2007","Millions of chained 2012 dollars","6",178474.6
+"1037","SAGDP1-1","45000","South Carolina","2008","Millions of chained 2012 dollars","6",176567.6
+"1038","SAGDP1-1","45000","South Carolina","2009","Millions of chained 2012 dollars","6",168851.8
+"1039","SAGDP1-1","45000","South Carolina","2010","Millions of chained 2012 dollars","6",172131
+"1040","SAGDP1-1","45000","South Carolina","2011","Millions of chained 2012 dollars","6",176083.2
+"1041","SAGDP1-1","45000","South Carolina","2012","Millions of chained 2012 dollars","6",177618.1
+"1042","SAGDP1-1","45000","South Carolina","2013","Millions of chained 2012 dollars","6",180881.6
+"1043","SAGDP1-1","45000","South Carolina","2014","Millions of chained 2012 dollars","6",185986.9
+"1044","SAGDP1-1","45000","South Carolina","2015","Millions of chained 2012 dollars","6",192019.9
+"1045","SAGDP1-1","45000","South Carolina","2016","Millions of chained 2012 dollars","6",198005.7
+"1046","SAGDP1-1","45000","South Carolina","2017","Millions of chained 2012 dollars","6",202494.3
+"1047","SAGDP1-1","45000","South Carolina","2018","Millions of chained 2012 dollars","6",207772.7
+"1048","SAGDP1-1","45000","South Carolina","2019","Millions of chained 2012 dollars","6",212482.8
+"1049","SAGDP1-1","45000","South Carolina","2020","Millions of chained 2012 dollars","6",208480.5
+"1050","SAGDP1-1","45000","South Carolina","2021","Millions of chained 2012 dollars","6",220689
+"1051","SAGDP1-1","46000","South Dakota","1997","Millions of chained 2012 dollars","6",24951.2
+"1052","SAGDP1-1","46000","South Dakota","1998","Millions of chained 2012 dollars","6",26440.4
+"1053","SAGDP1-1","46000","South Dakota","1999","Millions of chained 2012 dollars","6",27463.4
+"1054","SAGDP1-1","46000","South Dakota","2000","Millions of chained 2012 dollars","6",29386.1
+"1055","SAGDP1-1","46000","South Dakota","2001","Millions of chained 2012 dollars","6",29455.2
+"1056","SAGDP1-1","46000","South Dakota","2002","Millions of chained 2012 dollars","6",32784.9
+"1057","SAGDP1-1","46000","South Dakota","2003","Millions of chained 2012 dollars","6",32979.1
+"1058","SAGDP1-1","46000","South Dakota","2004","Millions of chained 2012 dollars","6",34269.6
+"1059","SAGDP1-1","46000","South Dakota","2005","Millions of chained 2012 dollars","6",35842.2
+"1060","SAGDP1-1","46000","South Dakota","2006","Millions of chained 2012 dollars","6",36350.8
+"1061","SAGDP1-1","46000","South Dakota","2007","Millions of chained 2012 dollars","6",37755.9
+"1062","SAGDP1-1","46000","South Dakota","2008","Millions of chained 2012 dollars","6",39080.8
+"1063","SAGDP1-1","46000","South Dakota","2009","Millions of chained 2012 dollars","6",39987.3
+"1064","SAGDP1-1","46000","South Dakota","2010","Millions of chained 2012 dollars","6",40369.6
+"1065","SAGDP1-1","46000","South Dakota","2011","Millions of chained 2012 dollars","6",43049.5
+"1066","SAGDP1-1","46000","South Dakota","2012","Millions of chained 2012 dollars","6",43901.5
+"1067","SAGDP1-1","46000","South Dakota","2013","Millions of chained 2012 dollars","6",44147.4
+"1068","SAGDP1-1","46000","South Dakota","2014","Millions of chained 2012 dollars","6",44846.5
+"1069","SAGDP1-1","46000","South Dakota","2015","Millions of chained 2012 dollars","6",45664.5
+"1070","SAGDP1-1","46000","South Dakota","2016","Millions of chained 2012 dollars","6",46076
+"1071","SAGDP1-1","46000","South Dakota","2017","Millions of chained 2012 dollars","6",45878.2
+"1072","SAGDP1-1","46000","South Dakota","2018","Millions of chained 2012 dollars","6",46454.1
+"1073","SAGDP1-1","46000","South Dakota","2019","Millions of chained 2012 dollars","6",46641
+"1074","SAGDP1-1","46000","South Dakota","2020","Millions of chained 2012 dollars","6",46682.7
+"1075","SAGDP1-1","46000","South Dakota","2021","Millions of chained 2012 dollars","6",48979.2
+"1076","SAGDP1-1","47000","Tennessee","1997","Millions of chained 2012 dollars","6",210637.3
+"1077","SAGDP1-1","47000","Tennessee","1998","Millions of chained 2012 dollars","6",223711.3
+"1078","SAGDP1-1","47000","Tennessee","1999","Millions of chained 2012 dollars","6",230895.6
+"1079","SAGDP1-1","47000","Tennessee","2000","Millions of chained 2012 dollars","6",233732.2
+"1080","SAGDP1-1","47000","Tennessee","2001","Millions of chained 2012 dollars","6",233362.5
+"1081","SAGDP1-1","47000","Tennessee","2002","Millions of chained 2012 dollars","6",240971.7
+"1082","SAGDP1-1","47000","Tennessee","2003","Millions of chained 2012 dollars","6",248993.8
+"1083","SAGDP1-1","47000","Tennessee","2004","Millions of chained 2012 dollars","6",260553.5
+"1084","SAGDP1-1","47000","Tennessee","2005","Millions of chained 2012 dollars","6",268391.7
+"1085","SAGDP1-1","47000","Tennessee","2006","Millions of chained 2012 dollars","6",274879.2
+"1086","SAGDP1-1","47000","Tennessee","2007","Millions of chained 2012 dollars","6",273224
+"1087","SAGDP1-1","47000","Tennessee","2008","Millions of chained 2012 dollars","6",274571.1
+"1088","SAGDP1-1","47000","Tennessee","2009","Millions of chained 2012 dollars","6",264737.1
+"1089","SAGDP1-1","47000","Tennessee","2010","Millions of chained 2012 dollars","6",268449.8
+"1090","SAGDP1-1","47000","Tennessee","2011","Millions of chained 2012 dollars","6",276898.3
+"1091","SAGDP1-1","47000","Tennessee","2012","Millions of chained 2012 dollars","6",286341.5
+"1092","SAGDP1-1","47000","Tennessee","2013","Millions of chained 2012 dollars","6",289794.6
+"1093","SAGDP1-1","47000","Tennessee","2014","Millions of chained 2012 dollars","6",294130.1
+"1094","SAGDP1-1","47000","Tennessee","2015","Millions of chained 2012 dollars","6",304484.2
+"1095","SAGDP1-1","47000","Tennessee","2016","Millions of chained 2012 dollars","6",310143.2
+"1096","SAGDP1-1","47000","Tennessee","2017","Millions of chained 2012 dollars","6",318412
+"1097","SAGDP1-1","47000","Tennessee","2018","Millions of chained 2012 dollars","6",322648.5
+"1098","SAGDP1-1","47000","Tennessee","2019","Millions of chained 2012 dollars","6",329111.6
+"1099","SAGDP1-1","47000","Tennessee","2020","Millions of chained 2012 dollars","6",316325.3
+"1100","SAGDP1-1","47000","Tennessee","2021","Millions of chained 2012 dollars","6",343448.4
+"1101","SAGDP1-1","48000","Texas","1997","Millions of chained 2012 dollars","6",870724.4
+"1102","SAGDP1-1","48000","Texas","1998","Millions of chained 2012 dollars","6",925556.7
+"1103","SAGDP1-1","48000","Texas","1999","Millions of chained 2012 dollars","6",961513.2
+"1104","SAGDP1-1","48000","Texas","2000","Millions of chained 2012 dollars","6",995661.2
+"1105","SAGDP1-1","48000","Texas","2001","Millions of chained 2012 dollars","6",1020537.8
+"1106","SAGDP1-1","48000","Texas","2002","Millions of chained 2012 dollars","6",1043566.9
+"1107","SAGDP1-1","48000","Texas","2003","Millions of chained 2012 dollars","6",1050609.4
+"1108","SAGDP1-1","48000","Texas","2004","Millions of chained 2012 dollars","6",1109477
+"1109","SAGDP1-1","48000","Texas","2005","Millions of chained 2012 dollars","6",1141373.7
+"1110","SAGDP1-1","48000","Texas","2006","Millions of chained 2012 dollars","6",1228547.3
+"1111","SAGDP1-1","48000","Texas","2007","Millions of chained 2012 dollars","6",1286192.7
+"1112","SAGDP1-1","48000","Texas","2008","Millions of chained 2012 dollars","6",1282088.7
+"1113","SAGDP1-1","48000","Texas","2009","Millions of chained 2012 dollars","6",1277295.4
+"1114","SAGDP1-1","48000","Texas","2010","Millions of chained 2012 dollars","6",1309962.4
+"1115","SAGDP1-1","48000","Texas","2011","Millions of chained 2012 dollars","6",1353600.4
+"1116","SAGDP1-1","48000","Texas","2012","Millions of chained 2012 dollars","6",1421180.1
+"1117","SAGDP1-1","48000","Texas","2013","Millions of chained 2012 dollars","6",1484700.1
+"1118","SAGDP1-1","48000","Texas","2014","Millions of chained 2012 dollars","6",1529617.1
+"1119","SAGDP1-1","48000","Texas","2015","Millions of chained 2012 dollars","6",1605901.7
+"1120","SAGDP1-1","48000","Texas","2016","Millions of chained 2012 dollars","6",1619954.2
+"1121","SAGDP1-1","48000","Texas","2017","Millions of chained 2012 dollars","6",1664218.5
+"1122","SAGDP1-1","48000","Texas","2018","Millions of chained 2012 dollars","6",1729286.6
+"1123","SAGDP1-1","48000","Texas","2019","Millions of chained 2012 dollars","6",1785317.9
+"1124","SAGDP1-1","48000","Texas","2020","Millions of chained 2012 dollars","6",1734321.1
+"1125","SAGDP1-1","48000","Texas","2021","Millions of chained 2012 dollars","6",1831362.4
+"1126","SAGDP1-1","49000","Utah","1997","Millions of chained 2012 dollars","6",80658.9
+"1127","SAGDP1-1","49000","Utah","1998","Millions of chained 2012 dollars","6",85724.8
+"1128","SAGDP1-1","49000","Utah","1999","Millions of chained 2012 dollars","6",89282
+"1129","SAGDP1-1","49000","Utah","2000","Millions of chained 2012 dollars","6",92498.4
+"1130","SAGDP1-1","49000","Utah","2001","Millions of chained 2012 dollars","6",93556.7
+"1131","SAGDP1-1","49000","Utah","2002","Millions of chained 2012 dollars","6",95383.1
+"1132","SAGDP1-1","49000","Utah","2003","Millions of chained 2012 dollars","6",97017.3
+"1133","SAGDP1-1","49000","Utah","2004","Millions of chained 2012 dollars","6",102846.7
+"1134","SAGDP1-1","49000","Utah","2005","Millions of chained 2012 dollars","6",110046.4
+"1135","SAGDP1-1","49000","Utah","2006","Millions of chained 2012 dollars","6",118482.3
+"1136","SAGDP1-1","49000","Utah","2007","Millions of chained 2012 dollars","6",123835.3
+"1137","SAGDP1-1","49000","Utah","2008","Millions of chained 2012 dollars","6",124225.5
+"1138","SAGDP1-1","49000","Utah","2009","Millions of chained 2012 dollars","6",121431.4
+"1139","SAGDP1-1","49000","Utah","2010","Millions of chained 2012 dollars","6",123902.2
+"1140","SAGDP1-1","49000","Utah","2011","Millions of chained 2012 dollars","6",127992.5
+"1141","SAGDP1-1","49000","Utah","2012","Millions of chained 2012 dollars","6",129512.5
+"1142","SAGDP1-1","49000","Utah","2013","Millions of chained 2012 dollars","6",133112.9
+"1143","SAGDP1-1","49000","Utah","2014","Millions of chained 2012 dollars","6",136993.7
+"1144","SAGDP1-1","49000","Utah","2015","Millions of chained 2012 dollars","6",141720.5
+"1145","SAGDP1-1","49000","Utah","2016","Millions of chained 2012 dollars","6",147962.3
+"1146","SAGDP1-1","49000","Utah","2017","Millions of chained 2012 dollars","6",154367.3
+"1147","SAGDP1-1","49000","Utah","2018","Millions of chained 2012 dollars","6",163327
+"1148","SAGDP1-1","49000","Utah","2019","Millions of chained 2012 dollars","6",171134.7
+"1149","SAGDP1-1","49000","Utah","2020","Millions of chained 2012 dollars","6",171370.1
+"1150","SAGDP1-1","49000","Utah","2021","Millions of chained 2012 dollars","6",182881.3
+"1151","SAGDP1-1","50000","Vermont","1997","Millions of chained 2012 dollars","6",20049.4
+"1152","SAGDP1-1","50000","Vermont","1998","Millions of chained 2012 dollars","6",20678
+"1153","SAGDP1-1","50000","Vermont","1999","Millions of chained 2012 dollars","6",21830.2
+"1154","SAGDP1-1","50000","Vermont","2000","Millions of chained 2012 dollars","6",23016.8
+"1155","SAGDP1-1","50000","Vermont","2001","Millions of chained 2012 dollars","6",23752.4
+"1156","SAGDP1-1","50000","Vermont","2002","Millions of chained 2012 dollars","6",24570.1
+"1157","SAGDP1-1","50000","Vermont","2003","Millions of chained 2012 dollars","6",25464.9
+"1158","SAGDP1-1","50000","Vermont","2004","Millions of chained 2012 dollars","6",26855.2
+"1159","SAGDP1-1","50000","Vermont","2005","Millions of chained 2012 dollars","6",26995.6
+"1160","SAGDP1-1","50000","Vermont","2006","Millions of chained 2012 dollars","6",27128.8
+"1161","SAGDP1-1","50000","Vermont","2007","Millions of chained 2012 dollars","6",26886.7
+"1162","SAGDP1-1","50000","Vermont","2008","Millions of chained 2012 dollars","6",27758.4
+"1163","SAGDP1-1","50000","Vermont","2009","Millions of chained 2012 dollars","6",27222
+"1164","SAGDP1-1","50000","Vermont","2010","Millions of chained 2012 dollars","6",28403.7
+"1165","SAGDP1-1","50000","Vermont","2011","Millions of chained 2012 dollars","6",29013.5
+"1166","SAGDP1-1","50000","Vermont","2012","Millions of chained 2012 dollars","6",29241.3
+"1167","SAGDP1-1","50000","Vermont","2013","Millions of chained 2012 dollars","6",28681.5
+"1168","SAGDP1-1","50000","Vermont","2014","Millions of chained 2012 dollars","6",28912.2
+"1169","SAGDP1-1","50000","Vermont","2015","Millions of chained 2012 dollars","6",29119
+"1170","SAGDP1-1","50000","Vermont","2016","Millions of chained 2012 dollars","6",29408.1
+"1171","SAGDP1-1","50000","Vermont","2017","Millions of chained 2012 dollars","6",29500.9
+"1172","SAGDP1-1","50000","Vermont","2018","Millions of chained 2012 dollars","6",29616.4
+"1173","SAGDP1-1","50000","Vermont","2019","Millions of chained 2012 dollars","6",29902.8
+"1174","SAGDP1-1","50000","Vermont","2020","Millions of chained 2012 dollars","6",28648.5
+"1175","SAGDP1-1","50000","Vermont","2021","Millions of chained 2012 dollars","6",29653.8
+"1176","SAGDP1-1","51000","Virginia","1997","Millions of chained 2012 dollars","6",298922.3
+"1177","SAGDP1-1","51000","Virginia","1998","Millions of chained 2012 dollars","6",315091
+"1178","SAGDP1-1","51000","Virginia","1999","Millions of chained 2012 dollars","6",332373.3
+"1179","SAGDP1-1","51000","Virginia","2000","Millions of chained 2012 dollars","6",348327
+"1180","SAGDP1-1","51000","Virginia","2001","Millions of chained 2012 dollars","6",360601.1
+"1181","SAGDP1-1","51000","Virginia","2002","Millions of chained 2012 dollars","6",364932.4
+"1182","SAGDP1-1","51000","Virginia","2003","Millions of chained 2012 dollars","6",377723.8
+"1183","SAGDP1-1","51000","Virginia","2004","Millions of chained 2012 dollars","6",392941.3
+"1184","SAGDP1-1","51000","Virginia","2005","Millions of chained 2012 dollars","6",412084.6
+"1185","SAGDP1-1","51000","Virginia","2006","Millions of chained 2012 dollars","6",419870.6
+"1186","SAGDP1-1","51000","Virginia","2007","Millions of chained 2012 dollars","6",424939.5
+"1187","SAGDP1-1","51000","Virginia","2008","Millions of chained 2012 dollars","6",431216.7
+"1188","SAGDP1-1","51000","Virginia","2009","Millions of chained 2012 dollars","6",427648.9
+"1189","SAGDP1-1","51000","Virginia","2010","Millions of chained 2012 dollars","6",441242.4
+"1190","SAGDP1-1","51000","Virginia","2011","Millions of chained 2012 dollars","6",444288
+"1191","SAGDP1-1","51000","Virginia","2012","Millions of chained 2012 dollars","6",445973.6
+"1192","SAGDP1-1","51000","Virginia","2013","Millions of chained 2012 dollars","6",449063.8
+"1193","SAGDP1-1","51000","Virginia","2014","Millions of chained 2012 dollars","6",447678.1
+"1194","SAGDP1-1","51000","Virginia","2015","Millions of chained 2012 dollars","6",455162.4
+"1195","SAGDP1-1","51000","Virginia","2016","Millions of chained 2012 dollars","6",459965.8
+"1196","SAGDP1-1","51000","Virginia","2017","Millions of chained 2012 dollars","6",466724.8
+"1197","SAGDP1-1","51000","Virginia","2018","Millions of chained 2012 dollars","6",477819.8
+"1198","SAGDP1-1","51000","Virginia","2019","Millions of chained 2012 dollars","6",487251.6
+"1199","SAGDP1-1","51000","Virginia","2020","Millions of chained 2012 dollars","6",473817.5
+"1200","SAGDP1-1","51000","Virginia","2021","Millions of chained 2012 dollars","6",492625.7
+"1201","SAGDP1-1","53000","Washington","1997","Millions of chained 2012 dollars","6",271270.7
+"1202","SAGDP1-1","53000","Washington","1998","Millions of chained 2012 dollars","6",288206.9
+"1203","SAGDP1-1","53000","Washington","1999","Millions of chained 2012 dollars","6",308949.5
+"1204","SAGDP1-1","53000","Washington","2000","Millions of chained 2012 dollars","6",311209.9
+"1205","SAGDP1-1","53000","Washington","2001","Millions of chained 2012 dollars","6",303673.8
+"1206","SAGDP1-1","53000","Washington","2002","Millions of chained 2012 dollars","6",307583.2
+"1207","SAGDP1-1","53000","Washington","2003","Millions of chained 2012 dollars","6",312556.4
+"1208","SAGDP1-1","53000","Washington","2004","Millions of chained 2012 dollars","6",319848.9
+"1209","SAGDP1-1","53000","Washington","2005","Millions of chained 2012 dollars","6",340428
+"1210","SAGDP1-1","53000","Washington","2006","Millions of chained 2012 dollars","6",353263.5
+"1211","SAGDP1-1","53000","Washington","2007","Millions of chained 2012 dollars","6",373180.6
+"1212","SAGDP1-1","53000","Washington","2008","Millions of chained 2012 dollars","6",381289.9
+"1213","SAGDP1-1","53000","Washington","2009","Millions of chained 2012 dollars","6",370136.6
+"1214","SAGDP1-1","53000","Washington","2010","Millions of chained 2012 dollars","6",380989.5
+"1215","SAGDP1-1","53000","Washington","2011","Millions of chained 2012 dollars","6",387745.2
+"1216","SAGDP1-1","53000","Washington","2012","Millions of chained 2012 dollars","6",400530.6
+"1217","SAGDP1-1","53000","Washington","2013","Millions of chained 2012 dollars","6",410873.9
+"1218","SAGDP1-1","53000","Washington","2014","Millions of chained 2012 dollars","6",424467.6
+"1219","SAGDP1-1","53000","Washington","2015","Millions of chained 2012 dollars","6",441952.1
+"1220","SAGDP1-1","53000","Washington","2016","Millions of chained 2012 dollars","6",458263.8
+"1221","SAGDP1-1","53000","Washington","2017","Millions of chained 2012 dollars","6",482824.1
+"1222","SAGDP1-1","53000","Washington","2018","Millions of chained 2012 dollars","6",515629.9
+"1223","SAGDP1-1","53000","Washington","2019","Millions of chained 2012 dollars","6",535980.5
+"1224","SAGDP1-1","53000","Washington","2020","Millions of chained 2012 dollars","6",532861.9
+"1225","SAGDP1-1","53000","Washington","2021","Millions of chained 2012 dollars","6",568302.8
+"1226","SAGDP1-1","54000","West Virginia","1997","Millions of chained 2012 dollars","6",58934.3
+"1227","SAGDP1-1","54000","West Virginia","1998","Millions of chained 2012 dollars","6",59847.4
+"1228","SAGDP1-1","54000","West Virginia","1999","Millions of chained 2012 dollars","6",61783.9
+"1229","SAGDP1-1","54000","West Virginia","2000","Millions of chained 2012 dollars","6",61665.7
+"1230","SAGDP1-1","54000","West Virginia","2001","Millions of chained 2012 dollars","6",61818.6
+"1231","SAGDP1-1","54000","West Virginia","2002","Millions of chained 2012 dollars","6",62834.1
+"1232","SAGDP1-1","54000","West Virginia","2003","Millions of chained 2012 dollars","6",63145.5
+"1233","SAGDP1-1","54000","West Virginia","2004","Millions of chained 2012 dollars","6",64159.8
+"1234","SAGDP1-1","54000","West Virginia","2005","Millions of chained 2012 dollars","6",65678.4
+"1235","SAGDP1-1","54000","West Virginia","2006","Millions of chained 2012 dollars","6",66861.4
+"1236","SAGDP1-1","54000","West Virginia","2007","Millions of chained 2012 dollars","6",67119.1
+"1237","SAGDP1-1","54000","West Virginia","2008","Millions of chained 2012 dollars","6",68483.9
+"1238","SAGDP1-1","54000","West Virginia","2009","Millions of chained 2012 dollars","6",68191.8
+"1239","SAGDP1-1","54000","West Virginia","2010","Millions of chained 2012 dollars","6",69153.5
+"1240","SAGDP1-1","54000","West Virginia","2011","Millions of chained 2012 dollars","6",70361.3
+"1241","SAGDP1-1","54000","West Virginia","2012","Millions of chained 2012 dollars","6",70322.2
+"1242","SAGDP1-1","54000","West Virginia","2013","Millions of chained 2012 dollars","6",70550.1
+"1243","SAGDP1-1","54000","West Virginia","2014","Millions of chained 2012 dollars","6",70532.5
+"1244","SAGDP1-1","54000","West Virginia","2015","Millions of chained 2012 dollars","6",70663
+"1245","SAGDP1-1","54000","West Virginia","2016","Millions of chained 2012 dollars","6",70011.4
+"1246","SAGDP1-1","54000","West Virginia","2017","Millions of chained 2012 dollars","6",71459.4
+"1247","SAGDP1-1","54000","West Virginia","2018","Millions of chained 2012 dollars","6",73114.2
+"1248","SAGDP1-1","54000","West Virginia","2019","Millions of chained 2012 dollars","6",72542.9
+"1249","SAGDP1-1","54000","West Virginia","2020","Millions of chained 2012 dollars","6",69711.6
+"1250","SAGDP1-1","54000","West Virginia","2021","Millions of chained 2012 dollars","6",72481.5
+"1251","SAGDP1-1","55000","Wisconsin","1997","Millions of chained 2012 dollars","6",209111.7
+"1252","SAGDP1-1","55000","Wisconsin","1998","Millions of chained 2012 dollars","6",216955.9
+"1253","SAGDP1-1","55000","Wisconsin","1999","Millions of chained 2012 dollars","6",225783.7
+"1254","SAGDP1-1","55000","Wisconsin","2000","Millions of chained 2012 dollars","6",232411.7
+"1255","SAGDP1-1","55000","Wisconsin","2001","Millions of chained 2012 dollars","6",236088.7
+"1256","SAGDP1-1","55000","Wisconsin","2002","Millions of chained 2012 dollars","6",240543.3
+"1257","SAGDP1-1","55000","Wisconsin","2003","Millions of chained 2012 dollars","6",247766.1
+"1258","SAGDP1-1","55000","Wisconsin","2004","Millions of chained 2012 dollars","6",256167.4
+"1259","SAGDP1-1","55000","Wisconsin","2005","Millions of chained 2012 dollars","6",263698.6
+"1260","SAGDP1-1","55000","Wisconsin","2006","Millions of chained 2012 dollars","6",268246.4
+"1261","SAGDP1-1","55000","Wisconsin","2007","Millions of chained 2012 dollars","6",269933.6
+"1262","SAGDP1-1","55000","Wisconsin","2008","Millions of chained 2012 dollars","6",266626.9
+"1263","SAGDP1-1","55000","Wisconsin","2009","Millions of chained 2012 dollars","6",258761.2
+"1264","SAGDP1-1","55000","Wisconsin","2010","Millions of chained 2012 dollars","6",266830.8
+"1265","SAGDP1-1","55000","Wisconsin","2011","Millions of chained 2012 dollars","6",272813.2
+"1266","SAGDP1-1","55000","Wisconsin","2012","Millions of chained 2012 dollars","6",277107.1
+"1267","SAGDP1-1","55000","Wisconsin","2013","Millions of chained 2012 dollars","6",278015
+"1268","SAGDP1-1","55000","Wisconsin","2014","Millions of chained 2012 dollars","6",283981.1
+"1269","SAGDP1-1","55000","Wisconsin","2015","Millions of chained 2012 dollars","6",289077
+"1270","SAGDP1-1","55000","Wisconsin","2016","Millions of chained 2012 dollars","6",291920.3
+"1271","SAGDP1-1","55000","Wisconsin","2017","Millions of chained 2012 dollars","6",292311.2
+"1272","SAGDP1-1","55000","Wisconsin","2018","Millions of chained 2012 dollars","6",299416
+"1273","SAGDP1-1","55000","Wisconsin","2019","Millions of chained 2012 dollars","6",303891.2
+"1274","SAGDP1-1","55000","Wisconsin","2020","Millions of chained 2012 dollars","6",291715.8
+"1275","SAGDP1-1","55000","Wisconsin","2021","Millions of chained 2012 dollars","6",302781.5
+"1276","SAGDP1-1","56000","Wyoming","1997","Millions of chained 2012 dollars","6",24960.3
+"1277","SAGDP1-1","56000","Wyoming","1998","Millions of chained 2012 dollars","6",25530.4
+"1278","SAGDP1-1","56000","Wyoming","1999","Millions of chained 2012 dollars","6",26597.7
+"1279","SAGDP1-1","56000","Wyoming","2000","Millions of chained 2012 dollars","6",27435
+"1280","SAGDP1-1","56000","Wyoming","2001","Millions of chained 2012 dollars","6",29130.5
+"1281","SAGDP1-1","56000","Wyoming","2002","Millions of chained 2012 dollars","6",29777.1
+"1282","SAGDP1-1","56000","Wyoming","2003","Millions of chained 2012 dollars","6",30673.2
+"1283","SAGDP1-1","56000","Wyoming","2004","Millions of chained 2012 dollars","6",31695.7
+"1284","SAGDP1-1","56000","Wyoming","2005","Millions of chained 2012 dollars","6",33484
+"1285","SAGDP1-1","56000","Wyoming","2006","Millions of chained 2012 dollars","6",37813.4
+"1286","SAGDP1-1","56000","Wyoming","2007","Millions of chained 2012 dollars","6",40632.2
+"1287","SAGDP1-1","56000","Wyoming","2008","Millions of chained 2012 dollars","6",42868.2
+"1288","SAGDP1-1","56000","Wyoming","2009","Millions of chained 2012 dollars","6",41546.4
+"1289","SAGDP1-1","56000","Wyoming","2010","Millions of chained 2012 dollars","6",40056.6
+"1290","SAGDP1-1","56000","Wyoming","2011","Millions of chained 2012 dollars","6",39767.9
+"1291","SAGDP1-1","56000","Wyoming","2012","Millions of chained 2012 dollars","6",38855.4
+"1292","SAGDP1-1","56000","Wyoming","2013","Millions of chained 2012 dollars","6",38849.6
+"1293","SAGDP1-1","56000","Wyoming","2014","Millions of chained 2012 dollars","6",39559.4
+"1294","SAGDP1-1","56000","Wyoming","2015","Millions of chained 2012 dollars","6",40418.2
+"1295","SAGDP1-1","56000","Wyoming","2016","Millions of chained 2012 dollars","6",38188.7
+"1296","SAGDP1-1","56000","Wyoming","2017","Millions of chained 2012 dollars","6",37429.1
+"1297","SAGDP1-1","56000","Wyoming","2018","Millions of chained 2012 dollars","6",37987.9
+"1298","SAGDP1-1","56000","Wyoming","2019","Millions of chained 2012 dollars","6",38628.4
+"1299","SAGDP1-1","56000","Wyoming","2020","Millions of chained 2012 dollars","6",36256.7
+"1300","SAGDP1-1","56000","Wyoming","2021","Millions of chained 2012 dollars","6",36660.9
+"1301","SAGDP1-1","91000","New England","1997","Millions of chained 2012 dollars","6",644303.8
+"1302","SAGDP1-1","91000","New England","1998","Millions of chained 2012 dollars","6",669384.9
+"1303","SAGDP1-1","91000","New England","1999","Millions of chained 2012 dollars","6",698204.9
+"1304","SAGDP1-1","91000","New England","2000","Millions of chained 2012 dollars","6",747744.8
+"1305","SAGDP1-1","91000","New England","2001","Millions of chained 2012 dollars","6",757420.4
+"1306","SAGDP1-1","91000","New England","2002","Millions of chained 2012 dollars","6",761438
+"1307","SAGDP1-1","91000","New England","2003","Millions of chained 2012 dollars","6",776351.7
+"1308","SAGDP1-1","91000","New England","2004","Millions of chained 2012 dollars","6",808408.5
+"1309","SAGDP1-1","91000","New England","2005","Millions of chained 2012 dollars","6",823541
+"1310","SAGDP1-1","91000","New England","2006","Millions of chained 2012 dollars","6",845679.2
+"1311","SAGDP1-1","91000","New England","2007","Millions of chained 2012 dollars","6",864737.2
+"1312","SAGDP1-1","91000","New England","2008","Millions of chained 2012 dollars","6",871391.8
+"1313","SAGDP1-1","91000","New England","2009","Millions of chained 2012 dollars","6",847918
+"1314","SAGDP1-1","91000","New England","2010","Millions of chained 2012 dollars","6",871286.6
+"1315","SAGDP1-1","91000","New England","2011","Millions of chained 2012 dollars","6",874676.4
+"1316","SAGDP1-1","91000","New England","2012","Millions of chained 2012 dollars","6",886830.9
+"1317","SAGDP1-1","91000","New England","2013","Millions of chained 2012 dollars","6",883832.2
+"1318","SAGDP1-1","91000","New England","2014","Millions of chained 2012 dollars","6",892794.1
+"1319","SAGDP1-1","91000","New England","2015","Millions of chained 2012 dollars","6",919157.9
+"1320","SAGDP1-1","91000","New England","2016","Millions of chained 2012 dollars","6",930060.1
+"1321","SAGDP1-1","91000","New England","2017","Millions of chained 2012 dollars","6",944633.4
+"1322","SAGDP1-1","91000","New England","2018","Millions of chained 2012 dollars","6",968759.6
+"1323","SAGDP1-1","91000","New England","2019","Millions of chained 2012 dollars","6",988892.2
+"1324","SAGDP1-1","91000","New England","2020","Millions of chained 2012 dollars","6",948806.2
+"1325","SAGDP1-1","91000","New England","2021","Millions of chained 2012 dollars","6",1003841
+"1326","SAGDP1-1","92000","Mideast","1997","Millions of chained 2012 dollars","6",2247518.1
+"1327","SAGDP1-1","92000","Mideast","1998","Millions of chained 2012 dollars","6",2303815.3
+"1328","SAGDP1-1","92000","Mideast","1999","Millions of chained 2012 dollars","6",2404257.5
+"1329","SAGDP1-1","92000","Mideast","2000","Millions of chained 2012 dollars","6",2495474.9
+"1330","SAGDP1-1","92000","Mideast","2001","Millions of chained 2012 dollars","6",2545358.3
+"1331","SAGDP1-1","92000","Mideast","2002","Millions of chained 2012 dollars","6",2564149.5
+"1332","SAGDP1-1","92000","Mideast","2003","Millions of chained 2012 dollars","6",2602139.6
+"1333","SAGDP1-1","92000","Mideast","2004","Millions of chained 2012 dollars","6",2674645.1
+"1334","SAGDP1-1","92000","Mideast","2005","Millions of chained 2012 dollars","6",2732262.5
+"1335","SAGDP1-1","92000","Mideast","2006","Millions of chained 2012 dollars","6",2779648.4
+"1336","SAGDP1-1","92000","Mideast","2007","Millions of chained 2012 dollars","6",2816894.3
+"1337","SAGDP1-1","92000","Mideast","2008","Millions of chained 2012 dollars","6",2834463.4
+"1338","SAGDP1-1","92000","Mideast","2009","Millions of chained 2012 dollars","6",2826401
+"1339","SAGDP1-1","92000","Mideast","2010","Millions of chained 2012 dollars","6",2915024.2
+"1340","SAGDP1-1","92000","Mideast","2011","Millions of chained 2012 dollars","6",2931297.8
+"1341","SAGDP1-1","92000","Mideast","2012","Millions of chained 2012 dollars","6",3000390.3
+"1342","SAGDP1-1","92000","Mideast","2013","Millions of chained 2012 dollars","6",3015840.4
+"1343","SAGDP1-1","92000","Mideast","2014","Millions of chained 2012 dollars","6",3064347.2
+"1344","SAGDP1-1","92000","Mideast","2015","Millions of chained 2012 dollars","6",3117788.1
+"1345","SAGDP1-1","92000","Mideast","2016","Millions of chained 2012 dollars","6",3169514.5
+"1346","SAGDP1-1","92000","Mideast","2017","Millions of chained 2012 dollars","6",3199418.3
+"1347","SAGDP1-1","92000","Mideast","2018","Millions of chained 2012 dollars","6",3266795.5
+"1348","SAGDP1-1","92000","Mideast","2019","Millions of chained 2012 dollars","6",3332614.5
+"1349","SAGDP1-1","92000","Mideast","2020","Millions of chained 2012 dollars","6",3177941.7
+"1350","SAGDP1-1","92000","Mideast","2021","Millions of chained 2012 dollars","6",3322693.7
+"1351","SAGDP1-1","93000","Great Lakes","1997","Millions of chained 2012 dollars","6",1886638.4
+"1352","SAGDP1-1","93000","Great Lakes","1998","Millions of chained 2012 dollars","6",1952414
+"1353","SAGDP1-1","93000","Great Lakes","1999","Millions of chained 2012 dollars","6",2028189
+"1354","SAGDP1-1","93000","Great Lakes","2000","Millions of chained 2012 dollars","6",2086427.5
+"1355","SAGDP1-1","93000","Great Lakes","2001","Millions of chained 2012 dollars","6",2066243.8
+"1356","SAGDP1-1","93000","Great Lakes","2002","Millions of chained 2012 dollars","6",2103976.8
+"1357","SAGDP1-1","93000","Great Lakes","2003","Millions of chained 2012 dollars","6",2147346.6
+"1358","SAGDP1-1","93000","Great Lakes","2004","Millions of chained 2012 dollars","6",2203913.3
+"1359","SAGDP1-1","93000","Great Lakes","2005","Millions of chained 2012 dollars","6",2245204.3
+"1360","SAGDP1-1","93000","Great Lakes","2006","Millions of chained 2012 dollars","6",2264731.9
+"1361","SAGDP1-1","93000","Great Lakes","2007","Millions of chained 2012 dollars","6",2280390.5
+"1362","SAGDP1-1","93000","Great Lakes","2008","Millions of chained 2012 dollars","6",2232291.3
+"1363","SAGDP1-1","93000","Great Lakes","2009","Millions of chained 2012 dollars","6",2120546.8
+"1364","SAGDP1-1","93000","Great Lakes","2010","Millions of chained 2012 dollars","6",2190695.2
+"1365","SAGDP1-1","93000","Great Lakes","2011","Millions of chained 2012 dollars","6",2239179.7
+"1366","SAGDP1-1","93000","Great Lakes","2012","Millions of chained 2012 dollars","6",2272451.4
+"1367","SAGDP1-1","93000","Great Lakes","2013","Millions of chained 2012 dollars","6",2296352.8
+"1368","SAGDP1-1","93000","Great Lakes","2014","Millions of chained 2012 dollars","6",2350412.9
+"1369","SAGDP1-1","93000","Great Lakes","2015","Millions of chained 2012 dollars","6",2377289.8
+"1370","SAGDP1-1","93000","Great Lakes","2016","Millions of chained 2012 dollars","6",2397149.9
+"1371","SAGDP1-1","93000","Great Lakes","2017","Millions of chained 2012 dollars","6",2422250
+"1372","SAGDP1-1","93000","Great Lakes","2018","Millions of chained 2012 dollars","6",2477369.9
+"1373","SAGDP1-1","93000","Great Lakes","2019","Millions of chained 2012 dollars","6",2498312.1
+"1374","SAGDP1-1","93000","Great Lakes","2020","Millions of chained 2012 dollars","6",2394639.2
+"1375","SAGDP1-1","93000","Great Lakes","2021","Millions of chained 2012 dollars","6",2518467.5
+"1376","SAGDP1-1","94000","Plains","1997","Millions of chained 2012 dollars","6",775779.2
+"1377","SAGDP1-1","94000","Plains","1998","Millions of chained 2012 dollars","6",799886.3
+"1378","SAGDP1-1","94000","Plains","1999","Millions of chained 2012 dollars","6",823040.5
+"1379","SAGDP1-1","94000","Plains","2000","Millions of chained 2012 dollars","6",859198.7
+"1380","SAGDP1-1","94000","Plains","2001","Millions of chained 2012 dollars","6",858189.8
+"1381","SAGDP1-1","94000","Plains","2002","Millions of chained 2012 dollars","6",878908.5
+"1382","SAGDP1-1","94000","Plains","2003","Millions of chained 2012 dollars","6",908826.1
+"1383","SAGDP1-1","94000","Plains","2004","Millions of chained 2012 dollars","6",943499.4
+"1384","SAGDP1-1","94000","Plains","2005","Millions of chained 2012 dollars","6",973678.4
+"1385","SAGDP1-1","94000","Plains","2006","Millions of chained 2012 dollars","6",987473.2
+"1386","SAGDP1-1","94000","Plains","2007","Millions of chained 2012 dollars","6",1007712.2
+"1387","SAGDP1-1","94000","Plains","2008","Millions of chained 2012 dollars","6",1018608
+"1388","SAGDP1-1","94000","Plains","2009","Millions of chained 2012 dollars","6",994034.3
+"1389","SAGDP1-1","94000","Plains","2010","Millions of chained 2012 dollars","6",1019543.5
+"1390","SAGDP1-1","94000","Plains","2011","Millions of chained 2012 dollars","6",1042277.3
+"1391","SAGDP1-1","94000","Plains","2012","Millions of chained 2012 dollars","6",1068680
+"1392","SAGDP1-1","94000","Plains","2013","Millions of chained 2012 dollars","6",1082005.4
+"1393","SAGDP1-1","94000","Plains","2014","Millions of chained 2012 dollars","6",1112700.8
+"1394","SAGDP1-1","94000","Plains","2015","Millions of chained 2012 dollars","6",1131523.3
+"1395","SAGDP1-1","94000","Plains","2016","Millions of chained 2012 dollars","6",1139110.9
+"1396","SAGDP1-1","94000","Plains","2017","Millions of chained 2012 dollars","6",1151080.2
+"1397","SAGDP1-1","94000","Plains","2018","Millions of chained 2012 dollars","6",1175709.2
+"1398","SAGDP1-1","94000","Plains","2019","Millions of chained 2012 dollars","6",1185380
+"1399","SAGDP1-1","94000","Plains","2020","Millions of chained 2012 dollars","6",1154563.6
+"1400","SAGDP1-1","94000","Plains","2021","Millions of chained 2012 dollars","6",1212805.5
+"1401","SAGDP1-1","95000","Southeast","1997","Millions of chained 2012 dollars","6",2559824.8
+"1402","SAGDP1-1","95000","Southeast","1998","Millions of chained 2012 dollars","6",2679378
+"1403","SAGDP1-1","95000","Southeast","1999","Millions of chained 2012 dollars","6",2805799.2
+"1404","SAGDP1-1","95000","Southeast","2000","Millions of chained 2012 dollars","6",2875573.2
+"1405","SAGDP1-1","95000","Southeast","2001","Millions of chained 2012 dollars","6",2915809.8
+"1406","SAGDP1-1","95000","Southeast","2002","Millions of chained 2012 dollars","6",2988953.8
+"1407","SAGDP1-1","95000","Southeast","2003","Millions of chained 2012 dollars","6",3095287.9
+"1408","SAGDP1-1","95000","Southeast","2004","Millions of chained 2012 dollars","6",3238846.8
+"1409","SAGDP1-1","95000","Southeast","2005","Millions of chained 2012 dollars","6",3393497.8
+"1410","SAGDP1-1","95000","Southeast","2006","Millions of chained 2012 dollars","6",3478441.8
+"1411","SAGDP1-1","95000","Southeast","2007","Millions of chained 2012 dollars","6",3491402.6
+"1412","SAGDP1-1","95000","Southeast","2008","Millions of chained 2012 dollars","6",3465267.4
+"1413","SAGDP1-1","95000","Southeast","2009","Millions of chained 2012 dollars","6",3344254.2
+"1414","SAGDP1-1","95000","Southeast","2010","Millions of chained 2012 dollars","6",3406994.9
+"1415","SAGDP1-1","95000","Southeast","2011","Millions of chained 2012 dollars","6",3429358.6
+"1416","SAGDP1-1","95000","Southeast","2012","Millions of chained 2012 dollars","6",3463374.9
+"1417","SAGDP1-1","95000","Southeast","2013","Millions of chained 2012 dollars","6",3504567.5
+"1418","SAGDP1-1","95000","Southeast","2014","Millions of chained 2012 dollars","6",3566658.6
+"1419","SAGDP1-1","95000","Southeast","2015","Millions of chained 2012 dollars","6",3659519.8
+"1420","SAGDP1-1","95000","Southeast","2016","Millions of chained 2012 dollars","6",3731745.8
+"1421","SAGDP1-1","95000","Southeast","2017","Millions of chained 2012 dollars","6",3828063
+"1422","SAGDP1-1","95000","Southeast","2018","Millions of chained 2012 dollars","6",3912240.3
+"1423","SAGDP1-1","95000","Southeast","2019","Millions of chained 2012 dollars","6",3997218.3
+"1424","SAGDP1-1","95000","Southeast","2020","Millions of chained 2012 dollars","6",3870598.5
+"1425","SAGDP1-1","95000","Southeast","2021","Millions of chained 2012 dollars","6",4094466.5
+"1426","SAGDP1-1","96000","Southwest","1997","Millions of chained 2012 dollars","6",1219650.3
+"1427","SAGDP1-1","96000","Southwest","1998","Millions of chained 2012 dollars","6",1291419.2
+"1428","SAGDP1-1","96000","Southwest","1999","Millions of chained 2012 dollars","6",1349497.5
+"1429","SAGDP1-1","96000","Southwest","2000","Millions of chained 2012 dollars","6",1399177.5
+"1430","SAGDP1-1","96000","Southwest","2001","Millions of chained 2012 dollars","6",1433412.4
+"1431","SAGDP1-1","96000","Southwest","2002","Millions of chained 2012 dollars","6",1468710.1
+"1432","SAGDP1-1","96000","Southwest","2003","Millions of chained 2012 dollars","6",1494711.2
+"1433","SAGDP1-1","96000","Southwest","2004","Millions of chained 2012 dollars","6",1574754
+"1434","SAGDP1-1","96000","Southwest","2005","Millions of chained 2012 dollars","6",1631070.8
+"1435","SAGDP1-1","96000","Southwest","2006","Millions of chained 2012 dollars","6",1741493.8
+"1436","SAGDP1-1","96000","Southwest","2007","Millions of chained 2012 dollars","6",1812222.9
+"1437","SAGDP1-1","96000","Southwest","2008","Millions of chained 2012 dollars","6",1812205.1
+"1438","SAGDP1-1","96000","Southwest","2009","Millions of chained 2012 dollars","6",1783063.6
+"1439","SAGDP1-1","96000","Southwest","2010","Millions of chained 2012 dollars","6",1818423.8
+"1440","SAGDP1-1","96000","Southwest","2011","Millions of chained 2012 dollars","6",1873580.3
+"1441","SAGDP1-1","96000","Southwest","2012","Millions of chained 2012 dollars","6",1955419.7
+"1442","SAGDP1-1","96000","Southwest","2013","Millions of chained 2012 dollars","6",2022737.7
+"1443","SAGDP1-1","96000","Southwest","2014","Millions of chained 2012 dollars","6",2084949.4
+"1444","SAGDP1-1","96000","Southwest","2015","Millions of chained 2012 dollars","6",2175132.2
+"1445","SAGDP1-1","96000","Southwest","2016","Millions of chained 2012 dollars","6",2194018.1
+"1446","SAGDP1-1","96000","Southwest","2017","Millions of chained 2012 dollars","6",2250967.9
+"1447","SAGDP1-1","96000","Southwest","2018","Millions of chained 2012 dollars","6",2332375.8
+"1448","SAGDP1-1","96000","Southwest","2019","Millions of chained 2012 dollars","6",2406074
+"1449","SAGDP1-1","96000","Southwest","2020","Millions of chained 2012 dollars","6",2340500.9
+"1450","SAGDP1-1","96000","Southwest","2021","Millions of chained 2012 dollars","6",2461192.8
+"1451","SAGDP1-1","97000","Rocky Mountain","1997","Millions of chained 2012 dollars","6",355337.6
+"1452","SAGDP1-1","97000","Rocky Mountain","1998","Millions of chained 2012 dollars","6",380836.4
+"1453","SAGDP1-1","97000","Rocky Mountain","1999","Millions of chained 2012 dollars","6",404324.4
+"1454","SAGDP1-1","97000","Rocky Mountain","2000","Millions of chained 2012 dollars","6",430731.2
+"1455","SAGDP1-1","97000","Rocky Mountain","2001","Millions of chained 2012 dollars","6",435650.9
+"1456","SAGDP1-1","97000","Rocky Mountain","2002","Millions of chained 2012 dollars","6",440386.2
+"1457","SAGDP1-1","97000","Rocky Mountain","2003","Millions of chained 2012 dollars","6",448009.9
+"1458","SAGDP1-1","97000","Rocky Mountain","2004","Millions of chained 2012 dollars","6",462705.8
+"1459","SAGDP1-1","97000","Rocky Mountain","2005","Millions of chained 2012 dollars","6",488569.6
+"1460","SAGDP1-1","97000","Rocky Mountain","2006","Millions of chained 2012 dollars","6",509836.3
+"1461","SAGDP1-1","97000","Rocky Mountain","2007","Millions of chained 2012 dollars","6",530341.5
+"1462","SAGDP1-1","97000","Rocky Mountain","2008","Millions of chained 2012 dollars","6",538771.6
+"1463","SAGDP1-1","97000","Rocky Mountain","2009","Millions of chained 2012 dollars","6",524740.5
+"1464","SAGDP1-1","97000","Rocky Mountain","2010","Millions of chained 2012 dollars","6",530904
+"1465","SAGDP1-1","97000","Rocky Mountain","2011","Millions of chained 2012 dollars","6",539570
+"1466","SAGDP1-1","97000","Rocky Mountain","2012","Millions of chained 2012 dollars","6",545855.9
+"1467","SAGDP1-1","97000","Rocky Mountain","2013","Millions of chained 2012 dollars","6",561827.6
+"1468","SAGDP1-1","97000","Rocky Mountain","2014","Millions of chained 2012 dollars","6",581511.1
+"1469","SAGDP1-1","97000","Rocky Mountain","2015","Millions of chained 2012 dollars","6",603077.3
+"1470","SAGDP1-1","97000","Rocky Mountain","2016","Millions of chained 2012 dollars","6",615453
+"1471","SAGDP1-1","97000","Rocky Mountain","2017","Millions of chained 2012 dollars","6",635294.5
+"1472","SAGDP1-1","97000","Rocky Mountain","2018","Millions of chained 2012 dollars","6",662355.7
+"1473","SAGDP1-1","97000","Rocky Mountain","2019","Millions of chained 2012 dollars","6",688174.4
+"1474","SAGDP1-1","97000","Rocky Mountain","2020","Millions of chained 2012 dollars","6",674672.5
+"1475","SAGDP1-1","97000","Rocky Mountain","2021","Millions of chained 2012 dollars","6",714148.4
+"1476","SAGDP1-1","98000","Far West","1997","Millions of chained 2012 dollars","6",1952513.2
+"1477","SAGDP1-1","98000","Far West","1998","Millions of chained 2012 dollars","6",2068915.1
+"1478","SAGDP1-1","98000","Far West","1999","Millions of chained 2012 dollars","6",2204996.1
+"1479","SAGDP1-1","98000","Far West","2000","Millions of chained 2012 dollars","6",2346005
+"1480","SAGDP1-1","98000","Far West","2001","Millions of chained 2012 dollars","6",2335553.1
+"1481","SAGDP1-1","98000","Far West","2002","Millions of chained 2012 dollars","6",2379318.6
+"1482","SAGDP1-1","98000","Far West","2003","Millions of chained 2012 dollars","6",2465192.6
+"1483","SAGDP1-1","98000","Far West","2004","Millions of chained 2012 dollars","6",2557365.9
+"1484","SAGDP1-1","98000","Far West","2005","Millions of chained 2012 dollars","6",2675247.4
+"1485","SAGDP1-1","98000","Far West","2006","Millions of chained 2012 dollars","6",2782329.5
+"1486","SAGDP1-1","98000","Far West","2007","Millions of chained 2012 dollars","6",2848735.3
+"1487","SAGDP1-1","98000","Far West","2008","Millions of chained 2012 dollars","6",2877635.3
+"1488","SAGDP1-1","98000","Far West","2009","Millions of chained 2012 dollars","6",2783389.3
+"1489","SAGDP1-1","98000","Far West","2010","Millions of chained 2012 dollars","6",2840235.3
+"1490","SAGDP1-1","98000","Far West","2011","Millions of chained 2012 dollars","6",2881974.3
+"1491","SAGDP1-1","98000","Far West","2012","Millions of chained 2012 dollars","6",2947739.8
+"1492","SAGDP1-1","98000","Far West","2013","Millions of chained 2012 dollars","6",3024136
+"1493","SAGDP1-1","98000","Far West","2014","Millions of chained 2012 dollars","6",3120257.1
+"1494","SAGDP1-1","98000","Far West","2015","Millions of chained 2012 dollars","6",3256304.5
+"1495","SAGDP1-1","98000","Far West","2016","Millions of chained 2012 dollars","6",3356107.1
+"1496","SAGDP1-1","98000","Far West","2017","Millions of chained 2012 dollars","6",3509554.5
+"1497","SAGDP1-1","98000","Far West","2018","Millions of chained 2012 dollars","6",3658837.3
+"1498","SAGDP1-1","98000","Far West","2019","Millions of chained 2012 dollars","6",3784764.2
+"1499","SAGDP1-1","98000","Far West","2020","Millions of chained 2012 dollars","6",3675675.2
+"1500","SAGDP1-1","98000","Far West","2021","Millions of chained 2012 dollars","6",3944428.4

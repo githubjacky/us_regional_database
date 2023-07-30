@@ -1,0 +1,1981 @@
+"","Code","GeoFips","GeoName","TimePeriod","CL_UNIT","UNIT_MULT","DataValue"
+"1","SAEMP25S-10","00000","United States","1969","Number of jobs","0",91053200
+"2","SAEMP25S-10","00000","United States","1970","Number of jobs","0",91277600
+"3","SAEMP25S-10","00000","United States","1971","Number of jobs","0",91581400
+"4","SAEMP25S-10","00000","United States","1972","Number of jobs","0",94312200
+"5","SAEMP25S-10","00000","United States","1973","Number of jobs","0",98427500
+"6","SAEMP25S-10","00000","United States","1974","Number of jobs","0",100111800
+"7","SAEMP25S-10","00000","United States","1975","Number of jobs","0",98900600
+"8","SAEMP25S-10","00000","United States","1976","Number of jobs","0",101591200
+"9","SAEMP25S-10","00000","United States","1977","Number of jobs","0",105042200
+"10","SAEMP25S-10","00000","United States","1978","Number of jobs","0",109686600
+"11","SAEMP25S-10","00000","United States","1979","Number of jobs","0",113147100
+"12","SAEMP25S-10","00000","United States","1980","Number of jobs","0",113983200
+"13","SAEMP25S-10","00000","United States","1981","Number of jobs","0",114914000
+"14","SAEMP25S-10","00000","United States","1982","Number of jobs","0",114163300
+"15","SAEMP25S-10","00000","United States","1983","Number of jobs","0",115645700
+"16","SAEMP25S-10","00000","United States","1984","Number of jobs","0",120528100
+"17","SAEMP25S-10","00000","United States","1985","Number of jobs","0",123796700
+"18","SAEMP25S-10","00000","United States","1986","Number of jobs","0",126232300
+"19","SAEMP25S-10","00000","United States","1987","Number of jobs","0",129548400
+"20","SAEMP25S-10","00000","United States","1988","Number of jobs","0",133563900
+"21","SAEMP25S-10","00000","United States","1989","Number of jobs","0",136177800
+"22","SAEMP25S-10","00000","United States","1990","Number of jobs","0",138330900
+"23","SAEMP25S-10","00000","United States","1991","Number of jobs","0",137612800
+"24","SAEMP25S-10","00000","United States","1992","Number of jobs","0",138166100
+"25","SAEMP25S-10","00000","United States","1993","Number of jobs","0",140774400
+"26","SAEMP25S-10","00000","United States","1994","Number of jobs","0",144196600
+"27","SAEMP25S-10","00000","United States","1995","Number of jobs","0",147915800
+"28","SAEMP25S-10","00000","United States","1996","Number of jobs","0",151056200
+"29","SAEMP25S-10","00000","United States","1997","Number of jobs","0",154541200
+"30","SAEMP25S-10","00000","United States","1998","Number of jobs","0",158481200
+"31","SAEMP25S-10","00000","United States","1999","Number of jobs","0",161531300
+"32","SAEMP25S-10","00000","United States","2000","Number of jobs","0",165370800
+"33","SAEMP25S-10","00000","United States","2001","Number of jobs","0",165522200
+"34","SAEMP25S-10","01000","Alabama","1969","Number of jobs","0",1411234
+"35","SAEMP25S-10","01000","Alabama","1970","Number of jobs","0",1412928
+"36","SAEMP25S-10","01000","Alabama","1971","Number of jobs","0",1423459
+"37","SAEMP25S-10","01000","Alabama","1972","Number of jobs","0",1470523
+"38","SAEMP25S-10","01000","Alabama","1973","Number of jobs","0",1525967
+"39","SAEMP25S-10","01000","Alabama","1974","Number of jobs","0",1552266
+"40","SAEMP25S-10","01000","Alabama","1975","Number of jobs","0",1543312
+"41","SAEMP25S-10","01000","Alabama","1976","Number of jobs","0",1593952
+"42","SAEMP25S-10","01000","Alabama","1977","Number of jobs","0",1651033
+"43","SAEMP25S-10","01000","Alabama","1978","Number of jobs","0",1712582
+"44","SAEMP25S-10","01000","Alabama","1979","Number of jobs","0",1735879
+"45","SAEMP25S-10","01000","Alabama","1980","Number of jobs","0",1731866
+"46","SAEMP25S-10","01000","Alabama","1981","Number of jobs","0",1718783
+"47","SAEMP25S-10","01000","Alabama","1982","Number of jobs","0",1687466
+"48","SAEMP25S-10","01000","Alabama","1983","Number of jobs","0",1716798
+"49","SAEMP25S-10","01000","Alabama","1984","Number of jobs","0",1779584
+"50","SAEMP25S-10","01000","Alabama","1985","Number of jobs","0",1821588
+"51","SAEMP25S-10","01000","Alabama","1986","Number of jobs","0",1858269
+"52","SAEMP25S-10","01000","Alabama","1987","Number of jobs","0",1911569
+"53","SAEMP25S-10","01000","Alabama","1988","Number of jobs","0",1969768
+"54","SAEMP25S-10","01000","Alabama","1989","Number of jobs","0",2006365
+"55","SAEMP25S-10","01000","Alabama","1990","Number of jobs","0",2047865
+"56","SAEMP25S-10","01000","Alabama","1991","Number of jobs","0",2060099
+"57","SAEMP25S-10","01000","Alabama","1992","Number of jobs","0",2097425
+"58","SAEMP25S-10","01000","Alabama","1993","Number of jobs","0",2158752
+"59","SAEMP25S-10","01000","Alabama","1994","Number of jobs","0",2180001
+"60","SAEMP25S-10","01000","Alabama","1995","Number of jobs","0",2241551
+"61","SAEMP25S-10","01000","Alabama","1996","Number of jobs","0",2275108
+"62","SAEMP25S-10","01000","Alabama","1997","Number of jobs","0",2321253
+"63","SAEMP25S-10","01000","Alabama","1998","Number of jobs","0",2361892
+"64","SAEMP25S-10","01000","Alabama","1999","Number of jobs","0",2378217
+"65","SAEMP25S-10","01000","Alabama","2000","Number of jobs","0",2392225
+"66","SAEMP25S-10","01000","Alabama","2001","Number of jobs","0",2376053
+"67","SAEMP25S-10","02000","Alaska","1969","Number of jobs","0",143816
+"68","SAEMP25S-10","02000","Alaska","1970","Number of jobs","0",149006
+"69","SAEMP25S-10","02000","Alaska","1971","Number of jobs","0",153071
+"70","SAEMP25S-10","02000","Alaska","1972","Number of jobs","0",158341
+"71","SAEMP25S-10","02000","Alaska","1973","Number of jobs","0",167102
+"72","SAEMP25S-10","02000","Alaska","1974","Number of jobs","0",188957
+"73","SAEMP25S-10","02000","Alaska","1975","Number of jobs","0",227185
+"74","SAEMP25S-10","02000","Alaska","1976","Number of jobs","0",242956
+"75","SAEMP25S-10","02000","Alaska","1977","Number of jobs","0",236928
+"76","SAEMP25S-10","02000","Alaska","1978","Number of jobs","0",237556
+"77","SAEMP25S-10","02000","Alaska","1979","Number of jobs","0",240753
+"78","SAEMP25S-10","02000","Alaska","1980","Number of jobs","0",243706
+"79","SAEMP25S-10","02000","Alaska","1981","Number of jobs","0",252410
+"80","SAEMP25S-10","02000","Alaska","1982","Number of jobs","0",277085
+"81","SAEMP25S-10","02000","Alaska","1983","Number of jobs","0",296629
+"82","SAEMP25S-10","02000","Alaska","1984","Number of jobs","0",309004
+"83","SAEMP25S-10","02000","Alaska","1985","Number of jobs","0",316395
+"84","SAEMP25S-10","02000","Alaska","1986","Number of jobs","0",309714
+"85","SAEMP25S-10","02000","Alaska","1987","Number of jobs","0",310141
+"86","SAEMP25S-10","02000","Alaska","1988","Number of jobs","0",316728
+"87","SAEMP25S-10","02000","Alaska","1989","Number of jobs","0",328642
+"88","SAEMP25S-10","02000","Alaska","1990","Number of jobs","0",338924
+"89","SAEMP25S-10","02000","Alaska","1991","Number of jobs","0",347156
+"90","SAEMP25S-10","02000","Alaska","1992","Number of jobs","0",350764
+"91","SAEMP25S-10","02000","Alaska","1993","Number of jobs","0",358161
+"92","SAEMP25S-10","02000","Alaska","1994","Number of jobs","0",363344
+"93","SAEMP25S-10","02000","Alaska","1995","Number of jobs","0",365083
+"94","SAEMP25S-10","02000","Alaska","1996","Number of jobs","0",369095
+"95","SAEMP25S-10","02000","Alaska","1997","Number of jobs","0",374497
+"96","SAEMP25S-10","02000","Alaska","1998","Number of jobs","0",382166
+"97","SAEMP25S-10","02000","Alaska","1999","Number of jobs","0",381307
+"98","SAEMP25S-10","02000","Alaska","2000","Number of jobs","0",389734
+"99","SAEMP25S-10","02000","Alaska","2001","Number of jobs","0",394565
+"100","SAEMP25S-10","04000","Arizona","1969","Number of jobs","0",711344
+"101","SAEMP25S-10","04000","Arizona","1970","Number of jobs","0",746653
+"102","SAEMP25S-10","04000","Arizona","1971","Number of jobs","0",785731
+"103","SAEMP25S-10","04000","Arizona","1972","Number of jobs","0",849706
+"104","SAEMP25S-10","04000","Arizona","1973","Number of jobs","0",924890
+"105","SAEMP25S-10","04000","Arizona","1974","Number of jobs","0",955104
+"106","SAEMP25S-10","04000","Arizona","1975","Number of jobs","0",935070
+"107","SAEMP25S-10","04000","Arizona","1976","Number of jobs","0",976118
+"108","SAEMP25S-10","04000","Arizona","1977","Number of jobs","0",1047500
+"109","SAEMP25S-10","04000","Arizona","1978","Number of jobs","0",1149617
+"110","SAEMP25S-10","04000","Arizona","1979","Number of jobs","0",1240161
+"111","SAEMP25S-10","04000","Arizona","1980","Number of jobs","0",1282615
+"112","SAEMP25S-10","04000","Arizona","1981","Number of jobs","0",1312566
+"113","SAEMP25S-10","04000","Arizona","1982","Number of jobs","0",1315333
+"114","SAEMP25S-10","04000","Arizona","1983","Number of jobs","0",1378623
+"115","SAEMP25S-10","04000","Arizona","1984","Number of jobs","0",1504336
+"116","SAEMP25S-10","04000","Arizona","1985","Number of jobs","0",1621750
+"117","SAEMP25S-10","04000","Arizona","1986","Number of jobs","0",1700594
+"118","SAEMP25S-10","04000","Arizona","1987","Number of jobs","0",1764638
+"119","SAEMP25S-10","04000","Arizona","1988","Number of jobs","0",1833198
+"120","SAEMP25S-10","04000","Arizona","1989","Number of jobs","0",1864934
+"121","SAEMP25S-10","04000","Arizona","1990","Number of jobs","0",1894104
+"122","SAEMP25S-10","04000","Arizona","1991","Number of jobs","0",1902691
+"123","SAEMP25S-10","04000","Arizona","1992","Number of jobs","0",1925190
+"124","SAEMP25S-10","04000","Arizona","1993","Number of jobs","0",2010588
+"125","SAEMP25S-10","04000","Arizona","1994","Number of jobs","0",2141302
+"126","SAEMP25S-10","04000","Arizona","1995","Number of jobs","0",2257829
+"127","SAEMP25S-10","04000","Arizona","1996","Number of jobs","0",2387542
+"128","SAEMP25S-10","04000","Arizona","1997","Number of jobs","0",2497165
+"129","SAEMP25S-10","04000","Arizona","1998","Number of jobs","0",2616288
+"130","SAEMP25S-10","04000","Arizona","1999","Number of jobs","0",2695892
+"131","SAEMP25S-10","04000","Arizona","2000","Number of jobs","0",2801510
+"132","SAEMP25S-10","04000","Arizona","2001","Number of jobs","0",2829002
+"133","SAEMP25S-10","05000","Arkansas","1969","Number of jobs","0",799917
+"134","SAEMP25S-10","05000","Arkansas","1970","Number of jobs","0",805274
+"135","SAEMP25S-10","05000","Arkansas","1971","Number of jobs","0",830624
+"136","SAEMP25S-10","05000","Arkansas","1972","Number of jobs","0",867240
+"137","SAEMP25S-10","05000","Arkansas","1973","Number of jobs","0",901673
+"138","SAEMP25S-10","05000","Arkansas","1974","Number of jobs","0",927399
+"139","SAEMP25S-10","05000","Arkansas","1975","Number of jobs","0",904885
+"140","SAEMP25S-10","05000","Arkansas","1976","Number of jobs","0",941116
+"141","SAEMP25S-10","05000","Arkansas","1977","Number of jobs","0",981263
+"142","SAEMP25S-10","05000","Arkansas","1978","Number of jobs","0",1021156
+"143","SAEMP25S-10","05000","Arkansas","1979","Number of jobs","0",1031309
+"144","SAEMP25S-10","05000","Arkansas","1980","Number of jobs","0",1032439
+"145","SAEMP25S-10","05000","Arkansas","1981","Number of jobs","0",1026248
+"146","SAEMP25S-10","05000","Arkansas","1982","Number of jobs","0",1010727
+"147","SAEMP25S-10","05000","Arkansas","1983","Number of jobs","0",1039399
+"148","SAEMP25S-10","05000","Arkansas","1984","Number of jobs","0",1079236
+"149","SAEMP25S-10","05000","Arkansas","1985","Number of jobs","0",1098411
+"150","SAEMP25S-10","05000","Arkansas","1986","Number of jobs","0",1110294
+"151","SAEMP25S-10","05000","Arkansas","1987","Number of jobs","0",1136620
+"152","SAEMP25S-10","05000","Arkansas","1988","Number of jobs","0",1169911
+"153","SAEMP25S-10","05000","Arkansas","1989","Number of jobs","0",1189148
+"154","SAEMP25S-10","05000","Arkansas","1990","Number of jobs","0",1203622
+"155","SAEMP25S-10","05000","Arkansas","1991","Number of jobs","0",1230169
+"156","SAEMP25S-10","05000","Arkansas","1992","Number of jobs","0",1255030
+"157","SAEMP25S-10","05000","Arkansas","1993","Number of jobs","0",1301238
+"158","SAEMP25S-10","05000","Arkansas","1994","Number of jobs","0",1329036
+"159","SAEMP25S-10","05000","Arkansas","1995","Number of jobs","0",1382418
+"160","SAEMP25S-10","05000","Arkansas","1996","Number of jobs","0",1405330
+"161","SAEMP25S-10","05000","Arkansas","1997","Number of jobs","0",1427163
+"162","SAEMP25S-10","05000","Arkansas","1998","Number of jobs","0",1445536
+"163","SAEMP25S-10","05000","Arkansas","1999","Number of jobs","0",1460374
+"164","SAEMP25S-10","05000","Arkansas","2000","Number of jobs","0",1482449
+"165","SAEMP25S-10","05000","Arkansas","2001","Number of jobs","0",1482587
+"166","SAEMP25S-10","06000","California","1969","Number of jobs","0",9032738
+"167","SAEMP25S-10","06000","California","1970","Number of jobs","0",9056897
+"168","SAEMP25S-10","06000","California","1971","Number of jobs","0",9036074
+"169","SAEMP25S-10","06000","California","1972","Number of jobs","0",9368468
+"170","SAEMP25S-10","06000","California","1973","Number of jobs","0",9843939
+"171","SAEMP25S-10","06000","California","1974","Number of jobs","0",10163089
+"172","SAEMP25S-10","06000","California","1975","Number of jobs","0",10286346
+"173","SAEMP25S-10","06000","California","1976","Number of jobs","0",10632968
+"174","SAEMP25S-10","06000","California","1977","Number of jobs","0",11119255
+"175","SAEMP25S-10","06000","California","1978","Number of jobs","0",11815943
+"176","SAEMP25S-10","06000","California","1979","Number of jobs","0",12460727
+"177","SAEMP25S-10","06000","California","1980","Number of jobs","0",12761955
+"178","SAEMP25S-10","06000","California","1981","Number of jobs","0",12934962
+"179","SAEMP25S-10","06000","California","1982","Number of jobs","0",12862878
+"180","SAEMP25S-10","06000","California","1983","Number of jobs","0",13182023
+"181","SAEMP25S-10","06000","California","1984","Number of jobs","0",13796978
+"182","SAEMP25S-10","06000","California","1985","Number of jobs","0",14284986
+"183","SAEMP25S-10","06000","California","1986","Number of jobs","0",14709923
+"184","SAEMP25S-10","06000","California","1987","Number of jobs","0",15300046
+"185","SAEMP25S-10","06000","California","1988","Number of jobs","0",16021802
+"186","SAEMP25S-10","06000","California","1989","Number of jobs","0",16425901
+"187","SAEMP25S-10","06000","California","1990","Number of jobs","0",16834515
+"188","SAEMP25S-10","06000","California","1991","Number of jobs","0",16750052
+"189","SAEMP25S-10","06000","California","1992","Number of jobs","0",16390983
+"190","SAEMP25S-10","06000","California","1993","Number of jobs","0",16367123
+"191","SAEMP25S-10","06000","California","1994","Number of jobs","0",16540724
+"192","SAEMP25S-10","06000","California","1995","Number of jobs","0",16939791
+"193","SAEMP25S-10","06000","California","1996","Number of jobs","0",17341994
+"194","SAEMP25S-10","06000","California","1997","Number of jobs","0",17667115
+"195","SAEMP25S-10","06000","California","1998","Number of jobs","0",18432865
+"196","SAEMP25S-10","06000","California","1999","Number of jobs","0",18852334
+"197","SAEMP25S-10","06000","California","2000","Number of jobs","0",19228895
+"198","SAEMP25S-10","06000","California","2001","Number of jobs","0",19341458
+"199","SAEMP25S-10","08000","Colorado","1969","Number of jobs","0",1001380
+"200","SAEMP25S-10","08000","Colorado","1970","Number of jobs","0",1031727
+"201","SAEMP25S-10","08000","Colorado","1971","Number of jobs","0",1071644
+"202","SAEMP25S-10","08000","Colorado","1972","Number of jobs","0",1149119
+"203","SAEMP25S-10","08000","Colorado","1973","Number of jobs","0",1243393
+"204","SAEMP25S-10","08000","Colorado","1974","Number of jobs","0",1275871
+"205","SAEMP25S-10","08000","Colorado","1975","Number of jobs","0",1285326
+"206","SAEMP25S-10","08000","Colorado","1976","Number of jobs","0",1339513
+"207","SAEMP25S-10","08000","Colorado","1977","Number of jobs","0",1410620
+"208","SAEMP25S-10","08000","Colorado","1978","Number of jobs","0",1506123
+"209","SAEMP25S-10","08000","Colorado","1979","Number of jobs","0",1592700
+"210","SAEMP25S-10","08000","Colorado","1980","Number of jobs","0",1650988
+"211","SAEMP25S-10","08000","Colorado","1981","Number of jobs","0",1716627
+"212","SAEMP25S-10","08000","Colorado","1982","Number of jobs","0",1759629
+"213","SAEMP25S-10","08000","Colorado","1983","Number of jobs","0",1788112
+"214","SAEMP25S-10","08000","Colorado","1984","Number of jobs","0",1883141
+"215","SAEMP25S-10","08000","Colorado","1985","Number of jobs","0",1915363
+"216","SAEMP25S-10","08000","Colorado","1986","Number of jobs","0",1913687
+"217","SAEMP25S-10","08000","Colorado","1987","Number of jobs","0",1902784
+"218","SAEMP25S-10","08000","Colorado","1988","Number of jobs","0",1968280
+"219","SAEMP25S-10","08000","Colorado","1989","Number of jobs","0",2002612
+"220","SAEMP25S-10","08000","Colorado","1990","Number of jobs","0",2039626
+"221","SAEMP25S-10","08000","Colorado","1991","Number of jobs","0",2086939
+"222","SAEMP25S-10","08000","Colorado","1992","Number of jobs","0",2134517
+"223","SAEMP25S-10","08000","Colorado","1993","Number of jobs","0",2233513
+"224","SAEMP25S-10","08000","Colorado","1994","Number of jobs","0",2345496
+"225","SAEMP25S-10","08000","Colorado","1995","Number of jobs","0",2424617
+"226","SAEMP25S-10","08000","Colorado","1996","Number of jobs","0",2519426
+"227","SAEMP25S-10","08000","Colorado","1997","Number of jobs","0",2629239
+"228","SAEMP25S-10","08000","Colorado","1998","Number of jobs","0",2732491
+"229","SAEMP25S-10","08000","Colorado","1999","Number of jobs","0",2808435
+"230","SAEMP25S-10","08000","Colorado","2000","Number of jobs","0",2918002
+"231","SAEMP25S-10","08000","Colorado","2001","Number of jobs","0",2941583
+"232","SAEMP25S-10","09000","Connecticut","1969","Number of jobs","0",1417073
+"233","SAEMP25S-10","09000","Connecticut","1970","Number of jobs","0",1414365
+"234","SAEMP25S-10","09000","Connecticut","1971","Number of jobs","0",1388432
+"235","SAEMP25S-10","09000","Connecticut","1972","Number of jobs","0",1416201
+"236","SAEMP25S-10","09000","Connecticut","1973","Number of jobs","0",1480137
+"237","SAEMP25S-10","09000","Connecticut","1974","Number of jobs","0",1511144
+"238","SAEMP25S-10","09000","Connecticut","1975","Number of jobs","0",1467829
+"239","SAEMP25S-10","09000","Connecticut","1976","Number of jobs","0",1492880
+"240","SAEMP25S-10","09000","Connecticut","1977","Number of jobs","0",1546330
+"241","SAEMP25S-10","09000","Connecticut","1978","Number of jobs","0",1615435
+"242","SAEMP25S-10","09000","Connecticut","1979","Number of jobs","0",1673099
+"243","SAEMP25S-10","09000","Connecticut","1980","Number of jobs","0",1705461
+"244","SAEMP25S-10","09000","Connecticut","1981","Number of jobs","0",1726723
+"245","SAEMP25S-10","09000","Connecticut","1982","Number of jobs","0",1725903
+"246","SAEMP25S-10","09000","Connecticut","1983","Number of jobs","0",1743012
+"247","SAEMP25S-10","09000","Connecticut","1984","Number of jobs","0",1823137
+"248","SAEMP25S-10","09000","Connecticut","1985","Number of jobs","0",1879427
+"249","SAEMP25S-10","09000","Connecticut","1986","Number of jobs","0",1937316
+"250","SAEMP25S-10","09000","Connecticut","1987","Number of jobs","0",1984300
+"251","SAEMP25S-10","09000","Connecticut","1988","Number of jobs","0",2039047
+"252","SAEMP25S-10","09000","Connecticut","1989","Number of jobs","0",2032338
+"253","SAEMP25S-10","09000","Connecticut","1990","Number of jobs","0",2003473
+"254","SAEMP25S-10","09000","Connecticut","1991","Number of jobs","0",1923121
+"255","SAEMP25S-10","09000","Connecticut","1992","Number of jobs","0",1903803
+"256","SAEMP25S-10","09000","Connecticut","1993","Number of jobs","0",1924516
+"257","SAEMP25S-10","09000","Connecticut","1994","Number of jobs","0",1906480
+"258","SAEMP25S-10","09000","Connecticut","1995","Number of jobs","0",1943744
+"259","SAEMP25S-10","09000","Connecticut","1996","Number of jobs","0",1974521
+"260","SAEMP25S-10","09000","Connecticut","1997","Number of jobs","0",2000349
+"261","SAEMP25S-10","09000","Connecticut","1998","Number of jobs","0",2036825
+"262","SAEMP25S-10","09000","Connecticut","1999","Number of jobs","0",2070018
+"263","SAEMP25S-10","09000","Connecticut","2000","Number of jobs","0",2118177
+"264","SAEMP25S-10","09000","Connecticut","2001","Number of jobs","0",2125253
+"265","SAEMP25S-10","10000","Delaware","1969","Number of jobs","0",270578
+"266","SAEMP25S-10","10000","Delaware","1970","Number of jobs","0",274587
+"267","SAEMP25S-10","10000","Delaware","1971","Number of jobs","0",280122
+"268","SAEMP25S-10","10000","Delaware","1972","Number of jobs","0",292813
+"269","SAEMP25S-10","10000","Delaware","1973","Number of jobs","0",304918
+"270","SAEMP25S-10","10000","Delaware","1974","Number of jobs","0",301531
+"271","SAEMP25S-10","10000","Delaware","1975","Number of jobs","0",292148
+"272","SAEMP25S-10","10000","Delaware","1976","Number of jobs","0",295771
+"273","SAEMP25S-10","10000","Delaware","1977","Number of jobs","0",296352
+"274","SAEMP25S-10","10000","Delaware","1978","Number of jobs","0",304289
+"275","SAEMP25S-10","10000","Delaware","1979","Number of jobs","0",311835
+"276","SAEMP25S-10","10000","Delaware","1980","Number of jobs","0",311674
+"277","SAEMP25S-10","10000","Delaware","1981","Number of jobs","0",313583
+"278","SAEMP25S-10","10000","Delaware","1982","Number of jobs","0",316547
+"279","SAEMP25S-10","10000","Delaware","1983","Number of jobs","0",325291
+"280","SAEMP25S-10","10000","Delaware","1984","Number of jobs","0",339928
+"281","SAEMP25S-10","10000","Delaware","1985","Number of jobs","0",356873
+"282","SAEMP25S-10","10000","Delaware","1986","Number of jobs","0",370177
+"283","SAEMP25S-10","10000","Delaware","1987","Number of jobs","0",386540
+"284","SAEMP25S-10","10000","Delaware","1988","Number of jobs","0",402702
+"285","SAEMP25S-10","10000","Delaware","1989","Number of jobs","0",414670
+"286","SAEMP25S-10","10000","Delaware","1990","Number of jobs","0",420105
+"287","SAEMP25S-10","10000","Delaware","1991","Number of jobs","0",414316
+"288","SAEMP25S-10","10000","Delaware","1992","Number of jobs","0",413155
+"289","SAEMP25S-10","10000","Delaware","1993","Number of jobs","0",420651
+"290","SAEMP25S-10","10000","Delaware","1994","Number of jobs","0",424325
+"291","SAEMP25S-10","10000","Delaware","1995","Number of jobs","0",442453
+"292","SAEMP25S-10","10000","Delaware","1996","Number of jobs","0",452685
+"293","SAEMP25S-10","10000","Delaware","1997","Number of jobs","0",464460
+"294","SAEMP25S-10","10000","Delaware","1998","Number of jobs","0",476426
+"295","SAEMP25S-10","10000","Delaware","1999","Number of jobs","0",491018
+"296","SAEMP25S-10","10000","Delaware","2000","Number of jobs","0",503458
+"297","SAEMP25S-10","10000","Delaware","2001","Number of jobs","0",502735
+"298","SAEMP25S-10","11000","District of Columbia","1969","Number of jobs","0",676177
+"299","SAEMP25S-10","11000","District of Columbia","1970","Number of jobs","0",671811
+"300","SAEMP25S-10","11000","District of Columbia","1971","Number of jobs","0",666097
+"301","SAEMP25S-10","11000","District of Columbia","1972","Number of jobs","0",668350
+"302","SAEMP25S-10","11000","District of Columbia","1973","Number of jobs","0",661542
+"303","SAEMP25S-10","11000","District of Columbia","1974","Number of jobs","0",673254
+"304","SAEMP25S-10","11000","District of Columbia","1975","Number of jobs","0",676874
+"305","SAEMP25S-10","11000","District of Columbia","1976","Number of jobs","0",674179
+"306","SAEMP25S-10","11000","District of Columbia","1977","Number of jobs","0",679795
+"307","SAEMP25S-10","11000","District of Columbia","1978","Number of jobs","0",692709
+"308","SAEMP25S-10","11000","District of Columbia","1979","Number of jobs","0",704221
+"309","SAEMP25S-10","11000","District of Columbia","1980","Number of jobs","0",701075
+"310","SAEMP25S-10","11000","District of Columbia","1981","Number of jobs","0",688690
+"311","SAEMP25S-10","11000","District of Columbia","1982","Number of jobs","0",672654
+"312","SAEMP25S-10","11000","District of Columbia","1983","Number of jobs","0",667130
+"313","SAEMP25S-10","11000","District of Columbia","1984","Number of jobs","0",689259
+"314","SAEMP25S-10","11000","District of Columbia","1985","Number of jobs","0",702524
+"315","SAEMP25S-10","11000","District of Columbia","1986","Number of jobs","0",720831
+"316","SAEMP25S-10","11000","District of Columbia","1987","Number of jobs","0",733070
+"317","SAEMP25S-10","11000","District of Columbia","1988","Number of jobs","0",755799
+"318","SAEMP25S-10","11000","District of Columbia","1989","Number of jobs","0",762724
+"319","SAEMP25S-10","11000","District of Columbia","1990","Number of jobs","0",773211
+"320","SAEMP25S-10","11000","District of Columbia","1991","Number of jobs","0",759367
+"321","SAEMP25S-10","11000","District of Columbia","1992","Number of jobs","0",752149
+"322","SAEMP25S-10","11000","District of Columbia","1993","Number of jobs","0",750378
+"323","SAEMP25S-10","11000","District of Columbia","1994","Number of jobs","0",729620
+"324","SAEMP25S-10","11000","District of Columbia","1995","Number of jobs","0",718487
+"325","SAEMP25S-10","11000","District of Columbia","1996","Number of jobs","0",703615
+"326","SAEMP25S-10","11000","District of Columbia","1997","Number of jobs","0",698730
+"327","SAEMP25S-10","11000","District of Columbia","1998","Number of jobs","0",698434
+"328","SAEMP25S-10","11000","District of Columbia","1999","Number of jobs","0",711478
+"329","SAEMP25S-10","11000","District of Columbia","2000","Number of jobs","0",735304
+"330","SAEMP25S-10","11000","District of Columbia","2001","Number of jobs","0",741793
+"331","SAEMP25S-10","12000","Florida","1969","Number of jobs","0",2856879
+"332","SAEMP25S-10","12000","Florida","1970","Number of jobs","0",2966065
+"333","SAEMP25S-10","12000","Florida","1971","Number of jobs","0",3082056
+"334","SAEMP25S-10","12000","Florida","1972","Number of jobs","0",3338247
+"335","SAEMP25S-10","12000","Florida","1973","Number of jobs","0",3666224
+"336","SAEMP25S-10","12000","Florida","1974","Number of jobs","0",3765563
+"337","SAEMP25S-10","12000","Florida","1975","Number of jobs","0",3675506
+"338","SAEMP25S-10","12000","Florida","1976","Number of jobs","0",3729843
+"339","SAEMP25S-10","12000","Florida","1977","Number of jobs","0",3928975
+"340","SAEMP25S-10","12000","Florida","1978","Number of jobs","0",4239000
+"341","SAEMP25S-10","12000","Florida","1979","Number of jobs","0",4454247
+"342","SAEMP25S-10","12000","Florida","1980","Number of jobs","0",4687521
+"343","SAEMP25S-10","12000","Florida","1981","Number of jobs","0",4865374
+"344","SAEMP25S-10","12000","Florida","1982","Number of jobs","0",4953566
+"345","SAEMP25S-10","12000","Florida","1983","Number of jobs","0",5166943
+"346","SAEMP25S-10","12000","Florida","1984","Number of jobs","0",5501658
+"347","SAEMP25S-10","12000","Florida","1985","Number of jobs","0",5771943
+"348","SAEMP25S-10","12000","Florida","1986","Number of jobs","0",6015226
+"349","SAEMP25S-10","12000","Florida","1987","Number of jobs","0",6093623
+"350","SAEMP25S-10","12000","Florida","1988","Number of jobs","0",6390284
+"351","SAEMP25S-10","12000","Florida","1989","Number of jobs","0",6596287
+"352","SAEMP25S-10","12000","Florida","1990","Number of jobs","0",6740289
+"353","SAEMP25S-10","12000","Florida","1991","Number of jobs","0",6717581
+"354","SAEMP25S-10","12000","Florida","1992","Number of jobs","0",6762815
+"355","SAEMP25S-10","12000","Florida","1993","Number of jobs","0",7002451
+"356","SAEMP25S-10","12000","Florida","1994","Number of jobs","0",7234337
+"357","SAEMP25S-10","12000","Florida","1995","Number of jobs","0",7494170
+"358","SAEMP25S-10","12000","Florida","1996","Number of jobs","0",7739729
+"359","SAEMP25S-10","12000","Florida","1997","Number of jobs","0",8005136
+"360","SAEMP25S-10","12000","Florida","1998","Number of jobs","0",8317201
+"361","SAEMP25S-10","12000","Florida","1999","Number of jobs","0",8577884
+"362","SAEMP25S-10","12000","Florida","2000","Number of jobs","0",8881279
+"363","SAEMP25S-10","12000","Florida","2001","Number of jobs","0",8938947
+"364","SAEMP25S-10","13000","Georgia","1969","Number of jobs","0",2119105
+"365","SAEMP25S-10","13000","Georgia","1970","Number of jobs","0",2120778
+"366","SAEMP25S-10","13000","Georgia","1971","Number of jobs","0",2167432
+"367","SAEMP25S-10","13000","Georgia","1972","Number of jobs","0",2253001
+"368","SAEMP25S-10","13000","Georgia","1973","Number of jobs","0",2355871
+"369","SAEMP25S-10","13000","Georgia","1974","Number of jobs","0",2374130
+"370","SAEMP25S-10","13000","Georgia","1975","Number of jobs","0",2312736
+"371","SAEMP25S-10","13000","Georgia","1976","Number of jobs","0",2399502
+"372","SAEMP25S-10","13000","Georgia","1977","Number of jobs","0",2502692
+"373","SAEMP25S-10","13000","Georgia","1978","Number of jobs","0",2620828
+"374","SAEMP25S-10","13000","Georgia","1979","Number of jobs","0",2700081
+"375","SAEMP25S-10","13000","Georgia","1980","Number of jobs","0",2740686
+"376","SAEMP25S-10","13000","Georgia","1981","Number of jobs","0",2776006
+"377","SAEMP25S-10","13000","Georgia","1982","Number of jobs","0",2793013
+"378","SAEMP25S-10","13000","Georgia","1983","Number of jobs","0",2876795
+"379","SAEMP25S-10","13000","Georgia","1984","Number of jobs","0",3067584
+"380","SAEMP25S-10","13000","Georgia","1985","Number of jobs","0",3206760
+"381","SAEMP25S-10","13000","Georgia","1986","Number of jobs","0",3334829
+"382","SAEMP25S-10","13000","Georgia","1987","Number of jobs","0",3432866
+"383","SAEMP25S-10","13000","Georgia","1988","Number of jobs","0",3544762
+"384","SAEMP25S-10","13000","Georgia","1989","Number of jobs","0",3608204
+"385","SAEMP25S-10","13000","Georgia","1990","Number of jobs","0",3663988
+"386","SAEMP25S-10","13000","Georgia","1991","Number of jobs","0",3622035
+"387","SAEMP25S-10","13000","Georgia","1992","Number of jobs","0",3698046
+"388","SAEMP25S-10","13000","Georgia","1993","Number of jobs","0",3866163
+"389","SAEMP25S-10","13000","Georgia","1994","Number of jobs","0",4019921
+"390","SAEMP25S-10","13000","Georgia","1995","Number of jobs","0",4188040
+"391","SAEMP25S-10","13000","Georgia","1996","Number of jobs","0",4333367
+"392","SAEMP25S-10","13000","Georgia","1997","Number of jobs","0",4448701
+"393","SAEMP25S-10","13000","Georgia","1998","Number of jobs","0",4607959
+"394","SAEMP25S-10","13000","Georgia","1999","Number of jobs","0",4728750
+"395","SAEMP25S-10","13000","Georgia","2000","Number of jobs","0",4860810
+"396","SAEMP25S-10","13000","Georgia","2001","Number of jobs","0",4871814
+"397","SAEMP25S-10","15000","Hawaii","1969","Number of jobs","0",415912
+"398","SAEMP25S-10","15000","Hawaii","1970","Number of jobs","0",433555
+"399","SAEMP25S-10","15000","Hawaii","1971","Number of jobs","0",436830
+"400","SAEMP25S-10","15000","Hawaii","1972","Number of jobs","0",452960
+"401","SAEMP25S-10","15000","Hawaii","1973","Number of jobs","0",473087
+"402","SAEMP25S-10","15000","Hawaii","1974","Number of jobs","0",485226
+"403","SAEMP25S-10","15000","Hawaii","1975","Number of jobs","0",499203
+"404","SAEMP25S-10","15000","Hawaii","1976","Number of jobs","0",504799
+"405","SAEMP25S-10","15000","Hawaii","1977","Number of jobs","0",509265
+"406","SAEMP25S-10","15000","Hawaii","1978","Number of jobs","0",527519
+"407","SAEMP25S-10","15000","Hawaii","1979","Number of jobs","0",556339
+"408","SAEMP25S-10","15000","Hawaii","1980","Number of jobs","0",574555
+"409","SAEMP25S-10","15000","Hawaii","1981","Number of jobs","0",567762
+"410","SAEMP25S-10","15000","Hawaii","1982","Number of jobs","0",566510
+"411","SAEMP25S-10","15000","Hawaii","1983","Number of jobs","0",576830
+"412","SAEMP25S-10","15000","Hawaii","1984","Number of jobs","0",582402
+"413","SAEMP25S-10","15000","Hawaii","1985","Number of jobs","0",597946
+"414","SAEMP25S-10","15000","Hawaii","1986","Number of jobs","0",611862
+"415","SAEMP25S-10","15000","Hawaii","1987","Number of jobs","0",642686
+"416","SAEMP25S-10","15000","Hawaii","1988","Number of jobs","0",668691
+"417","SAEMP25S-10","15000","Hawaii","1989","Number of jobs","0",696362
+"418","SAEMP25S-10","15000","Hawaii","1990","Number of jobs","0",724262
+"419","SAEMP25S-10","15000","Hawaii","1991","Number of jobs","0",745447
+"420","SAEMP25S-10","15000","Hawaii","1992","Number of jobs","0",746137
+"421","SAEMP25S-10","15000","Hawaii","1993","Number of jobs","0",741780
+"422","SAEMP25S-10","15000","Hawaii","1994","Number of jobs","0",736771
+"423","SAEMP25S-10","15000","Hawaii","1995","Number of jobs","0",734039
+"424","SAEMP25S-10","15000","Hawaii","1996","Number of jobs","0",733396
+"425","SAEMP25S-10","15000","Hawaii","1997","Number of jobs","0",733761
+"426","SAEMP25S-10","15000","Hawaii","1998","Number of jobs","0",738175
+"427","SAEMP25S-10","15000","Hawaii","1999","Number of jobs","0",738111
+"428","SAEMP25S-10","15000","Hawaii","2000","Number of jobs","0",749439
+"429","SAEMP25S-10","15000","Hawaii","2001","Number of jobs","0",752548
+"430","SAEMP25S-10","16000","Idaho","1969","Number of jobs","0",315337
+"431","SAEMP25S-10","16000","Idaho","1970","Number of jobs","0",324150
+"432","SAEMP25S-10","16000","Idaho","1971","Number of jobs","0",332158
+"433","SAEMP25S-10","16000","Idaho","1972","Number of jobs","0",346866
+"434","SAEMP25S-10","16000","Idaho","1973","Number of jobs","0",365091
+"435","SAEMP25S-10","16000","Idaho","1974","Number of jobs","0",381309
+"436","SAEMP25S-10","16000","Idaho","1975","Number of jobs","0",393178
+"437","SAEMP25S-10","16000","Idaho","1976","Number of jobs","0",419224
+"438","SAEMP25S-10","16000","Idaho","1977","Number of jobs","0",434655
+"439","SAEMP25S-10","16000","Idaho","1978","Number of jobs","0",459904
+"440","SAEMP25S-10","16000","Idaho","1979","Number of jobs","0",468736
+"441","SAEMP25S-10","16000","Idaho","1980","Number of jobs","0",464366
+"442","SAEMP25S-10","16000","Idaho","1981","Number of jobs","0",461502
+"443","SAEMP25S-10","16000","Idaho","1982","Number of jobs","0",451634
+"444","SAEMP25S-10","16000","Idaho","1983","Number of jobs","0",462543
+"445","SAEMP25S-10","16000","Idaho","1984","Number of jobs","0",472247
+"446","SAEMP25S-10","16000","Idaho","1985","Number of jobs","0",473734
+"447","SAEMP25S-10","16000","Idaho","1986","Number of jobs","0",473569
+"448","SAEMP25S-10","16000","Idaho","1987","Number of jobs","0",487369
+"449","SAEMP25S-10","16000","Idaho","1988","Number of jobs","0",508352
+"450","SAEMP25S-10","16000","Idaho","1989","Number of jobs","0",524961
+"451","SAEMP25S-10","16000","Idaho","1990","Number of jobs","0",548397
+"452","SAEMP25S-10","16000","Idaho","1991","Number of jobs","0",565996
+"453","SAEMP25S-10","16000","Idaho","1992","Number of jobs","0",585584
+"454","SAEMP25S-10","16000","Idaho","1993","Number of jobs","0",611603
+"455","SAEMP25S-10","16000","Idaho","1994","Number of jobs","0",646775
+"456","SAEMP25S-10","16000","Idaho","1995","Number of jobs","0",667062
+"457","SAEMP25S-10","16000","Idaho","1996","Number of jobs","0",688744
+"458","SAEMP25S-10","16000","Idaho","1997","Number of jobs","0",708389
+"459","SAEMP25S-10","16000","Idaho","1998","Number of jobs","0",732684
+"460","SAEMP25S-10","16000","Idaho","1999","Number of jobs","0",747188
+"461","SAEMP25S-10","16000","Idaho","2000","Number of jobs","0",776910
+"462","SAEMP25S-10","16000","Idaho","2001","Number of jobs","0",783399
+"463","SAEMP25S-10","17000","Illinois","1969","Number of jobs","0",5179110
+"464","SAEMP25S-10","17000","Illinois","1970","Number of jobs","0",5143772
+"465","SAEMP25S-10","17000","Illinois","1971","Number of jobs","0",5104451
+"466","SAEMP25S-10","17000","Illinois","1972","Number of jobs","0",5155439
+"467","SAEMP25S-10","17000","Illinois","1973","Number of jobs","0",5350502
+"468","SAEMP25S-10","17000","Illinois","1974","Number of jobs","0",5441434
+"469","SAEMP25S-10","17000","Illinois","1975","Number of jobs","0",5341907
+"470","SAEMP25S-10","17000","Illinois","1976","Number of jobs","0",5457695
+"471","SAEMP25S-10","17000","Illinois","1977","Number of jobs","0",5586832
+"472","SAEMP25S-10","17000","Illinois","1978","Number of jobs","0",5747599
+"473","SAEMP25S-10","17000","Illinois","1979","Number of jobs","0",5803277
+"474","SAEMP25S-10","17000","Illinois","1980","Number of jobs","0",5675371
+"475","SAEMP25S-10","17000","Illinois","1981","Number of jobs","0",5663887
+"476","SAEMP25S-10","17000","Illinois","1982","Number of jobs","0",5562767
+"477","SAEMP25S-10","17000","Illinois","1983","Number of jobs","0",5520248
+"478","SAEMP25S-10","17000","Illinois","1984","Number of jobs","0",5717923
+"479","SAEMP25S-10","17000","Illinois","1985","Number of jobs","0",5780043
+"480","SAEMP25S-10","17000","Illinois","1986","Number of jobs","0",5891733
+"481","SAEMP25S-10","17000","Illinois","1987","Number of jobs","0",6031396
+"482","SAEMP25S-10","17000","Illinois","1988","Number of jobs","0",6187499
+"483","SAEMP25S-10","17000","Illinois","1989","Number of jobs","0",6293665
+"484","SAEMP25S-10","17000","Illinois","1990","Number of jobs","0",6390424
+"485","SAEMP25S-10","17000","Illinois","1991","Number of jobs","0",6369012
+"486","SAEMP25S-10","17000","Illinois","1992","Number of jobs","0",6351074
+"487","SAEMP25S-10","17000","Illinois","1993","Number of jobs","0",6440520
+"488","SAEMP25S-10","17000","Illinois","1994","Number of jobs","0",6610811
+"489","SAEMP25S-10","17000","Illinois","1995","Number of jobs","0",6772862
+"490","SAEMP25S-10","17000","Illinois","1996","Number of jobs","0",6874745
+"491","SAEMP25S-10","17000","Illinois","1997","Number of jobs","0",6980621
+"492","SAEMP25S-10","17000","Illinois","1998","Number of jobs","0",7139373
+"493","SAEMP25S-10","17000","Illinois","1999","Number of jobs","0",7218569
+"494","SAEMP25S-10","17000","Illinois","2000","Number of jobs","0",7357491
+"495","SAEMP25S-10","17000","Illinois","2001","Number of jobs","0",7309738
+"496","SAEMP25S-10","18000","Indiana","1969","Number of jobs","0",2326793
+"497","SAEMP25S-10","18000","Indiana","1970","Number of jobs","0",2290880
+"498","SAEMP25S-10","18000","Indiana","1971","Number of jobs","0",2289961
+"499","SAEMP25S-10","18000","Indiana","1972","Number of jobs","0",2366852
+"500","SAEMP25S-10","18000","Indiana","1973","Number of jobs","0",2483157
+"501","SAEMP25S-10","18000","Indiana","1974","Number of jobs","0",2492502
+"502","SAEMP25S-10","18000","Indiana","1975","Number of jobs","0",2404608
+"503","SAEMP25S-10","18000","Indiana","1976","Number of jobs","0",2488953
+"504","SAEMP25S-10","18000","Indiana","1977","Number of jobs","0",2578127
+"505","SAEMP25S-10","18000","Indiana","1978","Number of jobs","0",2669582
+"506","SAEMP25S-10","18000","Indiana","1979","Number of jobs","0",2708261
+"507","SAEMP25S-10","18000","Indiana","1980","Number of jobs","0",2626041
+"508","SAEMP25S-10","18000","Indiana","1981","Number of jobs","0",2602712
+"509","SAEMP25S-10","18000","Indiana","1982","Number of jobs","0",2522205
+"510","SAEMP25S-10","18000","Indiana","1983","Number of jobs","0",2542022
+"511","SAEMP25S-10","18000","Indiana","1984","Number of jobs","0",2642451
+"512","SAEMP25S-10","18000","Indiana","1985","Number of jobs","0",2695475
+"513","SAEMP25S-10","18000","Indiana","1986","Number of jobs","0",2755432
+"514","SAEMP25S-10","18000","Indiana","1987","Number of jobs","0",2849065
+"515","SAEMP25S-10","18000","Indiana","1988","Number of jobs","0",2935238
+"516","SAEMP25S-10","18000","Indiana","1989","Number of jobs","0",3010334
+"517","SAEMP25S-10","18000","Indiana","1990","Number of jobs","0",3069771
+"518","SAEMP25S-10","18000","Indiana","1991","Number of jobs","0",3071856
+"519","SAEMP25S-10","18000","Indiana","1992","Number of jobs","0",3120633
+"520","SAEMP25S-10","18000","Indiana","1993","Number of jobs","0",3197238
+"521","SAEMP25S-10","18000","Indiana","1994","Number of jobs","0",3287330
+"522","SAEMP25S-10","18000","Indiana","1995","Number of jobs","0",3379373
+"523","SAEMP25S-10","18000","Indiana","1996","Number of jobs","0",3418009
+"524","SAEMP25S-10","18000","Indiana","1997","Number of jobs","0",3476263
+"525","SAEMP25S-10","18000","Indiana","1998","Number of jobs","0",3543278
+"526","SAEMP25S-10","18000","Indiana","1999","Number of jobs","0",3596542
+"527","SAEMP25S-10","18000","Indiana","2000","Number of jobs","0",3648148
+"528","SAEMP25S-10","18000","Indiana","2001","Number of jobs","0",3588944
+"529","SAEMP25S-10","19000","Iowa","1969","Number of jobs","0",1289307
+"530","SAEMP25S-10","19000","Iowa","1970","Number of jobs","0",1294601
+"531","SAEMP25S-10","19000","Iowa","1971","Number of jobs","0",1297368
+"532","SAEMP25S-10","19000","Iowa","1972","Number of jobs","0",1316204
+"533","SAEMP25S-10","19000","Iowa","1973","Number of jobs","0",1374443
+"534","SAEMP25S-10","19000","Iowa","1974","Number of jobs","0",1406738
+"535","SAEMP25S-10","19000","Iowa","1975","Number of jobs","0",1406934
+"536","SAEMP25S-10","19000","Iowa","1976","Number of jobs","0",1454869
+"537","SAEMP25S-10","19000","Iowa","1977","Number of jobs","0",1487748
+"538","SAEMP25S-10","19000","Iowa","1978","Number of jobs","0",1512816
+"539","SAEMP25S-10","19000","Iowa","1979","Number of jobs","0",1553843
+"540","SAEMP25S-10","19000","Iowa","1980","Number of jobs","0",1536822
+"541","SAEMP25S-10","19000","Iowa","1981","Number of jobs","0",1507346
+"542","SAEMP25S-10","19000","Iowa","1982","Number of jobs","0",1470793
+"543","SAEMP25S-10","19000","Iowa","1983","Number of jobs","0",1474129
+"544","SAEMP25S-10","19000","Iowa","1984","Number of jobs","0",1499477
+"545","SAEMP25S-10","19000","Iowa","1985","Number of jobs","0",1495071
+"546","SAEMP25S-10","19000","Iowa","1986","Number of jobs","0",1493527
+"547","SAEMP25S-10","19000","Iowa","1987","Number of jobs","0",1514302
+"548","SAEMP25S-10","19000","Iowa","1988","Number of jobs","0",1556965
+"549","SAEMP25S-10","19000","Iowa","1989","Number of jobs","0",1600251
+"550","SAEMP25S-10","19000","Iowa","1990","Number of jobs","0",1634995
+"551","SAEMP25S-10","19000","Iowa","1991","Number of jobs","0",1654110
+"552","SAEMP25S-10","19000","Iowa","1992","Number of jobs","0",1669175
+"553","SAEMP25S-10","19000","Iowa","1993","Number of jobs","0",1691565
+"554","SAEMP25S-10","19000","Iowa","1994","Number of jobs","0",1724805
+"555","SAEMP25S-10","19000","Iowa","1995","Number of jobs","0",1784926
+"556","SAEMP25S-10","19000","Iowa","1996","Number of jobs","0",1815405
+"557","SAEMP25S-10","19000","Iowa","1997","Number of jobs","0",1841110
+"558","SAEMP25S-10","19000","Iowa","1998","Number of jobs","0",1877486
+"559","SAEMP25S-10","19000","Iowa","1999","Number of jobs","0",1896080
+"560","SAEMP25S-10","19000","Iowa","2000","Number of jobs","0",1915254
+"561","SAEMP25S-10","19000","Iowa","2001","Number of jobs","0",1902198
+"562","SAEMP25S-10","20000","Kansas","1969","Number of jobs","0",1029008
+"563","SAEMP25S-10","20000","Kansas","1970","Number of jobs","0",1017405
+"564","SAEMP25S-10","20000","Kansas","1971","Number of jobs","0",1022401
+"565","SAEMP25S-10","20000","Kansas","1972","Number of jobs","0",1047978
+"566","SAEMP25S-10","20000","Kansas","1973","Number of jobs","0",1090098
+"567","SAEMP25S-10","20000","Kansas","1974","Number of jobs","0",1122386
+"568","SAEMP25S-10","20000","Kansas","1975","Number of jobs","0",1132564
+"569","SAEMP25S-10","20000","Kansas","1976","Number of jobs","0",1168805
+"570","SAEMP25S-10","20000","Kansas","1977","Number of jobs","0",1207714
+"571","SAEMP25S-10","20000","Kansas","1978","Number of jobs","0",1251626
+"572","SAEMP25S-10","20000","Kansas","1979","Number of jobs","0",1296018
+"573","SAEMP25S-10","20000","Kansas","1980","Number of jobs","0",1309091
+"574","SAEMP25S-10","20000","Kansas","1981","Number of jobs","0",1321825
+"575","SAEMP25S-10","20000","Kansas","1982","Number of jobs","0",1306229
+"576","SAEMP25S-10","20000","Kansas","1983","Number of jobs","0",1322987
+"577","SAEMP25S-10","20000","Kansas","1984","Number of jobs","0",1364715
+"578","SAEMP25S-10","20000","Kansas","1985","Number of jobs","0",1367826
+"579","SAEMP25S-10","20000","Kansas","1986","Number of jobs","0",1368245
+"580","SAEMP25S-10","20000","Kansas","1987","Number of jobs","0",1420601
+"581","SAEMP25S-10","20000","Kansas","1988","Number of jobs","0",1431826
+"582","SAEMP25S-10","20000","Kansas","1989","Number of jobs","0",1453867
+"583","SAEMP25S-10","20000","Kansas","1990","Number of jobs","0",1473893
+"584","SAEMP25S-10","20000","Kansas","1991","Number of jobs","0",1489215
+"585","SAEMP25S-10","20000","Kansas","1992","Number of jobs","0",1501541
+"586","SAEMP25S-10","20000","Kansas","1993","Number of jobs","0",1524596
+"587","SAEMP25S-10","20000","Kansas","1994","Number of jobs","0",1551442
+"588","SAEMP25S-10","20000","Kansas","1995","Number of jobs","0",1600063
+"589","SAEMP25S-10","20000","Kansas","1996","Number of jobs","0",1632161
+"590","SAEMP25S-10","20000","Kansas","1997","Number of jobs","0",1676805
+"591","SAEMP25S-10","20000","Kansas","1998","Number of jobs","0",1723552
+"592","SAEMP25S-10","20000","Kansas","1999","Number of jobs","0",1740420
+"593","SAEMP25S-10","20000","Kansas","2000","Number of jobs","0",1760312
+"594","SAEMP25S-10","20000","Kansas","2001","Number of jobs","0",1767601
+"595","SAEMP25S-10","21000","Kentucky","1969","Number of jobs","0",1331869
+"596","SAEMP25S-10","21000","Kentucky","1970","Number of jobs","0",1336200
+"597","SAEMP25S-10","21000","Kentucky","1971","Number of jobs","0",1359677
+"598","SAEMP25S-10","21000","Kentucky","1972","Number of jobs","0",1391733
+"599","SAEMP25S-10","21000","Kentucky","1973","Number of jobs","0",1460918
+"600","SAEMP25S-10","21000","Kentucky","1974","Number of jobs","0",1495502
+"601","SAEMP25S-10","21000","Kentucky","1975","Number of jobs","0",1464686
+"602","SAEMP25S-10","21000","Kentucky","1976","Number of jobs","0",1522537
+"603","SAEMP25S-10","21000","Kentucky","1977","Number of jobs","0",1578785
+"604","SAEMP25S-10","21000","Kentucky","1978","Number of jobs","0",1644520
+"605","SAEMP25S-10","21000","Kentucky","1979","Number of jobs","0",1665068
+"606","SAEMP25S-10","21000","Kentucky","1980","Number of jobs","0",1642192
+"607","SAEMP25S-10","21000","Kentucky","1981","Number of jobs","0",1634370
+"608","SAEMP25S-10","21000","Kentucky","1982","Number of jobs","0",1615586
+"609","SAEMP25S-10","21000","Kentucky","1983","Number of jobs","0",1624234
+"610","SAEMP25S-10","21000","Kentucky","1984","Number of jobs","0",1676458
+"611","SAEMP25S-10","21000","Kentucky","1985","Number of jobs","0",1698090
+"612","SAEMP25S-10","21000","Kentucky","1986","Number of jobs","0",1733268
+"613","SAEMP25S-10","21000","Kentucky","1987","Number of jobs","0",1765189
+"614","SAEMP25S-10","21000","Kentucky","1988","Number of jobs","0",1815845
+"615","SAEMP25S-10","21000","Kentucky","1989","Number of jobs","0",1865111
+"616","SAEMP25S-10","21000","Kentucky","1990","Number of jobs","0",1906123
+"617","SAEMP25S-10","21000","Kentucky","1991","Number of jobs","0",1903273
+"618","SAEMP25S-10","21000","Kentucky","1992","Number of jobs","0",1949274
+"619","SAEMP25S-10","21000","Kentucky","1993","Number of jobs","0",1992841
+"620","SAEMP25S-10","21000","Kentucky","1994","Number of jobs","0",2034504
+"621","SAEMP25S-10","21000","Kentucky","1995","Number of jobs","0",2109525
+"622","SAEMP25S-10","21000","Kentucky","1996","Number of jobs","0",2141075
+"623","SAEMP25S-10","21000","Kentucky","1997","Number of jobs","0",2188877
+"624","SAEMP25S-10","21000","Kentucky","1998","Number of jobs","0",2223896
+"625","SAEMP25S-10","21000","Kentucky","1999","Number of jobs","0",2264164
+"626","SAEMP25S-10","21000","Kentucky","2000","Number of jobs","0",2306481
+"627","SAEMP25S-10","21000","Kentucky","2001","Number of jobs","0",2283616
+"628","SAEMP25S-10","22000","Louisiana","1969","Number of jobs","0",1440191
+"629","SAEMP25S-10","22000","Louisiana","1970","Number of jobs","0",1429432
+"630","SAEMP25S-10","22000","Louisiana","1971","Number of jobs","0",1445103
+"631","SAEMP25S-10","22000","Louisiana","1972","Number of jobs","0",1488438
+"632","SAEMP25S-10","22000","Louisiana","1973","Number of jobs","0",1550215
+"633","SAEMP25S-10","22000","Louisiana","1974","Number of jobs","0",1598024
+"634","SAEMP25S-10","22000","Louisiana","1975","Number of jobs","0",1640816
+"635","SAEMP25S-10","22000","Louisiana","1976","Number of jobs","0",1702082
+"636","SAEMP25S-10","22000","Louisiana","1977","Number of jobs","0",1755715
+"637","SAEMP25S-10","22000","Louisiana","1978","Number of jobs","0",1848757
+"638","SAEMP25S-10","22000","Louisiana","1979","Number of jobs","0",1896880
+"639","SAEMP25S-10","22000","Louisiana","1980","Number of jobs","0",1963831
+"640","SAEMP25S-10","22000","Louisiana","1981","Number of jobs","0",2029903
+"641","SAEMP25S-10","22000","Louisiana","1982","Number of jobs","0",2022903
+"642","SAEMP25S-10","22000","Louisiana","1983","Number of jobs","0",1984423
+"643","SAEMP25S-10","22000","Louisiana","1984","Number of jobs","0",2023412
+"644","SAEMP25S-10","22000","Louisiana","1985","Number of jobs","0",2009206
+"645","SAEMP25S-10","22000","Louisiana","1986","Number of jobs","0",1928226
+"646","SAEMP25S-10","22000","Louisiana","1987","Number of jobs","0",1903658
+"647","SAEMP25S-10","22000","Louisiana","1988","Number of jobs","0",1935327
+"648","SAEMP25S-10","22000","Louisiana","1989","Number of jobs","0",1952815
+"649","SAEMP25S-10","22000","Louisiana","1990","Number of jobs","0",2005292
+"650","SAEMP25S-10","22000","Louisiana","1991","Number of jobs","0",2030275
+"651","SAEMP25S-10","22000","Louisiana","1992","Number of jobs","0",2038051
+"652","SAEMP25S-10","22000","Louisiana","1993","Number of jobs","0",2085583
+"653","SAEMP25S-10","22000","Louisiana","1994","Number of jobs","0",2125502
+"654","SAEMP25S-10","22000","Louisiana","1995","Number of jobs","0",2193968
+"655","SAEMP25S-10","22000","Louisiana","1996","Number of jobs","0",2238770
+"656","SAEMP25S-10","22000","Louisiana","1997","Number of jobs","0",2289998
+"657","SAEMP25S-10","22000","Louisiana","1998","Number of jobs","0",2336386
+"658","SAEMP25S-10","22000","Louisiana","1999","Number of jobs","0",2352801
+"659","SAEMP25S-10","22000","Louisiana","2000","Number of jobs","0",2388668
+"660","SAEMP25S-10","22000","Louisiana","2001","Number of jobs","0",2397993
+"661","SAEMP25S-10","23000","Maine","1969","Number of jobs","0",443449
+"662","SAEMP25S-10","23000","Maine","1970","Number of jobs","0",445896
+"663","SAEMP25S-10","23000","Maine","1971","Number of jobs","0",443290
+"664","SAEMP25S-10","23000","Maine","1972","Number of jobs","0",452555
+"665","SAEMP25S-10","23000","Maine","1973","Number of jobs","0",470180
+"666","SAEMP25S-10","23000","Maine","1974","Number of jobs","0",477672
+"667","SAEMP25S-10","23000","Maine","1975","Number of jobs","0",475256
+"668","SAEMP25S-10","23000","Maine","1976","Number of jobs","0",497868
+"669","SAEMP25S-10","23000","Maine","1977","Number of jobs","0",512788
+"670","SAEMP25S-10","23000","Maine","1978","Number of jobs","0",531154
+"671","SAEMP25S-10","23000","Maine","1979","Number of jobs","0",544802
+"672","SAEMP25S-10","23000","Maine","1980","Number of jobs","0",552745
+"673","SAEMP25S-10","23000","Maine","1981","Number of jobs","0",551487
+"674","SAEMP25S-10","23000","Maine","1982","Number of jobs","0",553311
+"675","SAEMP25S-10","23000","Maine","1983","Number of jobs","0",565243
+"676","SAEMP25S-10","23000","Maine","1984","Number of jobs","0",587454
+"677","SAEMP25S-10","23000","Maine","1985","Number of jobs","0",606390
+"678","SAEMP25S-10","23000","Maine","1986","Number of jobs","0",630438
+"679","SAEMP25S-10","23000","Maine","1987","Number of jobs","0",652556
+"680","SAEMP25S-10","23000","Maine","1988","Number of jobs","0",686290
+"681","SAEMP25S-10","23000","Maine","1989","Number of jobs","0",701652
+"682","SAEMP25S-10","23000","Maine","1990","Number of jobs","0",701002
+"683","SAEMP25S-10","23000","Maine","1991","Number of jobs","0",677564
+"684","SAEMP25S-10","23000","Maine","1992","Number of jobs","0",680841
+"685","SAEMP25S-10","23000","Maine","1993","Number of jobs","0",691753
+"686","SAEMP25S-10","23000","Maine","1994","Number of jobs","0",702752
+"687","SAEMP25S-10","23000","Maine","1995","Number of jobs","0",704574
+"688","SAEMP25S-10","23000","Maine","1996","Number of jobs","0",714237
+"689","SAEMP25S-10","23000","Maine","1997","Number of jobs","0",727238
+"690","SAEMP25S-10","23000","Maine","1998","Number of jobs","0",748614
+"691","SAEMP25S-10","23000","Maine","1999","Number of jobs","0",762975
+"692","SAEMP25S-10","23000","Maine","2000","Number of jobs","0",784039
+"693","SAEMP25S-10","23000","Maine","2001","Number of jobs","0",787577
+"694","SAEMP25S-10","24000","Maryland","1969","Number of jobs","0",1679355
+"695","SAEMP25S-10","24000","Maryland","1970","Number of jobs","0",1702298
+"696","SAEMP25S-10","24000","Maryland","1971","Number of jobs","0",1728598
+"697","SAEMP25S-10","24000","Maryland","1972","Number of jobs","0",1781187
+"698","SAEMP25S-10","24000","Maryland","1973","Number of jobs","0",1846490
+"699","SAEMP25S-10","24000","Maryland","1974","Number of jobs","0",1867792
+"700","SAEMP25S-10","24000","Maryland","1975","Number of jobs","0",1845601
+"701","SAEMP25S-10","24000","Maryland","1976","Number of jobs","0",1865565
+"702","SAEMP25S-10","24000","Maryland","1977","Number of jobs","0",1918925
+"703","SAEMP25S-10","24000","Maryland","1978","Number of jobs","0",2003857
+"704","SAEMP25S-10","24000","Maryland","1979","Number of jobs","0",2059469
+"705","SAEMP25S-10","24000","Maryland","1980","Number of jobs","0",2070441
+"706","SAEMP25S-10","24000","Maryland","1981","Number of jobs","0",2095422
+"707","SAEMP25S-10","24000","Maryland","1982","Number of jobs","0",2083585
+"708","SAEMP25S-10","24000","Maryland","1983","Number of jobs","0",2151035
+"709","SAEMP25S-10","24000","Maryland","1984","Number of jobs","0",2242630
+"710","SAEMP25S-10","24000","Maryland","1985","Number of jobs","0",2342002
+"711","SAEMP25S-10","24000","Maryland","1986","Number of jobs","0",2427570
+"712","SAEMP25S-10","24000","Maryland","1987","Number of jobs","0",2553099
+"713","SAEMP25S-10","24000","Maryland","1988","Number of jobs","0",2647475
+"714","SAEMP25S-10","24000","Maryland","1989","Number of jobs","0",2703904
+"715","SAEMP25S-10","24000","Maryland","1990","Number of jobs","0",2737249
+"716","SAEMP25S-10","24000","Maryland","1991","Number of jobs","0",2662392
+"717","SAEMP25S-10","24000","Maryland","1992","Number of jobs","0",2635653
+"718","SAEMP25S-10","24000","Maryland","1993","Number of jobs","0",2658555
+"719","SAEMP25S-10","24000","Maryland","1994","Number of jobs","0",2705548
+"720","SAEMP25S-10","24000","Maryland","1995","Number of jobs","0",2765393
+"721","SAEMP25S-10","24000","Maryland","1996","Number of jobs","0",2806074
+"722","SAEMP25S-10","24000","Maryland","1997","Number of jobs","0",2870391
+"723","SAEMP25S-10","24000","Maryland","1998","Number of jobs","0",2935441
+"724","SAEMP25S-10","24000","Maryland","1999","Number of jobs","0",3007654
+"725","SAEMP25S-10","24000","Maryland","2000","Number of jobs","0",3092125
+"726","SAEMP25S-10","24000","Maryland","2001","Number of jobs","0",3119857
+"727","SAEMP25S-10","25000","Massachusetts","1969","Number of jobs","0",2678959
+"728","SAEMP25S-10","25000","Massachusetts","1970","Number of jobs","0",2679010
+"729","SAEMP25S-10","25000","Massachusetts","1971","Number of jobs","0",2643820
+"730","SAEMP25S-10","25000","Massachusetts","1972","Number of jobs","0",2696668
+"731","SAEMP25S-10","25000","Massachusetts","1973","Number of jobs","0",2786670
+"732","SAEMP25S-10","25000","Massachusetts","1974","Number of jobs","0",2811480
+"733","SAEMP25S-10","25000","Massachusetts","1975","Number of jobs","0",2727603
+"734","SAEMP25S-10","25000","Massachusetts","1976","Number of jobs","0",2755729
+"735","SAEMP25S-10","25000","Massachusetts","1977","Number of jobs","0",2833405
+"736","SAEMP25S-10","25000","Massachusetts","1978","Number of jobs","0",2957517
+"737","SAEMP25S-10","25000","Massachusetts","1979","Number of jobs","0",3073593
+"738","SAEMP25S-10","25000","Massachusetts","1980","Number of jobs","0",3133686
+"739","SAEMP25S-10","25000","Massachusetts","1981","Number of jobs","0",3141874
+"740","SAEMP25S-10","25000","Massachusetts","1982","Number of jobs","0",3143386
+"741","SAEMP25S-10","25000","Massachusetts","1983","Number of jobs","0",3215449
+"742","SAEMP25S-10","25000","Massachusetts","1984","Number of jobs","0",3402387
+"743","SAEMP25S-10","25000","Massachusetts","1985","Number of jobs","0",3509658
+"744","SAEMP25S-10","25000","Massachusetts","1986","Number of jobs","0",3604577
+"745","SAEMP25S-10","25000","Massachusetts","1987","Number of jobs","0",3632415
+"746","SAEMP25S-10","25000","Massachusetts","1988","Number of jobs","0",3739313
+"747","SAEMP25S-10","25000","Massachusetts","1989","Number of jobs","0",3710110
+"748","SAEMP25S-10","25000","Massachusetts","1990","Number of jobs","0",3614703
+"749","SAEMP25S-10","25000","Massachusetts","1991","Number of jobs","0",3450717
+"750","SAEMP25S-10","25000","Massachusetts","1992","Number of jobs","0",3481815
+"751","SAEMP25S-10","25000","Massachusetts","1993","Number of jobs","0",3547680
+"752","SAEMP25S-10","25000","Massachusetts","1994","Number of jobs","0",3615952
+"753","SAEMP25S-10","25000","Massachusetts","1995","Number of jobs","0",3648939
+"754","SAEMP25S-10","25000","Massachusetts","1996","Number of jobs","0",3712827
+"755","SAEMP25S-10","25000","Massachusetts","1997","Number of jobs","0",3802454
+"756","SAEMP25S-10","25000","Massachusetts","1998","Number of jobs","0",3896096
+"757","SAEMP25S-10","25000","Massachusetts","1999","Number of jobs","0",3962492
+"758","SAEMP25S-10","25000","Massachusetts","2000","Number of jobs","0",4070320
+"759","SAEMP25S-10","25000","Massachusetts","2001","Number of jobs","0",4075959
+"760","SAEMP25S-10","26000","Michigan","1969","Number of jobs","0",3639946
+"761","SAEMP25S-10","26000","Michigan","1970","Number of jobs","0",3558466
+"762","SAEMP25S-10","26000","Michigan","1971","Number of jobs","0",3570770
+"763","SAEMP25S-10","26000","Michigan","1972","Number of jobs","0",3686984
+"764","SAEMP25S-10","26000","Michigan","1973","Number of jobs","0",3857800
+"765","SAEMP25S-10","26000","Michigan","1974","Number of jobs","0",3853663
+"766","SAEMP25S-10","26000","Michigan","1975","Number of jobs","0",3694690
+"767","SAEMP25S-10","26000","Michigan","1976","Number of jobs","0",3843552
+"768","SAEMP25S-10","26000","Michigan","1977","Number of jobs","0",4015637
+"769","SAEMP25S-10","26000","Michigan","1978","Number of jobs","0",4186324
+"770","SAEMP25S-10","26000","Michigan","1979","Number of jobs","0",4228172
+"771","SAEMP25S-10","26000","Michigan","1980","Number of jobs","0",4029904
+"772","SAEMP25S-10","26000","Michigan","1981","Number of jobs","0",3978474
+"773","SAEMP25S-10","26000","Michigan","1982","Number of jobs","0",3823220
+"774","SAEMP25S-10","26000","Michigan","1983","Number of jobs","0",3866320
+"775","SAEMP25S-10","26000","Michigan","1984","Number of jobs","0",4040112
+"776","SAEMP25S-10","26000","Michigan","1985","Number of jobs","0",4233369
+"777","SAEMP25S-10","26000","Michigan","1986","Number of jobs","0",4348837
+"778","SAEMP25S-10","26000","Michigan","1987","Number of jobs","0",4482585
+"779","SAEMP25S-10","26000","Michigan","1988","Number of jobs","0",4581562
+"780","SAEMP25S-10","26000","Michigan","1989","Number of jobs","0",4709207
+"781","SAEMP25S-10","26000","Michigan","1990","Number of jobs","0",4790620
+"782","SAEMP25S-10","26000","Michigan","1991","Number of jobs","0",4721340
+"783","SAEMP25S-10","26000","Michigan","1992","Number of jobs","0",4751280
+"784","SAEMP25S-10","26000","Michigan","1993","Number of jobs","0",4811999
+"785","SAEMP25S-10","26000","Michigan","1994","Number of jobs","0",4984712
+"786","SAEMP25S-10","26000","Michigan","1995","Number of jobs","0",5141766
+"787","SAEMP25S-10","26000","Michigan","1996","Number of jobs","0",5247019
+"788","SAEMP25S-10","26000","Michigan","1997","Number of jobs","0",5329933
+"789","SAEMP25S-10","26000","Michigan","1998","Number of jobs","0",5383530
+"790","SAEMP25S-10","26000","Michigan","1999","Number of jobs","0",5485654
+"791","SAEMP25S-10","26000","Michigan","2000","Number of jobs","0",5621494
+"792","SAEMP25S-10","26000","Michigan","2001","Number of jobs","0",5526201
+"793","SAEMP25S-10","27000","Minnesota","1969","Number of jobs","0",1690875
+"794","SAEMP25S-10","27000","Minnesota","1970","Number of jobs","0",1698995
+"795","SAEMP25S-10","27000","Minnesota","1971","Number of jobs","0",1706080
+"796","SAEMP25S-10","27000","Minnesota","1972","Number of jobs","0",1780093
+"797","SAEMP25S-10","27000","Minnesota","1973","Number of jobs","0",1877806
+"798","SAEMP25S-10","27000","Minnesota","1974","Number of jobs","0",1921458
+"799","SAEMP25S-10","27000","Minnesota","1975","Number of jobs","0",1920410
+"800","SAEMP25S-10","27000","Minnesota","1976","Number of jobs","0",1976597
+"801","SAEMP25S-10","27000","Minnesota","1977","Number of jobs","0",2033789
+"802","SAEMP25S-10","27000","Minnesota","1978","Number of jobs","0",2121891
+"803","SAEMP25S-10","27000","Minnesota","1979","Number of jobs","0",2217688
+"804","SAEMP25S-10","27000","Minnesota","1980","Number of jobs","0",2248180
+"805","SAEMP25S-10","27000","Minnesota","1981","Number of jobs","0",2232802
+"806","SAEMP25S-10","27000","Minnesota","1982","Number of jobs","0",2192337
+"807","SAEMP25S-10","27000","Minnesota","1983","Number of jobs","0",2219348
+"808","SAEMP25S-10","27000","Minnesota","1984","Number of jobs","0",2324144
+"809","SAEMP25S-10","27000","Minnesota","1985","Number of jobs","0",2385204
+"810","SAEMP25S-10","27000","Minnesota","1986","Number of jobs","0",2417493
+"811","SAEMP25S-10","27000","Minnesota","1987","Number of jobs","0",2509308
+"812","SAEMP25S-10","27000","Minnesota","1988","Number of jobs","0",2580304
+"813","SAEMP25S-10","27000","Minnesota","1989","Number of jobs","0",2633745
+"814","SAEMP25S-10","27000","Minnesota","1990","Number of jobs","0",2691896
+"815","SAEMP25S-10","27000","Minnesota","1991","Number of jobs","0",2717271
+"816","SAEMP25S-10","27000","Minnesota","1992","Number of jobs","0",2762016
+"817","SAEMP25S-10","27000","Minnesota","1993","Number of jobs","0",2816645
+"818","SAEMP25S-10","27000","Minnesota","1994","Number of jobs","0",2903666
+"819","SAEMP25S-10","27000","Minnesota","1995","Number of jobs","0",2994740
+"820","SAEMP25S-10","27000","Minnesota","1996","Number of jobs","0",3056007
+"821","SAEMP25S-10","27000","Minnesota","1997","Number of jobs","0",3109004
+"822","SAEMP25S-10","27000","Minnesota","1998","Number of jobs","0",3189396
+"823","SAEMP25S-10","27000","Minnesota","1999","Number of jobs","0",3256931
+"824","SAEMP25S-10","27000","Minnesota","2000","Number of jobs","0",3330936
+"825","SAEMP25S-10","27000","Minnesota","2001","Number of jobs","0",3347326
+"826","SAEMP25S-10","28000","Mississippi","1969","Number of jobs","0",908677
+"827","SAEMP25S-10","28000","Mississippi","1970","Number of jobs","0",916796
+"828","SAEMP25S-10","28000","Mississippi","1971","Number of jobs","0",938968
+"829","SAEMP25S-10","28000","Mississippi","1972","Number of jobs","0",978740
+"830","SAEMP25S-10","28000","Mississippi","1973","Number of jobs","0",1019427
+"831","SAEMP25S-10","28000","Mississippi","1974","Number of jobs","0",1031293
+"832","SAEMP25S-10","28000","Mississippi","1975","Number of jobs","0",1000814
+"833","SAEMP25S-10","28000","Mississippi","1976","Number of jobs","0",1038827
+"834","SAEMP25S-10","28000","Mississippi","1977","Number of jobs","0",1070753
+"835","SAEMP25S-10","28000","Mississippi","1978","Number of jobs","0",1100550
+"836","SAEMP25S-10","28000","Mississippi","1979","Number of jobs","0",1114375
+"837","SAEMP25S-10","28000","Mississippi","1980","Number of jobs","0",1111313
+"838","SAEMP25S-10","28000","Mississippi","1981","Number of jobs","0",1106596
+"839","SAEMP25S-10","28000","Mississippi","1982","Number of jobs","0",1079218
+"840","SAEMP25S-10","28000","Mississippi","1983","Number of jobs","0",1087581
+"841","SAEMP25S-10","28000","Mississippi","1984","Number of jobs","0",1117040
+"842","SAEMP25S-10","28000","Mississippi","1985","Number of jobs","0",1123930
+"843","SAEMP25S-10","28000","Mississippi","1986","Number of jobs","0",1130753
+"844","SAEMP25S-10","28000","Mississippi","1987","Number of jobs","0",1141343
+"845","SAEMP25S-10","28000","Mississippi","1988","Number of jobs","0",1169037
+"846","SAEMP25S-10","28000","Mississippi","1989","Number of jobs","0",1188891
+"847","SAEMP25S-10","28000","Mississippi","1990","Number of jobs","0",1202603
+"848","SAEMP25S-10","28000","Mississippi","1991","Number of jobs","0",1210948
+"849","SAEMP25S-10","28000","Mississippi","1992","Number of jobs","0",1233701
+"850","SAEMP25S-10","28000","Mississippi","1993","Number of jobs","0",1286919
+"851","SAEMP25S-10","28000","Mississippi","1994","Number of jobs","0",1334700
+"852","SAEMP25S-10","28000","Mississippi","1995","Number of jobs","0",1365437
+"853","SAEMP25S-10","28000","Mississippi","1996","Number of jobs","0",1389237
+"854","SAEMP25S-10","28000","Mississippi","1997","Number of jobs","0",1415330
+"855","SAEMP25S-10","28000","Mississippi","1998","Number of jobs","0",1445429
+"856","SAEMP25S-10","28000","Mississippi","1999","Number of jobs","0",1469707
+"857","SAEMP25S-10","28000","Mississippi","2000","Number of jobs","0",1476295
+"858","SAEMP25S-10","28000","Mississippi","2001","Number of jobs","0",1455992
+"859","SAEMP25S-10","29000","Missouri","1969","Number of jobs","0",2215957
+"860","SAEMP25S-10","29000","Missouri","1970","Number of jobs","0",2203183
+"861","SAEMP25S-10","29000","Missouri","1971","Number of jobs","0",2200169
+"862","SAEMP25S-10","29000","Missouri","1972","Number of jobs","0",2241522
+"863","SAEMP25S-10","29000","Missouri","1973","Number of jobs","0",2324587
+"864","SAEMP25S-10","29000","Missouri","1974","Number of jobs","0",2341199
+"865","SAEMP25S-10","29000","Missouri","1975","Number of jobs","0",2290969
+"866","SAEMP25S-10","29000","Missouri","1976","Number of jobs","0",2364844
+"867","SAEMP25S-10","29000","Missouri","1977","Number of jobs","0",2423645
+"868","SAEMP25S-10","29000","Missouri","1978","Number of jobs","0",2512045
+"869","SAEMP25S-10","29000","Missouri","1979","Number of jobs","0",2575855
+"870","SAEMP25S-10","29000","Missouri","1980","Number of jobs","0",2548593
+"871","SAEMP25S-10","29000","Missouri","1981","Number of jobs","0",2539840
+"872","SAEMP25S-10","29000","Missouri","1982","Number of jobs","0",2516292
+"873","SAEMP25S-10","29000","Missouri","1983","Number of jobs","0",2561760
+"874","SAEMP25S-10","29000","Missouri","1984","Number of jobs","0",2667168
+"875","SAEMP25S-10","29000","Missouri","1985","Number of jobs","0",2737724
+"876","SAEMP25S-10","29000","Missouri","1986","Number of jobs","0",2800791
+"877","SAEMP25S-10","29000","Missouri","1987","Number of jobs","0",2836153
+"878","SAEMP25S-10","29000","Missouri","1988","Number of jobs","0",2885020
+"879","SAEMP25S-10","29000","Missouri","1989","Number of jobs","0",2938314
+"880","SAEMP25S-10","29000","Missouri","1990","Number of jobs","0",2972034
+"881","SAEMP25S-10","29000","Missouri","1991","Number of jobs","0",2941610
+"882","SAEMP25S-10","29000","Missouri","1992","Number of jobs","0",2957212
+"883","SAEMP25S-10","29000","Missouri","1993","Number of jobs","0",3040852
+"884","SAEMP25S-10","29000","Missouri","1994","Number of jobs","0",3112827
+"885","SAEMP25S-10","29000","Missouri","1995","Number of jobs","0",3196160
+"886","SAEMP25S-10","29000","Missouri","1996","Number of jobs","0",3255268
+"887","SAEMP25S-10","29000","Missouri","1997","Number of jobs","0",3327521
+"888","SAEMP25S-10","29000","Missouri","1998","Number of jobs","0",3385244
+"889","SAEMP25S-10","29000","Missouri","1999","Number of jobs","0",3422953
+"890","SAEMP25S-10","29000","Missouri","2000","Number of jobs","0",3470846
+"891","SAEMP25S-10","29000","Missouri","2001","Number of jobs","0",3451902
+"892","SAEMP25S-10","30000","Montana","1969","Number of jobs","0",297954
+"893","SAEMP25S-10","30000","Montana","1970","Number of jobs","0",301051
+"894","SAEMP25S-10","30000","Montana","1971","Number of jobs","0",307216
+"895","SAEMP25S-10","30000","Montana","1972","Number of jobs","0",319267
+"896","SAEMP25S-10","30000","Montana","1973","Number of jobs","0",332623
+"897","SAEMP25S-10","30000","Montana","1974","Number of jobs","0",343949
+"898","SAEMP25S-10","30000","Montana","1975","Number of jobs","0",344226
+"899","SAEMP25S-10","30000","Montana","1976","Number of jobs","0",359122
+"900","SAEMP25S-10","30000","Montana","1977","Number of jobs","0",371699
+"901","SAEMP25S-10","30000","Montana","1978","Number of jobs","0",390065
+"902","SAEMP25S-10","30000","Montana","1979","Number of jobs","0",396111
+"903","SAEMP25S-10","30000","Montana","1980","Number of jobs","0",392881
+"904","SAEMP25S-10","30000","Montana","1981","Number of jobs","0",394759
+"905","SAEMP25S-10","30000","Montana","1982","Number of jobs","0",390753
+"906","SAEMP25S-10","30000","Montana","1983","Number of jobs","0",398497
+"907","SAEMP25S-10","30000","Montana","1984","Number of jobs","0",407961
+"908","SAEMP25S-10","30000","Montana","1985","Number of jobs","0",406393
+"909","SAEMP25S-10","30000","Montana","1986","Number of jobs","0",402177
+"910","SAEMP25S-10","30000","Montana","1987","Number of jobs","0",405938
+"911","SAEMP25S-10","30000","Montana","1988","Number of jobs","0",415921
+"912","SAEMP25S-10","30000","Montana","1989","Number of jobs","0",423726
+"913","SAEMP25S-10","30000","Montana","1990","Number of jobs","0",433400
+"914","SAEMP25S-10","30000","Montana","1991","Number of jobs","0",443734
+"915","SAEMP25S-10","30000","Montana","1992","Number of jobs","0",455725
+"916","SAEMP25S-10","30000","Montana","1993","Number of jobs","0",470150
+"917","SAEMP25S-10","30000","Montana","1994","Number of jobs","0",494287
+"918","SAEMP25S-10","30000","Montana","1995","Number of jobs","0",503532
+"919","SAEMP25S-10","30000","Montana","1996","Number of jobs","0",519262
+"920","SAEMP25S-10","30000","Montana","1997","Number of jobs","0",525616
+"921","SAEMP25S-10","30000","Montana","1998","Number of jobs","0",535785
+"922","SAEMP25S-10","30000","Montana","1999","Number of jobs","0",543115
+"923","SAEMP25S-10","30000","Montana","2000","Number of jobs","0",552690
+"924","SAEMP25S-10","30000","Montana","2001","Number of jobs","0",559924
+"925","SAEMP25S-10","31000","Nebraska","1969","Number of jobs","0",703747
+"926","SAEMP25S-10","31000","Nebraska","1970","Number of jobs","0",715204
+"927","SAEMP25S-10","31000","Nebraska","1971","Number of jobs","0",728277
+"928","SAEMP25S-10","31000","Nebraska","1972","Number of jobs","0",747678
+"929","SAEMP25S-10","31000","Nebraska","1973","Number of jobs","0",774584
+"930","SAEMP25S-10","31000","Nebraska","1974","Number of jobs","0",793125
+"931","SAEMP25S-10","31000","Nebraska","1975","Number of jobs","0",789876
+"932","SAEMP25S-10","31000","Nebraska","1976","Number of jobs","0",811421
+"933","SAEMP25S-10","31000","Nebraska","1977","Number of jobs","0",831023
+"934","SAEMP25S-10","31000","Nebraska","1978","Number of jobs","0",854384
+"935","SAEMP25S-10","31000","Nebraska","1979","Number of jobs","0",875515
+"936","SAEMP25S-10","31000","Nebraska","1980","Number of jobs","0",876861
+"937","SAEMP25S-10","31000","Nebraska","1981","Number of jobs","0",871447
+"938","SAEMP25S-10","31000","Nebraska","1982","Number of jobs","0",860736
+"939","SAEMP25S-10","31000","Nebraska","1983","Number of jobs","0",867419
+"940","SAEMP25S-10","31000","Nebraska","1984","Number of jobs","0",885647
+"941","SAEMP25S-10","31000","Nebraska","1985","Number of jobs","0",897918
+"942","SAEMP25S-10","31000","Nebraska","1986","Number of jobs","0",897767
+"943","SAEMP25S-10","31000","Nebraska","1987","Number of jobs","0",924608
+"944","SAEMP25S-10","31000","Nebraska","1988","Number of jobs","0",947439
+"945","SAEMP25S-10","31000","Nebraska","1989","Number of jobs","0",964656
+"946","SAEMP25S-10","31000","Nebraska","1990","Number of jobs","0",988048
+"947","SAEMP25S-10","31000","Nebraska","1991","Number of jobs","0",992320
+"948","SAEMP25S-10","31000","Nebraska","1992","Number of jobs","0",999204
+"949","SAEMP25S-10","31000","Nebraska","1993","Number of jobs","0",1020980
+"950","SAEMP25S-10","31000","Nebraska","1994","Number of jobs","0",1061466
+"951","SAEMP25S-10","31000","Nebraska","1995","Number of jobs","0",1071231
+"952","SAEMP25S-10","31000","Nebraska","1996","Number of jobs","0",1096704
+"953","SAEMP25S-10","31000","Nebraska","1997","Number of jobs","0",1111371
+"954","SAEMP25S-10","31000","Nebraska","1998","Number of jobs","0",1138369
+"955","SAEMP25S-10","31000","Nebraska","1999","Number of jobs","0",1156816
+"956","SAEMP25S-10","31000","Nebraska","2000","Number of jobs","0",1173756
+"957","SAEMP25S-10","31000","Nebraska","2001","Number of jobs","0",1175112
+"958","SAEMP25S-10","32000","Nevada","1969","Number of jobs","0",243701
+"959","SAEMP25S-10","32000","Nevada","1970","Number of jobs","0",256145
+"960","SAEMP25S-10","32000","Nevada","1971","Number of jobs","0",267191
+"961","SAEMP25S-10","32000","Nevada","1972","Number of jobs","0",280037
+"962","SAEMP25S-10","32000","Nevada","1973","Number of jobs","0",304048
+"963","SAEMP25S-10","32000","Nevada","1974","Number of jobs","0",317204
+"964","SAEMP25S-10","32000","Nevada","1975","Number of jobs","0",326497
+"965","SAEMP25S-10","32000","Nevada","1976","Number of jobs","0",348995
+"966","SAEMP25S-10","32000","Nevada","1977","Number of jobs","0",383713
+"967","SAEMP25S-10","32000","Nevada","1978","Number of jobs","0",432318
+"968","SAEMP25S-10","32000","Nevada","1979","Number of jobs","0",467774
+"969","SAEMP25S-10","32000","Nevada","1980","Number of jobs","0",488628
+"970","SAEMP25S-10","32000","Nevada","1981","Number of jobs","0",500187
+"971","SAEMP25S-10","32000","Nevada","1982","Number of jobs","0",493889
+"972","SAEMP25S-10","32000","Nevada","1983","Number of jobs","0",498533
+"973","SAEMP25S-10","32000","Nevada","1984","Number of jobs","0",523336
+"974","SAEMP25S-10","32000","Nevada","1985","Number of jobs","0",545389
+"975","SAEMP25S-10","32000","Nevada","1986","Number of jobs","0",570484
+"976","SAEMP25S-10","32000","Nevada","1987","Number of jobs","0",615830
+"977","SAEMP25S-10","32000","Nevada","1988","Number of jobs","0",661700
+"978","SAEMP25S-10","32000","Nevada","1989","Number of jobs","0",709928
+"979","SAEMP25S-10","32000","Nevada","1990","Number of jobs","0",755587
+"980","SAEMP25S-10","32000","Nevada","1991","Number of jobs","0",768885
+"981","SAEMP25S-10","32000","Nevada","1992","Number of jobs","0",776291
+"982","SAEMP25S-10","32000","Nevada","1993","Number of jobs","0",818727
+"983","SAEMP25S-10","32000","Nevada","1994","Number of jobs","0",898349
+"984","SAEMP25S-10","32000","Nevada","1995","Number of jobs","0",952615
+"985","SAEMP25S-10","32000","Nevada","1996","Number of jobs","0",1023515
+"986","SAEMP25S-10","32000","Nevada","1997","Number of jobs","0",1088804
+"987","SAEMP25S-10","32000","Nevada","1998","Number of jobs","0",1131237
+"988","SAEMP25S-10","32000","Nevada","1999","Number of jobs","0",1189071
+"989","SAEMP25S-10","32000","Nevada","2000","Number of jobs","0",1254358
+"990","SAEMP25S-10","32000","Nevada","2001","Number of jobs","0",1285310
+"991","SAEMP25S-10","33000","New Hampshire","1969","Number of jobs","0",334070
+"992","SAEMP25S-10","33000","New Hampshire","1970","Number of jobs","0",333695
+"993","SAEMP25S-10","33000","New Hampshire","1971","Number of jobs","0",336311
+"994","SAEMP25S-10","33000","New Hampshire","1972","Number of jobs","0",349678
+"995","SAEMP25S-10","33000","New Hampshire","1973","Number of jobs","0",374038
+"996","SAEMP25S-10","33000","New Hampshire","1974","Number of jobs","0",380712
+"997","SAEMP25S-10","33000","New Hampshire","1975","Number of jobs","0",370436
+"998","SAEMP25S-10","33000","New Hampshire","1976","Number of jobs","0",393755
+"999","SAEMP25S-10","33000","New Hampshire","1977","Number of jobs","0",418419
+"1000","SAEMP25S-10","33000","New Hampshire","1978","Number of jobs","0",445596
+"1001","SAEMP25S-10","33000","New Hampshire","1979","Number of jobs","0",467512
+"1002","SAEMP25S-10","33000","New Hampshire","1980","Number of jobs","0",481610
+"1003","SAEMP25S-10","33000","New Hampshire","1981","Number of jobs","0",491780
+"1004","SAEMP25S-10","33000","New Hampshire","1982","Number of jobs","0",498144
+"1005","SAEMP25S-10","33000","New Hampshire","1983","Number of jobs","0",517638
+"1006","SAEMP25S-10","33000","New Hampshire","1984","Number of jobs","0",553158
+"1007","SAEMP25S-10","33000","New Hampshire","1985","Number of jobs","0",585708
+"1008","SAEMP25S-10","33000","New Hampshire","1986","Number of jobs","0",617430
+"1009","SAEMP25S-10","33000","New Hampshire","1987","Number of jobs","0",634718
+"1010","SAEMP25S-10","33000","New Hampshire","1988","Number of jobs","0",659854
+"1011","SAEMP25S-10","33000","New Hampshire","1989","Number of jobs","0",659566
+"1012","SAEMP25S-10","33000","New Hampshire","1990","Number of jobs","0",642570
+"1013","SAEMP25S-10","33000","New Hampshire","1991","Number of jobs","0",616340
+"1014","SAEMP25S-10","33000","New Hampshire","1992","Number of jobs","0",628633
+"1015","SAEMP25S-10","33000","New Hampshire","1993","Number of jobs","0",641906
+"1016","SAEMP25S-10","33000","New Hampshire","1994","Number of jobs","0",665701
+"1017","SAEMP25S-10","33000","New Hampshire","1995","Number of jobs","0",679441
+"1018","SAEMP25S-10","33000","New Hampshire","1996","Number of jobs","0",695920
+"1019","SAEMP25S-10","33000","New Hampshire","1997","Number of jobs","0",716703
+"1020","SAEMP25S-10","33000","New Hampshire","1998","Number of jobs","0",743341
+"1021","SAEMP25S-10","33000","New Hampshire","1999","Number of jobs","0",760763
+"1022","SAEMP25S-10","33000","New Hampshire","2000","Number of jobs","0",783545
+"1023","SAEMP25S-10","33000","New Hampshire","2001","Number of jobs","0",788168
+"1024","SAEMP25S-10","34000","New Jersey","1969","Number of jobs","0",3061493
+"1025","SAEMP25S-10","34000","New Jersey","1970","Number of jobs","0",3124572
+"1026","SAEMP25S-10","34000","New Jersey","1971","Number of jobs","0",3119402
+"1027","SAEMP25S-10","34000","New Jersey","1972","Number of jobs","0",3184143
+"1028","SAEMP25S-10","34000","New Jersey","1973","Number of jobs","0",3288124
+"1029","SAEMP25S-10","34000","New Jersey","1974","Number of jobs","0",3300540
+"1030","SAEMP25S-10","34000","New Jersey","1975","Number of jobs","0",3190693
+"1031","SAEMP25S-10","34000","New Jersey","1976","Number of jobs","0",3248286
+"1032","SAEMP25S-10","34000","New Jersey","1977","Number of jobs","0",3325139
+"1033","SAEMP25S-10","34000","New Jersey","1978","Number of jobs","0",3464561
+"1034","SAEMP25S-10","34000","New Jersey","1979","Number of jobs","0",3551507
+"1035","SAEMP25S-10","34000","New Jersey","1980","Number of jobs","0",3600866
+"1036","SAEMP25S-10","34000","New Jersey","1981","Number of jobs","0",3630962
+"1037","SAEMP25S-10","34000","New Jersey","1982","Number of jobs","0",3638914
+"1038","SAEMP25S-10","34000","New Jersey","1983","Number of jobs","0",3739129
+"1039","SAEMP25S-10","34000","New Jersey","1984","Number of jobs","0",3914206
+"1040","SAEMP25S-10","34000","New Jersey","1985","Number of jobs","0",4025613
+"1041","SAEMP25S-10","34000","New Jersey","1986","Number of jobs","0",4121635
+"1042","SAEMP25S-10","34000","New Jersey","1987","Number of jobs","0",4219864
+"1043","SAEMP25S-10","34000","New Jersey","1988","Number of jobs","0",4316583
+"1044","SAEMP25S-10","34000","New Jersey","1989","Number of jobs","0",4351212
+"1045","SAEMP25S-10","34000","New Jersey","1990","Number of jobs","0",4309704
+"1046","SAEMP25S-10","34000","New Jersey","1991","Number of jobs","0",4172215
+"1047","SAEMP25S-10","34000","New Jersey","1992","Number of jobs","0",4170013
+"1048","SAEMP25S-10","34000","New Jersey","1993","Number of jobs","0",4197161
+"1049","SAEMP25S-10","34000","New Jersey","1994","Number of jobs","0",4231628
+"1050","SAEMP25S-10","34000","New Jersey","1995","Number of jobs","0",4296373
+"1051","SAEMP25S-10","34000","New Jersey","1996","Number of jobs","0",4351845
+"1052","SAEMP25S-10","34000","New Jersey","1997","Number of jobs","0",4412438
+"1053","SAEMP25S-10","34000","New Jersey","1998","Number of jobs","0",4500635
+"1054","SAEMP25S-10","34000","New Jersey","1999","Number of jobs","0",4571128
+"1055","SAEMP25S-10","34000","New Jersey","2000","Number of jobs","0",4748598
+"1056","SAEMP25S-10","34000","New Jersey","2001","Number of jobs","0",4777145
+"1057","SAEMP25S-10","35000","New Mexico","1969","Number of jobs","0",394799
+"1058","SAEMP25S-10","35000","New Mexico","1970","Number of jobs","0",398899
+"1059","SAEMP25S-10","35000","New Mexico","1971","Number of jobs","0",416073
+"1060","SAEMP25S-10","35000","New Mexico","1972","Number of jobs","0",440381
+"1061","SAEMP25S-10","35000","New Mexico","1973","Number of jobs","0",460680
+"1062","SAEMP25S-10","35000","New Mexico","1974","Number of jobs","0",478009
+"1063","SAEMP25S-10","35000","New Mexico","1975","Number of jobs","0",490785
+"1064","SAEMP25S-10","35000","New Mexico","1976","Number of jobs","0",512389
+"1065","SAEMP25S-10","35000","New Mexico","1977","Number of jobs","0",538969
+"1066","SAEMP25S-10","35000","New Mexico","1978","Number of jobs","0",568233
+"1067","SAEMP25S-10","35000","New Mexico","1979","Number of jobs","0",592146
+"1068","SAEMP25S-10","35000","New Mexico","1980","Number of jobs","0",597041
+"1069","SAEMP25S-10","35000","New Mexico","1981","Number of jobs","0",610846
+"1070","SAEMP25S-10","35000","New Mexico","1982","Number of jobs","0",619089
+"1071","SAEMP25S-10","35000","New Mexico","1983","Number of jobs","0",631355
+"1072","SAEMP25S-10","35000","New Mexico","1984","Number of jobs","0",655141
+"1073","SAEMP25S-10","35000","New Mexico","1985","Number of jobs","0",674150
+"1074","SAEMP25S-10","35000","New Mexico","1986","Number of jobs","0",679909
+"1075","SAEMP25S-10","35000","New Mexico","1987","Number of jobs","0",698586
+"1076","SAEMP25S-10","35000","New Mexico","1988","Number of jobs","0",733303
+"1077","SAEMP25S-10","35000","New Mexico","1989","Number of jobs","0",748614
+"1078","SAEMP25S-10","35000","New Mexico","1990","Number of jobs","0",761396
+"1079","SAEMP25S-10","35000","New Mexico","1991","Number of jobs","0",784294
+"1080","SAEMP25S-10","35000","New Mexico","1992","Number of jobs","0",796829
+"1081","SAEMP25S-10","35000","New Mexico","1993","Number of jobs","0",825122
+"1082","SAEMP25S-10","35000","New Mexico","1994","Number of jobs","0",856994
+"1083","SAEMP25S-10","35000","New Mexico","1995","Number of jobs","0",898187
+"1084","SAEMP25S-10","35000","New Mexico","1996","Number of jobs","0",908725
+"1085","SAEMP25S-10","35000","New Mexico","1997","Number of jobs","0",922830
+"1086","SAEMP25S-10","35000","New Mexico","1998","Number of jobs","0",937525
+"1087","SAEMP25S-10","35000","New Mexico","1999","Number of jobs","0",942297
+"1088","SAEMP25S-10","35000","New Mexico","2000","Number of jobs","0",964919
+"1089","SAEMP25S-10","35000","New Mexico","2001","Number of jobs","0",976506
+"1090","SAEMP25S-10","36000","New York","1969","Number of jobs","0",8494052
+"1091","SAEMP25S-10","36000","New York","1970","Number of jobs","0",8465868
+"1092","SAEMP25S-10","36000","New York","1971","Number of jobs","0",8345341
+"1093","SAEMP25S-10","36000","New York","1972","Number of jobs","0",8348261
+"1094","SAEMP25S-10","36000","New York","1973","Number of jobs","0",8465363
+"1095","SAEMP25S-10","36000","New York","1974","Number of jobs","0",8392017
+"1096","SAEMP25S-10","36000","New York","1975","Number of jobs","0",8172219
+"1097","SAEMP25S-10","36000","New York","1976","Number of jobs","0",8125400
+"1098","SAEMP25S-10","36000","New York","1977","Number of jobs","0",8198948
+"1099","SAEMP25S-10","36000","New York","1978","Number of jobs","0",8384019
+"1100","SAEMP25S-10","36000","New York","1979","Number of jobs","0",8580543
+"1101","SAEMP25S-10","36000","New York","1980","Number of jobs","0",8602022
+"1102","SAEMP25S-10","36000","New York","1981","Number of jobs","0",8665868
+"1103","SAEMP25S-10","36000","New York","1982","Number of jobs","0",8672716
+"1104","SAEMP25S-10","36000","New York","1983","Number of jobs","0",8729621
+"1105","SAEMP25S-10","36000","New York","1984","Number of jobs","0",9002728
+"1106","SAEMP25S-10","36000","New York","1985","Number of jobs","0",9227207
+"1107","SAEMP25S-10","36000","New York","1986","Number of jobs","0",9424256
+"1108","SAEMP25S-10","36000","New York","1987","Number of jobs","0",9471509
+"1109","SAEMP25S-10","36000","New York","1988","Number of jobs","0",9684192
+"1110","SAEMP25S-10","36000","New York","1989","Number of jobs","0",9752014
+"1111","SAEMP25S-10","36000","New York","1990","Number of jobs","0",9727348
+"1112","SAEMP25S-10","36000","New York","1991","Number of jobs","0",9482658
+"1113","SAEMP25S-10","36000","New York","1992","Number of jobs","0",9410147
+"1114","SAEMP25S-10","36000","New York","1993","Number of jobs","0",9431043
+"1115","SAEMP25S-10","36000","New York","1994","Number of jobs","0",9464935
+"1116","SAEMP25S-10","36000","New York","1995","Number of jobs","0",9511472
+"1117","SAEMP25S-10","36000","New York","1996","Number of jobs","0",9595379
+"1118","SAEMP25S-10","36000","New York","1997","Number of jobs","0",9731824
+"1119","SAEMP25S-10","36000","New York","1998","Number of jobs","0",9901394
+"1120","SAEMP25S-10","36000","New York","1999","Number of jobs","0",10164527
+"1121","SAEMP25S-10","36000","New York","2000","Number of jobs","0",10424526
+"1122","SAEMP25S-10","36000","New York","2001","Number of jobs","0",10438676
+"1123","SAEMP25S-10","37000","North Carolina","1969","Number of jobs","0",2457997
+"1124","SAEMP25S-10","37000","North Carolina","1970","Number of jobs","0",2468524
+"1125","SAEMP25S-10","37000","North Carolina","1971","Number of jobs","0",2490307
+"1126","SAEMP25S-10","37000","North Carolina","1972","Number of jobs","0",2602097
+"1127","SAEMP25S-10","37000","North Carolina","1973","Number of jobs","0",2719564
+"1128","SAEMP25S-10","37000","North Carolina","1974","Number of jobs","0",2743165
+"1129","SAEMP25S-10","37000","North Carolina","1975","Number of jobs","0",2647462
+"1130","SAEMP25S-10","37000","North Carolina","1976","Number of jobs","0",2753858
+"1131","SAEMP25S-10","37000","North Carolina","1977","Number of jobs","0",2850596
+"1132","SAEMP25S-10","37000","North Carolina","1978","Number of jobs","0",2945933
+"1133","SAEMP25S-10","37000","North Carolina","1979","Number of jobs","0",3045787
+"1134","SAEMP25S-10","37000","North Carolina","1980","Number of jobs","0",3052458
+"1135","SAEMP25S-10","37000","North Carolina","1981","Number of jobs","0",3072289
+"1136","SAEMP25S-10","37000","North Carolina","1982","Number of jobs","0",3041512
+"1137","SAEMP25S-10","37000","North Carolina","1983","Number of jobs","0",3128522
+"1138","SAEMP25S-10","37000","North Carolina","1984","Number of jobs","0",3292313
+"1139","SAEMP25S-10","37000","North Carolina","1985","Number of jobs","0",3392276
+"1140","SAEMP25S-10","37000","North Carolina","1986","Number of jobs","0",3493724
+"1141","SAEMP25S-10","37000","North Carolina","1987","Number of jobs","0",3610298
+"1142","SAEMP25S-10","37000","North Carolina","1988","Number of jobs","0",3750988
+"1143","SAEMP25S-10","37000","North Carolina","1989","Number of jobs","0",3838492
+"1144","SAEMP25S-10","37000","North Carolina","1990","Number of jobs","0",3902373
+"1145","SAEMP25S-10","37000","North Carolina","1991","Number of jobs","0",3865529
+"1146","SAEMP25S-10","37000","North Carolina","1992","Number of jobs","0",3963816
+"1147","SAEMP25S-10","37000","North Carolina","1993","Number of jobs","0",4086843
+"1148","SAEMP25S-10","37000","North Carolina","1994","Number of jobs","0",4201049
+"1149","SAEMP25S-10","37000","North Carolina","1995","Number of jobs","0",4354641
+"1150","SAEMP25S-10","37000","North Carolina","1996","Number of jobs","0",4458978
+"1151","SAEMP25S-10","37000","North Carolina","1997","Number of jobs","0",4602983
+"1152","SAEMP25S-10","37000","North Carolina","1998","Number of jobs","0",4708195
+"1153","SAEMP25S-10","37000","North Carolina","1999","Number of jobs","0",4802414
+"1154","SAEMP25S-10","37000","North Carolina","2000","Number of jobs","0",4891957
+"1155","SAEMP25S-10","37000","North Carolina","2001","Number of jobs","0",4855476
+"1156","SAEMP25S-10","38000","North Dakota","1969","Number of jobs","0",273930
+"1157","SAEMP25S-10","38000","North Dakota","1970","Number of jobs","0",281458
+"1158","SAEMP25S-10","38000","North Dakota","1971","Number of jobs","0",283811
+"1159","SAEMP25S-10","38000","North Dakota","1972","Number of jobs","0",288138
+"1160","SAEMP25S-10","38000","North Dakota","1973","Number of jobs","0",300252
+"1161","SAEMP25S-10","38000","North Dakota","1974","Number of jobs","0",308009
+"1162","SAEMP25S-10","38000","North Dakota","1975","Number of jobs","0",313546
+"1163","SAEMP25S-10","38000","North Dakota","1976","Number of jobs","0",325944
+"1164","SAEMP25S-10","38000","North Dakota","1977","Number of jobs","0",330976
+"1165","SAEMP25S-10","38000","North Dakota","1978","Number of jobs","0",345094
+"1166","SAEMP25S-10","38000","North Dakota","1979","Number of jobs","0",353425
+"1167","SAEMP25S-10","38000","North Dakota","1980","Number of jobs","0",354849
+"1168","SAEMP25S-10","38000","North Dakota","1981","Number of jobs","0",358792
+"1169","SAEMP25S-10","38000","North Dakota","1982","Number of jobs","0",359535
+"1170","SAEMP25S-10","38000","North Dakota","1983","Number of jobs","0",365143
+"1171","SAEMP25S-10","38000","North Dakota","1984","Number of jobs","0",366419
+"1172","SAEMP25S-10","38000","North Dakota","1985","Number of jobs","0",363513
+"1173","SAEMP25S-10","38000","North Dakota","1986","Number of jobs","0",357386
+"1174","SAEMP25S-10","38000","North Dakota","1987","Number of jobs","0",362693
+"1175","SAEMP25S-10","38000","North Dakota","1988","Number of jobs","0",366328
+"1176","SAEMP25S-10","38000","North Dakota","1989","Number of jobs","0",370190
+"1177","SAEMP25S-10","38000","North Dakota","1990","Number of jobs","0",373890
+"1178","SAEMP25S-10","38000","North Dakota","1991","Number of jobs","0",382218
+"1179","SAEMP25S-10","38000","North Dakota","1992","Number of jobs","0",387620
+"1180","SAEMP25S-10","38000","North Dakota","1993","Number of jobs","0",396886
+"1181","SAEMP25S-10","38000","North Dakota","1994","Number of jobs","0",411338
+"1182","SAEMP25S-10","38000","North Dakota","1995","Number of jobs","0",418075
+"1183","SAEMP25S-10","38000","North Dakota","1996","Number of jobs","0",425783
+"1184","SAEMP25S-10","38000","North Dakota","1997","Number of jobs","0",429892
+"1185","SAEMP25S-10","38000","North Dakota","1998","Number of jobs","0",434930
+"1186","SAEMP25S-10","38000","North Dakota","1999","Number of jobs","0",435651
+"1187","SAEMP25S-10","38000","North Dakota","2000","Number of jobs","0",440643
+"1188","SAEMP25S-10","38000","North Dakota","2001","Number of jobs","0",445433
+"1189","SAEMP25S-10","39000","Ohio","1969","Number of jobs","0",4695425
+"1190","SAEMP25S-10","39000","Ohio","1970","Number of jobs","0",4682839
+"1191","SAEMP25S-10","39000","Ohio","1971","Number of jobs","0",4626586
+"1192","SAEMP25S-10","39000","Ohio","1972","Number of jobs","0",4709749
+"1193","SAEMP25S-10","39000","Ohio","1973","Number of jobs","0",4902170
+"1194","SAEMP25S-10","39000","Ohio","1974","Number of jobs","0",4964402
+"1195","SAEMP25S-10","39000","Ohio","1975","Number of jobs","0",4809410
+"1196","SAEMP25S-10","39000","Ohio","1976","Number of jobs","0",4889405
+"1197","SAEMP25S-10","39000","Ohio","1977","Number of jobs","0",5034481
+"1198","SAEMP25S-10","39000","Ohio","1978","Number of jobs","0",5205914
+"1199","SAEMP25S-10","39000","Ohio","1979","Number of jobs","0",5290874
+"1200","SAEMP25S-10","39000","Ohio","1980","Number of jobs","0",5204114
+"1201","SAEMP25S-10","39000","Ohio","1981","Number of jobs","0",5134527
+"1202","SAEMP25S-10","39000","Ohio","1982","Number of jobs","0",4966522
+"1203","SAEMP25S-10","39000","Ohio","1983","Number of jobs","0",4960461
+"1204","SAEMP25S-10","39000","Ohio","1984","Number of jobs","0",5160451
+"1205","SAEMP25S-10","39000","Ohio","1985","Number of jobs","0",5287261
+"1206","SAEMP25S-10","39000","Ohio","1986","Number of jobs","0",5400592
+"1207","SAEMP25S-10","39000","Ohio","1987","Number of jobs","0",5547914
+"1208","SAEMP25S-10","39000","Ohio","1988","Number of jobs","0",5682276
+"1209","SAEMP25S-10","39000","Ohio","1989","Number of jobs","0",5802511
+"1210","SAEMP25S-10","39000","Ohio","1990","Number of jobs","0",5863015
+"1211","SAEMP25S-10","39000","Ohio","1991","Number of jobs","0",5842457
+"1212","SAEMP25S-10","39000","Ohio","1992","Number of jobs","0",5854116
+"1213","SAEMP25S-10","39000","Ohio","1993","Number of jobs","0",5959798
+"1214","SAEMP25S-10","39000","Ohio","1994","Number of jobs","0",6136451
+"1215","SAEMP25S-10","39000","Ohio","1995","Number of jobs","0",6299654
+"1216","SAEMP25S-10","39000","Ohio","1996","Number of jobs","0",6395002
+"1217","SAEMP25S-10","39000","Ohio","1997","Number of jobs","0",6500115
+"1218","SAEMP25S-10","39000","Ohio","1998","Number of jobs","0",6599132
+"1219","SAEMP25S-10","39000","Ohio","1999","Number of jobs","0",6681355
+"1220","SAEMP25S-10","39000","Ohio","2000","Number of jobs","0",6789300
+"1221","SAEMP25S-10","39000","Ohio","2001","Number of jobs","0",6725753
+"1222","SAEMP25S-10","40000","Oklahoma","1969","Number of jobs","0",1107254
+"1223","SAEMP25S-10","40000","Oklahoma","1970","Number of jobs","0",1119772
+"1224","SAEMP25S-10","40000","Oklahoma","1971","Number of jobs","0",1132251
+"1225","SAEMP25S-10","40000","Oklahoma","1972","Number of jobs","0",1183090
+"1226","SAEMP25S-10","40000","Oklahoma","1973","Number of jobs","0",1220988
+"1227","SAEMP25S-10","40000","Oklahoma","1974","Number of jobs","0",1255780
+"1228","SAEMP25S-10","40000","Oklahoma","1975","Number of jobs","0",1268539
+"1229","SAEMP25S-10","40000","Oklahoma","1976","Number of jobs","0",1305470
+"1230","SAEMP25S-10","40000","Oklahoma","1977","Number of jobs","0",1359195
+"1231","SAEMP25S-10","40000","Oklahoma","1978","Number of jobs","0",1428087
+"1232","SAEMP25S-10","40000","Oklahoma","1979","Number of jobs","0",1481253
+"1233","SAEMP25S-10","40000","Oklahoma","1980","Number of jobs","0",1547367
+"1234","SAEMP25S-10","40000","Oklahoma","1981","Number of jobs","0",1625130
+"1235","SAEMP25S-10","40000","Oklahoma","1982","Number of jobs","0",1673226
+"1236","SAEMP25S-10","40000","Oklahoma","1983","Number of jobs","0",1637587
+"1237","SAEMP25S-10","40000","Oklahoma","1984","Number of jobs","0",1665397
+"1238","SAEMP25S-10","40000","Oklahoma","1985","Number of jobs","0",1647651
+"1239","SAEMP25S-10","40000","Oklahoma","1986","Number of jobs","0",1588059
+"1240","SAEMP25S-10","40000","Oklahoma","1987","Number of jobs","0",1598762
+"1241","SAEMP25S-10","40000","Oklahoma","1988","Number of jobs","0",1608236
+"1242","SAEMP25S-10","40000","Oklahoma","1989","Number of jobs","0",1622640
+"1243","SAEMP25S-10","40000","Oklahoma","1990","Number of jobs","0",1654743
+"1244","SAEMP25S-10","40000","Oklahoma","1991","Number of jobs","0",1668179
+"1245","SAEMP25S-10","40000","Oklahoma","1992","Number of jobs","0",1680022
+"1246","SAEMP25S-10","40000","Oklahoma","1993","Number of jobs","0",1715718
+"1247","SAEMP25S-10","40000","Oklahoma","1994","Number of jobs","0",1748232
+"1248","SAEMP25S-10","40000","Oklahoma","1995","Number of jobs","0",1799650
+"1249","SAEMP25S-10","40000","Oklahoma","1996","Number of jobs","0",1849559
+"1250","SAEMP25S-10","40000","Oklahoma","1997","Number of jobs","0",1896861
+"1251","SAEMP25S-10","40000","Oklahoma","1998","Number of jobs","0",1938705
+"1252","SAEMP25S-10","40000","Oklahoma","1999","Number of jobs","0",1953349
+"1253","SAEMP25S-10","40000","Oklahoma","2000","Number of jobs","0",1994373
+"1254","SAEMP25S-10","40000","Oklahoma","2001","Number of jobs","0",2009183
+"1255","SAEMP25S-10","41000","Oregon","1969","Number of jobs","0",920183
+"1256","SAEMP25S-10","41000","Oregon","1970","Number of jobs","0",925933
+"1257","SAEMP25S-10","41000","Oregon","1971","Number of jobs","0",950552
+"1258","SAEMP25S-10","41000","Oregon","1972","Number of jobs","0",1001074
+"1259","SAEMP25S-10","41000","Oregon","1973","Number of jobs","0",1058290
+"1260","SAEMP25S-10","41000","Oregon","1974","Number of jobs","0",1089196
+"1261","SAEMP25S-10","41000","Oregon","1975","Number of jobs","0",1105316
+"1262","SAEMP25S-10","41000","Oregon","1976","Number of jobs","0",1156014
+"1263","SAEMP25S-10","41000","Oregon","1977","Number of jobs","0",1222672
+"1264","SAEMP25S-10","41000","Oregon","1978","Number of jobs","0",1296308
+"1265","SAEMP25S-10","41000","Oregon","1979","Number of jobs","0",1349641
+"1266","SAEMP25S-10","41000","Oregon","1980","Number of jobs","0",1349543
+"1267","SAEMP25S-10","41000","Oregon","1981","Number of jobs","0",1319241
+"1268","SAEMP25S-10","41000","Oregon","1982","Number of jobs","0",1269532
+"1269","SAEMP25S-10","41000","Oregon","1983","Number of jobs","0",1295260
+"1270","SAEMP25S-10","41000","Oregon","1984","Number of jobs","0",1341925
+"1271","SAEMP25S-10","41000","Oregon","1985","Number of jobs","0",1370436
+"1272","SAEMP25S-10","41000","Oregon","1986","Number of jobs","0",1405810
+"1273","SAEMP25S-10","41000","Oregon","1987","Number of jobs","0",1454698
+"1274","SAEMP25S-10","41000","Oregon","1988","Number of jobs","0",1521518
+"1275","SAEMP25S-10","41000","Oregon","1989","Number of jobs","0",1574429
+"1276","SAEMP25S-10","41000","Oregon","1990","Number of jobs","0",1626385
+"1277","SAEMP25S-10","41000","Oregon","1991","Number of jobs","0",1635517
+"1278","SAEMP25S-10","41000","Oregon","1992","Number of jobs","0",1653649
+"1279","SAEMP25S-10","41000","Oregon","1993","Number of jobs","0",1697791
+"1280","SAEMP25S-10","41000","Oregon","1994","Number of jobs","0",1780620
+"1281","SAEMP25S-10","41000","Oregon","1995","Number of jobs","0",1845372
+"1282","SAEMP25S-10","41000","Oregon","1996","Number of jobs","0",1919606
+"1283","SAEMP25S-10","41000","Oregon","1997","Number of jobs","0",1986426
+"1284","SAEMP25S-10","41000","Oregon","1998","Number of jobs","0",2021755
+"1285","SAEMP25S-10","41000","Oregon","1999","Number of jobs","0",2051144
+"1286","SAEMP25S-10","41000","Oregon","2000","Number of jobs","0",2092153
+"1287","SAEMP25S-10","41000","Oregon","2001","Number of jobs","0",2079058
+"1288","SAEMP25S-10","42000","Pennsylvania","1969","Number of jobs","0",5249940
+"1289","SAEMP25S-10","42000","Pennsylvania","1970","Number of jobs","0",5226036
+"1290","SAEMP25S-10","42000","Pennsylvania","1971","Number of jobs","0",5159316
+"1291","SAEMP25S-10","42000","Pennsylvania","1972","Number of jobs","0",5246647
+"1292","SAEMP25S-10","42000","Pennsylvania","1973","Number of jobs","0",5401982
+"1293","SAEMP25S-10","42000","Pennsylvania","1974","Number of jobs","0",5419058
+"1294","SAEMP25S-10","42000","Pennsylvania","1975","Number of jobs","0",5302386
+"1295","SAEMP25S-10","42000","Pennsylvania","1976","Number of jobs","0",5353339
+"1296","SAEMP25S-10","42000","Pennsylvania","1977","Number of jobs","0",5429193
+"1297","SAEMP25S-10","42000","Pennsylvania","1978","Number of jobs","0",5561889
+"1298","SAEMP25S-10","42000","Pennsylvania","1979","Number of jobs","0",5663533
+"1299","SAEMP25S-10","42000","Pennsylvania","1980","Number of jobs","0",5624462
+"1300","SAEMP25S-10","42000","Pennsylvania","1981","Number of jobs","0",5583974
+"1301","SAEMP25S-10","42000","Pennsylvania","1982","Number of jobs","0",5473792
+"1302","SAEMP25S-10","42000","Pennsylvania","1983","Number of jobs","0",5432690
+"1303","SAEMP25S-10","42000","Pennsylvania","1984","Number of jobs","0",5577004
+"1304","SAEMP25S-10","42000","Pennsylvania","1985","Number of jobs","0",5679261
+"1305","SAEMP25S-10","42000","Pennsylvania","1986","Number of jobs","0",5772102
+"1306","SAEMP25S-10","42000","Pennsylvania","1987","Number of jobs","0",5956959
+"1307","SAEMP25S-10","42000","Pennsylvania","1988","Number of jobs","0",6119812
+"1308","SAEMP25S-10","42000","Pennsylvania","1989","Number of jobs","0",6216055
+"1309","SAEMP25S-10","42000","Pennsylvania","1990","Number of jobs","0",6292542
+"1310","SAEMP25S-10","42000","Pennsylvania","1991","Number of jobs","0",6211669
+"1311","SAEMP25S-10","42000","Pennsylvania","1992","Number of jobs","0",6216278
+"1312","SAEMP25S-10","42000","Pennsylvania","1993","Number of jobs","0",6256367
+"1313","SAEMP25S-10","42000","Pennsylvania","1994","Number of jobs","0",6323071
+"1314","SAEMP25S-10","42000","Pennsylvania","1995","Number of jobs","0",6422943
+"1315","SAEMP25S-10","42000","Pennsylvania","1996","Number of jobs","0",6477294
+"1316","SAEMP25S-10","42000","Pennsylvania","1997","Number of jobs","0",6584830
+"1317","SAEMP25S-10","42000","Pennsylvania","1998","Number of jobs","0",6657699
+"1318","SAEMP25S-10","42000","Pennsylvania","1999","Number of jobs","0",6764360
+"1319","SAEMP25S-10","42000","Pennsylvania","2000","Number of jobs","0",6905286
+"1320","SAEMP25S-10","42000","Pennsylvania","2001","Number of jobs","0",6915464
+"1321","SAEMP25S-10","44000","Rhode Island","1969","Number of jobs","0",440080
+"1322","SAEMP25S-10","44000","Rhode Island","1970","Number of jobs","0",440434
+"1323","SAEMP25S-10","44000","Rhode Island","1971","Number of jobs","0",436230
+"1324","SAEMP25S-10","44000","Rhode Island","1972","Number of jobs","0",447168
+"1325","SAEMP25S-10","44000","Rhode Island","1973","Number of jobs","0",452029
+"1326","SAEMP25S-10","44000","Rhode Island","1974","Number of jobs","0",439492
+"1327","SAEMP25S-10","44000","Rhode Island","1975","Number of jobs","0",423718
+"1328","SAEMP25S-10","44000","Rhode Island","1976","Number of jobs","0",442018
+"1329","SAEMP25S-10","44000","Rhode Island","1977","Number of jobs","0",459260
+"1330","SAEMP25S-10","44000","Rhode Island","1978","Number of jobs","0",474204
+"1331","SAEMP25S-10","44000","Rhode Island","1979","Number of jobs","0",483338
+"1332","SAEMP25S-10","44000","Rhode Island","1980","Number of jobs","0",484272
+"1333","SAEMP25S-10","44000","Rhode Island","1981","Number of jobs","0",483652
+"1334","SAEMP25S-10","44000","Rhode Island","1982","Number of jobs","0",474725
+"1335","SAEMP25S-10","44000","Rhode Island","1983","Number of jobs","0",480235
+"1336","SAEMP25S-10","44000","Rhode Island","1984","Number of jobs","0",503670
+"1337","SAEMP25S-10","44000","Rhode Island","1985","Number of jobs","0",518775
+"1338","SAEMP25S-10","44000","Rhode Island","1986","Number of jobs","0",536778
+"1339","SAEMP25S-10","44000","Rhode Island","1987","Number of jobs","0",546024
+"1340","SAEMP25S-10","44000","Rhode Island","1988","Number of jobs","0",559738
+"1341","SAEMP25S-10","44000","Rhode Island","1989","Number of jobs","0",560370
+"1342","SAEMP25S-10","44000","Rhode Island","1990","Number of jobs","0",550468
+"1343","SAEMP25S-10","44000","Rhode Island","1991","Number of jobs","0",523917
+"1344","SAEMP25S-10","44000","Rhode Island","1992","Number of jobs","0",529175
+"1345","SAEMP25S-10","44000","Rhode Island","1993","Number of jobs","0",533447
+"1346","SAEMP25S-10","44000","Rhode Island","1994","Number of jobs","0",532959
+"1347","SAEMP25S-10","44000","Rhode Island","1995","Number of jobs","0",536250
+"1348","SAEMP25S-10","44000","Rhode Island","1996","Number of jobs","0",539724
+"1349","SAEMP25S-10","44000","Rhode Island","1997","Number of jobs","0",545955
+"1350","SAEMP25S-10","44000","Rhode Island","1998","Number of jobs","0",554761
+"1351","SAEMP25S-10","44000","Rhode Island","1999","Number of jobs","0",566528
+"1352","SAEMP25S-10","44000","Rhode Island","2000","Number of jobs","0",582589
+"1353","SAEMP25S-10","44000","Rhode Island","2001","Number of jobs","0",585235
+"1354","SAEMP25S-10","45000","South Carolina","1969","Number of jobs","0",1170440
+"1355","SAEMP25S-10","45000","South Carolina","1970","Number of jobs","0",1195991
+"1356","SAEMP25S-10","45000","South Carolina","1971","Number of jobs","0",1214524
+"1357","SAEMP25S-10","45000","South Carolina","1972","Number of jobs","0",1261975
+"1358","SAEMP25S-10","45000","South Carolina","1973","Number of jobs","0",1327545
+"1359","SAEMP25S-10","45000","South Carolina","1974","Number of jobs","0",1364918
+"1360","SAEMP25S-10","45000","South Carolina","1975","Number of jobs","0",1326160
+"1361","SAEMP25S-10","45000","South Carolina","1976","Number of jobs","0",1376441
+"1362","SAEMP25S-10","45000","South Carolina","1977","Number of jobs","0",1411204
+"1363","SAEMP25S-10","45000","South Carolina","1978","Number of jobs","0",1466342
+"1364","SAEMP25S-10","45000","South Carolina","1979","Number of jobs","0",1507001
+"1365","SAEMP25S-10","45000","South Carolina","1980","Number of jobs","0",1523489
+"1366","SAEMP25S-10","45000","South Carolina","1981","Number of jobs","0",1536244
+"1367","SAEMP25S-10","45000","South Carolina","1982","Number of jobs","0",1513855
+"1368","SAEMP25S-10","45000","South Carolina","1983","Number of jobs","0",1547496
+"1369","SAEMP25S-10","45000","South Carolina","1984","Number of jobs","0",1624992
+"1370","SAEMP25S-10","45000","South Carolina","1985","Number of jobs","0",1655111
+"1371","SAEMP25S-10","45000","South Carolina","1986","Number of jobs","0",1697186
+"1372","SAEMP25S-10","45000","South Carolina","1987","Number of jobs","0",1738122
+"1373","SAEMP25S-10","45000","South Carolina","1988","Number of jobs","0",1809013
+"1374","SAEMP25S-10","45000","South Carolina","1989","Number of jobs","0",1858308
+"1375","SAEMP25S-10","45000","South Carolina","1990","Number of jobs","0",1912747
+"1376","SAEMP25S-10","45000","South Carolina","1991","Number of jobs","0",1886170
+"1377","SAEMP25S-10","45000","South Carolina","1992","Number of jobs","0",1897465
+"1378","SAEMP25S-10","45000","South Carolina","1993","Number of jobs","0",1931459
+"1379","SAEMP25S-10","45000","South Carolina","1994","Number of jobs","0",1978983
+"1380","SAEMP25S-10","45000","South Carolina","1995","Number of jobs","0",2038053
+"1381","SAEMP25S-10","45000","South Carolina","1996","Number of jobs","0",2080349
+"1382","SAEMP25S-10","45000","South Carolina","1997","Number of jobs","0",2140787
+"1383","SAEMP25S-10","45000","South Carolina","1998","Number of jobs","0",2191440
+"1384","SAEMP25S-10","45000","South Carolina","1999","Number of jobs","0",2240690
+"1385","SAEMP25S-10","45000","South Carolina","2000","Number of jobs","0",2279819
+"1386","SAEMP25S-10","45000","South Carolina","2001","Number of jobs","0",2256571
+"1387","SAEMP25S-10","46000","South Dakota","1969","Number of jobs","0",303105
+"1388","SAEMP25S-10","46000","South Dakota","1970","Number of jobs","0",304839
+"1389","SAEMP25S-10","46000","South Dakota","1971","Number of jobs","0",306132
+"1390","SAEMP25S-10","46000","South Dakota","1972","Number of jobs","0",309069
+"1391","SAEMP25S-10","46000","South Dakota","1973","Number of jobs","0",322850
+"1392","SAEMP25S-10","46000","South Dakota","1974","Number of jobs","0",326414
+"1393","SAEMP25S-10","46000","South Dakota","1975","Number of jobs","0",326343
+"1394","SAEMP25S-10","46000","South Dakota","1976","Number of jobs","0",335977
+"1395","SAEMP25S-10","46000","South Dakota","1977","Number of jobs","0",342003
+"1396","SAEMP25S-10","46000","South Dakota","1978","Number of jobs","0",354884
+"1397","SAEMP25S-10","46000","South Dakota","1979","Number of jobs","0",359364
+"1398","SAEMP25S-10","46000","South Dakota","1980","Number of jobs","0",352638
+"1399","SAEMP25S-10","46000","South Dakota","1981","Number of jobs","0",347563
+"1400","SAEMP25S-10","46000","South Dakota","1982","Number of jobs","0",344304
+"1401","SAEMP25S-10","46000","South Dakota","1983","Number of jobs","0",352537
+"1402","SAEMP25S-10","46000","South Dakota","1984","Number of jobs","0",362378
+"1403","SAEMP25S-10","46000","South Dakota","1985","Number of jobs","0",364778
+"1404","SAEMP25S-10","46000","South Dakota","1986","Number of jobs","0",366030
+"1405","SAEMP25S-10","46000","South Dakota","1987","Number of jobs","0",381298
+"1406","SAEMP25S-10","46000","South Dakota","1988","Number of jobs","0",387779
+"1407","SAEMP25S-10","46000","South Dakota","1989","Number of jobs","0",395870
+"1408","SAEMP25S-10","46000","South Dakota","1990","Number of jobs","0",409374
+"1409","SAEMP25S-10","46000","South Dakota","1991","Number of jobs","0",420472
+"1410","SAEMP25S-10","46000","South Dakota","1992","Number of jobs","0",431189
+"1411","SAEMP25S-10","46000","South Dakota","1993","Number of jobs","0",442481
+"1412","SAEMP25S-10","46000","South Dakota","1994","Number of jobs","0",464396
+"1413","SAEMP25S-10","46000","South Dakota","1995","Number of jobs","0",472046
+"1414","SAEMP25S-10","46000","South Dakota","1996","Number of jobs","0",479226
+"1415","SAEMP25S-10","46000","South Dakota","1997","Number of jobs","0",484646
+"1416","SAEMP25S-10","46000","South Dakota","1998","Number of jobs","0",490715
+"1417","SAEMP25S-10","46000","South Dakota","1999","Number of jobs","0",501684
+"1418","SAEMP25S-10","46000","South Dakota","2000","Number of jobs","0",512377
+"1419","SAEMP25S-10","46000","South Dakota","2001","Number of jobs","0",511664
+"1420","SAEMP25S-10","47000","Tennessee","1969","Number of jobs","0",1788719
+"1421","SAEMP25S-10","47000","Tennessee","1970","Number of jobs","0",1784919
+"1422","SAEMP25S-10","47000","Tennessee","1971","Number of jobs","0",1816596
+"1423","SAEMP25S-10","47000","Tennessee","1972","Number of jobs","0",1923756
+"1424","SAEMP25S-10","47000","Tennessee","1973","Number of jobs","0",2024714
+"1425","SAEMP25S-10","47000","Tennessee","1974","Number of jobs","0",2054692
+"1426","SAEMP25S-10","47000","Tennessee","1975","Number of jobs","0",1983267
+"1427","SAEMP25S-10","47000","Tennessee","1976","Number of jobs","0",2052396
+"1428","SAEMP25S-10","47000","Tennessee","1977","Number of jobs","0",2135018
+"1429","SAEMP25S-10","47000","Tennessee","1978","Number of jobs","0",2227104
+"1430","SAEMP25S-10","47000","Tennessee","1979","Number of jobs","0",2278894
+"1431","SAEMP25S-10","47000","Tennessee","1980","Number of jobs","0",2259204
+"1432","SAEMP25S-10","47000","Tennessee","1981","Number of jobs","0",2255061
+"1433","SAEMP25S-10","47000","Tennessee","1982","Number of jobs","0",2217235
+"1434","SAEMP25S-10","47000","Tennessee","1983","Number of jobs","0",2239467
+"1435","SAEMP25S-10","47000","Tennessee","1984","Number of jobs","0",2343854
+"1436","SAEMP25S-10","47000","Tennessee","1985","Number of jobs","0",2398866
+"1437","SAEMP25S-10","47000","Tennessee","1986","Number of jobs","0",2477304
+"1438","SAEMP25S-10","47000","Tennessee","1987","Number of jobs","0",2577879
+"1439","SAEMP25S-10","47000","Tennessee","1988","Number of jobs","0",2663338
+"1440","SAEMP25S-10","47000","Tennessee","1989","Number of jobs","0",2734816
+"1441","SAEMP25S-10","47000","Tennessee","1990","Number of jobs","0",2777416
+"1442","SAEMP25S-10","47000","Tennessee","1991","Number of jobs","0",2777569
+"1443","SAEMP25S-10","47000","Tennessee","1992","Number of jobs","0",2837263
+"1444","SAEMP25S-10","47000","Tennessee","1993","Number of jobs","0",2942948
+"1445","SAEMP25S-10","47000","Tennessee","1994","Number of jobs","0",3061304
+"1446","SAEMP25S-10","47000","Tennessee","1995","Number of jobs","0",3144656
+"1447","SAEMP25S-10","47000","Tennessee","1996","Number of jobs","0",3194784
+"1448","SAEMP25S-10","47000","Tennessee","1997","Number of jobs","0",3269258
+"1449","SAEMP25S-10","47000","Tennessee","1998","Number of jobs","0",3339584
+"1450","SAEMP25S-10","47000","Tennessee","1999","Number of jobs","0",3397301
+"1451","SAEMP25S-10","47000","Tennessee","2000","Number of jobs","0",3459310
+"1452","SAEMP25S-10","47000","Tennessee","2001","Number of jobs","0",3421028
+"1453","SAEMP25S-10","48000","Texas","1969","Number of jobs","0",5005193
+"1454","SAEMP25S-10","48000","Texas","1970","Number of jobs","0",5045435
+"1455","SAEMP25S-10","48000","Texas","1971","Number of jobs","0",5123138
+"1456","SAEMP25S-10","48000","Texas","1972","Number of jobs","0",5333823
+"1457","SAEMP25S-10","48000","Texas","1973","Number of jobs","0",5608047
+"1458","SAEMP25S-10","48000","Texas","1974","Number of jobs","0",5822056
+"1459","SAEMP25S-10","48000","Texas","1975","Number of jobs","0",5938330
+"1460","SAEMP25S-10","48000","Texas","1976","Number of jobs","0",6206757
+"1461","SAEMP25S-10","48000","Texas","1977","Number of jobs","0",6520814
+"1462","SAEMP25S-10","48000","Texas","1978","Number of jobs","0",6900142
+"1463","SAEMP25S-10","48000","Texas","1979","Number of jobs","0",7214707
+"1464","SAEMP25S-10","48000","Texas","1980","Number of jobs","0",7495945
+"1465","SAEMP25S-10","48000","Texas","1981","Number of jobs","0",7900274
+"1466","SAEMP25S-10","48000","Texas","1982","Number of jobs","0",8074282
+"1467","SAEMP25S-10","48000","Texas","1983","Number of jobs","0",8064275
+"1468","SAEMP25S-10","48000","Texas","1984","Number of jobs","0",8433673
+"1469","SAEMP25S-10","48000","Texas","1985","Number of jobs","0",8673542
+"1470","SAEMP25S-10","48000","Texas","1986","Number of jobs","0",8514204
+"1471","SAEMP25S-10","48000","Texas","1987","Number of jobs","0",8723023
+"1472","SAEMP25S-10","48000","Texas","1988","Number of jobs","0",8880181
+"1473","SAEMP25S-10","48000","Texas","1989","Number of jobs","0",9005310
+"1474","SAEMP25S-10","48000","Texas","1990","Number of jobs","0",9242899
+"1475","SAEMP25S-10","48000","Texas","1991","Number of jobs","0",9403936
+"1476","SAEMP25S-10","48000","Texas","1992","Number of jobs","0",9482932
+"1477","SAEMP25S-10","48000","Texas","1993","Number of jobs","0",9780517
+"1478","SAEMP25S-10","48000","Texas","1994","Number of jobs","0",10098087
+"1479","SAEMP25S-10","48000","Texas","1995","Number of jobs","0",10439859
+"1480","SAEMP25S-10","48000","Texas","1996","Number of jobs","0",10737590
+"1481","SAEMP25S-10","48000","Texas","1997","Number of jobs","0",11165358
+"1482","SAEMP25S-10","48000","Texas","1998","Number of jobs","0",11541749
+"1483","SAEMP25S-10","48000","Texas","1999","Number of jobs","0",11761409
+"1484","SAEMP25S-10","48000","Texas","2000","Number of jobs","0",12138771
+"1485","SAEMP25S-10","48000","Texas","2001","Number of jobs","0",12284685
+"1486","SAEMP25S-10","49000","Utah","1969","Number of jobs","0",443665
+"1487","SAEMP25S-10","49000","Utah","1970","Number of jobs","0",454612
+"1488","SAEMP25S-10","49000","Utah","1971","Number of jobs","0",466945
+"1489","SAEMP25S-10","49000","Utah","1972","Number of jobs","0",494083
+"1490","SAEMP25S-10","49000","Utah","1973","Number of jobs","0",522552
+"1491","SAEMP25S-10","49000","Utah","1974","Number of jobs","0",544692
+"1492","SAEMP25S-10","49000","Utah","1975","Number of jobs","0",552699
+"1493","SAEMP25S-10","49000","Utah","1976","Number of jobs","0",580312
+"1494","SAEMP25S-10","49000","Utah","1977","Number of jobs","0",612694
+"1495","SAEMP25S-10","49000","Utah","1978","Number of jobs","0",651311
+"1496","SAEMP25S-10","49000","Utah","1979","Number of jobs","0",677997
+"1497","SAEMP25S-10","49000","Utah","1980","Number of jobs","0",687159
+"1498","SAEMP25S-10","49000","Utah","1981","Number of jobs","0",696877
+"1499","SAEMP25S-10","49000","Utah","1982","Number of jobs","0",706930
+"1500","SAEMP25S-10","49000","Utah","1983","Number of jobs","0",719110
+"1501","SAEMP25S-10","49000","Utah","1984","Number of jobs","0",761202
+"1502","SAEMP25S-10","49000","Utah","1985","Number of jobs","0",788568
+"1503","SAEMP25S-10","49000","Utah","1986","Number of jobs","0",801192
+"1504","SAEMP25S-10","49000","Utah","1987","Number of jobs","0",830377
+"1505","SAEMP25S-10","49000","Utah","1988","Number of jobs","0",865051
+"1506","SAEMP25S-10","49000","Utah","1989","Number of jobs","0",897166
+"1507","SAEMP25S-10","49000","Utah","1990","Number of jobs","0",938218
+"1508","SAEMP25S-10","49000","Utah","1991","Number of jobs","0",960860
+"1509","SAEMP25S-10","49000","Utah","1992","Number of jobs","0",978690
+"1510","SAEMP25S-10","49000","Utah","1993","Number of jobs","0",1025991
+"1511","SAEMP25S-10","49000","Utah","1994","Number of jobs","0",1102315
+"1512","SAEMP25S-10","49000","Utah","1995","Number of jobs","0",1150220
+"1513","SAEMP25S-10","49000","Utah","1996","Number of jobs","0",1217605
+"1514","SAEMP25S-10","49000","Utah","1997","Number of jobs","0",1269877
+"1515","SAEMP25S-10","49000","Utah","1998","Number of jobs","0",1309652
+"1516","SAEMP25S-10","49000","Utah","1999","Number of jobs","0",1338175
+"1517","SAEMP25S-10","49000","Utah","2000","Number of jobs","0",1380538
+"1518","SAEMP25S-10","49000","Utah","2001","Number of jobs","0",1391757
+"1519","SAEMP25S-10","50000","Vermont","1969","Number of jobs","0",202578
+"1520","SAEMP25S-10","50000","Vermont","1970","Number of jobs","0",205015
+"1521","SAEMP25S-10","50000","Vermont","1971","Number of jobs","0",205729
+"1522","SAEMP25S-10","50000","Vermont","1972","Number of jobs","0",211203
+"1523","SAEMP25S-10","50000","Vermont","1973","Number of jobs","0",219986
+"1524","SAEMP25S-10","50000","Vermont","1974","Number of jobs","0",222240
+"1525","SAEMP25S-10","50000","Vermont","1975","Number of jobs","0",220329
+"1526","SAEMP25S-10","50000","Vermont","1976","Number of jobs","0",228487
+"1527","SAEMP25S-10","50000","Vermont","1977","Number of jobs","0",236484
+"1528","SAEMP25S-10","50000","Vermont","1978","Number of jobs","0",251752
+"1529","SAEMP25S-10","50000","Vermont","1979","Number of jobs","0",260666
+"1530","SAEMP25S-10","50000","Vermont","1980","Number of jobs","0",265618
+"1531","SAEMP25S-10","50000","Vermont","1981","Number of jobs","0",269992
+"1532","SAEMP25S-10","50000","Vermont","1982","Number of jobs","0",271070
+"1533","SAEMP25S-10","50000","Vermont","1983","Number of jobs","0",277388
+"1534","SAEMP25S-10","50000","Vermont","1984","Number of jobs","0",288739
+"1535","SAEMP25S-10","50000","Vermont","1985","Number of jobs","0",300062
+"1536","SAEMP25S-10","50000","Vermont","1986","Number of jobs","0",311372
+"1537","SAEMP25S-10","50000","Vermont","1987","Number of jobs","0",320497
+"1538","SAEMP25S-10","50000","Vermont","1988","Number of jobs","0",334186
+"1539","SAEMP25S-10","50000","Vermont","1989","Number of jobs","0",341223
+"1540","SAEMP25S-10","50000","Vermont","1990","Number of jobs","0",340784
+"1541","SAEMP25S-10","50000","Vermont","1991","Number of jobs","0",334190
+"1542","SAEMP25S-10","50000","Vermont","1992","Number of jobs","0",341722
+"1543","SAEMP25S-10","50000","Vermont","1993","Number of jobs","0",349250
+"1544","SAEMP25S-10","50000","Vermont","1994","Number of jobs","0",358528
+"1545","SAEMP25S-10","50000","Vermont","1995","Number of jobs","0",361825
+"1546","SAEMP25S-10","50000","Vermont","1996","Number of jobs","0",367074
+"1547","SAEMP25S-10","50000","Vermont","1997","Number of jobs","0",372613
+"1548","SAEMP25S-10","50000","Vermont","1998","Number of jobs","0",381006
+"1549","SAEMP25S-10","50000","Vermont","1999","Number of jobs","0",389726
+"1550","SAEMP25S-10","50000","Vermont","2000","Number of jobs","0",400963
+"1551","SAEMP25S-10","50000","Vermont","2001","Number of jobs","0",403836
+"1552","SAEMP25S-10","51000","Virginia","1969","Number of jobs","0",2147852
+"1553","SAEMP25S-10","51000","Virginia","1970","Number of jobs","0",2157657
+"1554","SAEMP25S-10","51000","Virginia","1971","Number of jobs","0",2196371
+"1555","SAEMP25S-10","51000","Virginia","1972","Number of jobs","0",2263423
+"1556","SAEMP25S-10","51000","Virginia","1973","Number of jobs","0",2384496
+"1557","SAEMP25S-10","51000","Virginia","1974","Number of jobs","0",2450799
+"1558","SAEMP25S-10","51000","Virginia","1975","Number of jobs","0",2425437
+"1559","SAEMP25S-10","51000","Virginia","1976","Number of jobs","0",2501192
+"1560","SAEMP25S-10","51000","Virginia","1977","Number of jobs","0",2584568
+"1561","SAEMP25S-10","51000","Virginia","1978","Number of jobs","0",2697755
+"1562","SAEMP25S-10","51000","Virginia","1979","Number of jobs","0",2767118
+"1563","SAEMP25S-10","51000","Virginia","1980","Number of jobs","0",2796505
+"1564","SAEMP25S-10","51000","Virginia","1981","Number of jobs","0",2811756
+"1565","SAEMP25S-10","51000","Virginia","1982","Number of jobs","0",2823682
+"1566","SAEMP25S-10","51000","Virginia","1983","Number of jobs","0",2896818
+"1567","SAEMP25S-10","51000","Virginia","1984","Number of jobs","0",3041492
+"1568","SAEMP25S-10","51000","Virginia","1985","Number of jobs","0",3181471
+"1569","SAEMP25S-10","51000","Virginia","1986","Number of jobs","0",3316133
+"1570","SAEMP25S-10","51000","Virginia","1987","Number of jobs","0",3479609
+"1571","SAEMP25S-10","51000","Virginia","1988","Number of jobs","0",3558017
+"1572","SAEMP25S-10","51000","Virginia","1989","Number of jobs","0",3655230
+"1573","SAEMP25S-10","51000","Virginia","1990","Number of jobs","0",3699593
+"1574","SAEMP25S-10","51000","Virginia","1991","Number of jobs","0",3641765
+"1575","SAEMP25S-10","51000","Virginia","1992","Number of jobs","0",3657380
+"1576","SAEMP25S-10","51000","Virginia","1993","Number of jobs","0",3730015
+"1577","SAEMP25S-10","51000","Virginia","1994","Number of jobs","0",3813122
+"1578","SAEMP25S-10","51000","Virginia","1995","Number of jobs","0",3902673
+"1579","SAEMP25S-10","51000","Virginia","1996","Number of jobs","0",3983418
+"1580","SAEMP25S-10","51000","Virginia","1997","Number of jobs","0",4081751
+"1581","SAEMP25S-10","51000","Virginia","1998","Number of jobs","0",4167798
+"1582","SAEMP25S-10","51000","Virginia","1999","Number of jobs","0",4261127
+"1583","SAEMP25S-10","51000","Virginia","2000","Number of jobs","0",4399151
+"1584","SAEMP25S-10","51000","Virginia","2001","Number of jobs","0",4417451
+"1585","SAEMP25S-10","53000","Washington","1969","Number of jobs","0",1538783
+"1586","SAEMP25S-10","53000","Washington","1970","Number of jobs","0",1491143
+"1587","SAEMP25S-10","53000","Washington","1971","Number of jobs","0",1456722
+"1588","SAEMP25S-10","53000","Washington","1972","Number of jobs","0",1480987
+"1589","SAEMP25S-10","53000","Washington","1973","Number of jobs","0",1558344
+"1590","SAEMP25S-10","53000","Washington","1974","Number of jobs","0",1621514
+"1591","SAEMP25S-10","53000","Washington","1975","Number of jobs","0",1658770
+"1592","SAEMP25S-10","53000","Washington","1976","Number of jobs","0",1738939
+"1593","SAEMP25S-10","53000","Washington","1977","Number of jobs","0",1815067
+"1594","SAEMP25S-10","53000","Washington","1978","Number of jobs","0",1938600
+"1595","SAEMP25S-10","53000","Washington","1979","Number of jobs","0",2057909
+"1596","SAEMP25S-10","53000","Washington","1980","Number of jobs","0",2104574
+"1597","SAEMP25S-10","53000","Washington","1981","Number of jobs","0",2118874
+"1598","SAEMP25S-10","53000","Washington","1982","Number of jobs","0",2093972
+"1599","SAEMP25S-10","53000","Washington","1983","Number of jobs","0",2140060
+"1600","SAEMP25S-10","53000","Washington","1984","Number of jobs","0",2213531
+"1601","SAEMP25S-10","53000","Washington","1985","Number of jobs","0",2277144
+"1602","SAEMP25S-10","53000","Washington","1986","Number of jobs","0",2351448
+"1603","SAEMP25S-10","53000","Washington","1987","Number of jobs","0",2470016
+"1604","SAEMP25S-10","53000","Washington","1988","Number of jobs","0",2599556
+"1605","SAEMP25S-10","53000","Washington","1989","Number of jobs","0",2717905
+"1606","SAEMP25S-10","53000","Washington","1990","Number of jobs","0",2842491
+"1607","SAEMP25S-10","53000","Washington","1991","Number of jobs","0",2877018
+"1608","SAEMP25S-10","53000","Washington","1992","Number of jobs","0",2906917
+"1609","SAEMP25S-10","53000","Washington","1993","Number of jobs","0",2950534
+"1610","SAEMP25S-10","53000","Washington","1994","Number of jobs","0",3059952
+"1611","SAEMP25S-10","53000","Washington","1995","Number of jobs","0",3101334
+"1612","SAEMP25S-10","53000","Washington","1996","Number of jobs","0",3192307
+"1613","SAEMP25S-10","53000","Washington","1997","Number of jobs","0",3298010
+"1614","SAEMP25S-10","53000","Washington","1998","Number of jobs","0",3382924
+"1615","SAEMP25S-10","53000","Washington","1999","Number of jobs","0",3446900
+"1616","SAEMP25S-10","53000","Washington","2000","Number of jobs","0",3526778
+"1617","SAEMP25S-10","53000","Washington","2001","Number of jobs","0",3515729
+"1618","SAEMP25S-10","54000","West Virginia","1969","Number of jobs","0",651782
+"1619","SAEMP25S-10","54000","West Virginia","1970","Number of jobs","0",659514
+"1620","SAEMP25S-10","54000","West Virginia","1971","Number of jobs","0",669717
+"1621","SAEMP25S-10","54000","West Virginia","1972","Number of jobs","0",683606
+"1622","SAEMP25S-10","54000","West Virginia","1973","Number of jobs","0",699804
+"1623","SAEMP25S-10","54000","West Virginia","1974","Number of jobs","0",711453
+"1624","SAEMP25S-10","54000","West Virginia","1975","Number of jobs","0",717096
+"1625","SAEMP25S-10","54000","West Virginia","1976","Number of jobs","0",739036
+"1626","SAEMP25S-10","54000","West Virginia","1977","Number of jobs","0",757752
+"1627","SAEMP25S-10","54000","West Virginia","1978","Number of jobs","0",780911
+"1628","SAEMP25S-10","54000","West Virginia","1979","Number of jobs","0",790391
+"1629","SAEMP25S-10","54000","West Virginia","1980","Number of jobs","0",782029
+"1630","SAEMP25S-10","54000","West Virginia","1981","Number of jobs","0",761627
+"1631","SAEMP25S-10","54000","West Virginia","1982","Number of jobs","0",740403
+"1632","SAEMP25S-10","54000","West Virginia","1983","Number of jobs","0",721543
+"1633","SAEMP25S-10","54000","West Virginia","1984","Number of jobs","0",732296
+"1634","SAEMP25S-10","54000","West Virginia","1985","Number of jobs","0",731881
+"1635","SAEMP25S-10","54000","West Virginia","1986","Number of jobs","0",731131
+"1636","SAEMP25S-10","54000","West Virginia","1987","Number of jobs","0",738242
+"1637","SAEMP25S-10","54000","West Virginia","1988","Number of jobs","0",750513
+"1638","SAEMP25S-10","54000","West Virginia","1989","Number of jobs","0",757104
+"1639","SAEMP25S-10","54000","West Virginia","1990","Number of jobs","0",777862
+"1640","SAEMP25S-10","54000","West Virginia","1991","Number of jobs","0",778768
+"1641","SAEMP25S-10","54000","West Virginia","1992","Number of jobs","0",789331
+"1642","SAEMP25S-10","54000","West Virginia","1993","Number of jobs","0",801180
+"1643","SAEMP25S-10","54000","West Virginia","1994","Number of jobs","0",822272
+"1644","SAEMP25S-10","54000","West Virginia","1995","Number of jobs","0",838499
+"1645","SAEMP25S-10","54000","West Virginia","1996","Number of jobs","0",846838
+"1646","SAEMP25S-10","54000","West Virginia","1997","Number of jobs","0",858297
+"1647","SAEMP25S-10","54000","West Virginia","1998","Number of jobs","0",868370
+"1648","SAEMP25S-10","54000","West Virginia","1999","Number of jobs","0",868236
+"1649","SAEMP25S-10","54000","West Virginia","2000","Number of jobs","0",875561
+"1650","SAEMP25S-10","54000","West Virginia","2001","Number of jobs","0",872546
+"1651","SAEMP25S-10","55000","Wisconsin","1969","Number of jobs","0",1943518
+"1652","SAEMP25S-10","55000","Wisconsin","1970","Number of jobs","0",1953931
+"1653","SAEMP25S-10","55000","Wisconsin","1971","Number of jobs","0",1957393
+"1654","SAEMP25S-10","55000","Wisconsin","1972","Number of jobs","0",2014337
+"1655","SAEMP25S-10","55000","Wisconsin","1973","Number of jobs","0",2116012
+"1656","SAEMP25S-10","55000","Wisconsin","1974","Number of jobs","0",2158611
+"1657","SAEMP25S-10","55000","Wisconsin","1975","Number of jobs","0",2147925
+"1658","SAEMP25S-10","55000","Wisconsin","1976","Number of jobs","0",2211407
+"1659","SAEMP25S-10","55000","Wisconsin","1977","Number of jobs","0",2293198
+"1660","SAEMP25S-10","55000","Wisconsin","1978","Number of jobs","0",2380482
+"1661","SAEMP25S-10","55000","Wisconsin","1979","Number of jobs","0",2460477
+"1662","SAEMP25S-10","55000","Wisconsin","1980","Number of jobs","0",2442970
+"1663","SAEMP25S-10","55000","Wisconsin","1981","Number of jobs","0",2415039
+"1664","SAEMP25S-10","55000","Wisconsin","1982","Number of jobs","0",2372990
+"1665","SAEMP25S-10","55000","Wisconsin","1983","Number of jobs","0",2375985
+"1666","SAEMP25S-10","55000","Wisconsin","1984","Number of jobs","0",2466771
+"1667","SAEMP25S-10","55000","Wisconsin","1985","Number of jobs","0",2495453
+"1668","SAEMP25S-10","55000","Wisconsin","1986","Number of jobs","0",2537323
+"1669","SAEMP25S-10","55000","Wisconsin","1987","Number of jobs","0",2604573
+"1670","SAEMP25S-10","55000","Wisconsin","1988","Number of jobs","0",2683663
+"1671","SAEMP25S-10","55000","Wisconsin","1989","Number of jobs","0",2740050
+"1672","SAEMP25S-10","55000","Wisconsin","1990","Number of jobs","0",2814229
+"1673","SAEMP25S-10","55000","Wisconsin","1991","Number of jobs","0",2840450
+"1674","SAEMP25S-10","55000","Wisconsin","1992","Number of jobs","0",2893937
+"1675","SAEMP25S-10","55000","Wisconsin","1993","Number of jobs","0",2949696
+"1676","SAEMP25S-10","55000","Wisconsin","1994","Number of jobs","0",3040287
+"1677","SAEMP25S-10","55000","Wisconsin","1995","Number of jobs","0",3119622
+"1678","SAEMP25S-10","55000","Wisconsin","1996","Number of jobs","0",3170631
+"1679","SAEMP25S-10","55000","Wisconsin","1997","Number of jobs","0",3225761
+"1680","SAEMP25S-10","55000","Wisconsin","1998","Number of jobs","0",3287793
+"1681","SAEMP25S-10","55000","Wisconsin","1999","Number of jobs","0",3350388
+"1682","SAEMP25S-10","55000","Wisconsin","2000","Number of jobs","0",3413585
+"1683","SAEMP25S-10","55000","Wisconsin","2001","Number of jobs","0",3403719
+"1684","SAEMP25S-10","56000","Wyoming","1969","Number of jobs","0",157954
+"1685","SAEMP25S-10","56000","Wyoming","1970","Number of jobs","0",159384
+"1686","SAEMP25S-10","56000","Wyoming","1971","Number of jobs","0",164883
+"1687","SAEMP25S-10","56000","Wyoming","1972","Number of jobs","0",172302
+"1688","SAEMP25S-10","56000","Wyoming","1973","Number of jobs","0",182288
+"1689","SAEMP25S-10","56000","Wyoming","1974","Number of jobs","0",193767
+"1690","SAEMP25S-10","56000","Wyoming","1975","Number of jobs","0",202679
+"1691","SAEMP25S-10","56000","Wyoming","1976","Number of jobs","0",214096
+"1692","SAEMP25S-10","56000","Wyoming","1977","Number of jobs","0",230589
+"1693","SAEMP25S-10","56000","Wyoming","1978","Number of jobs","0",249813
+"1694","SAEMP25S-10","56000","Wyoming","1979","Number of jobs","0",266229
+"1695","SAEMP25S-10","56000","Wyoming","1980","Number of jobs","0",278978
+"1696","SAEMP25S-10","56000","Wyoming","1981","Number of jobs","0",289465
+"1697","SAEMP25S-10","56000","Wyoming","1982","Number of jobs","0",286715
+"1698","SAEMP25S-10","56000","Wyoming","1983","Number of jobs","0",274024
+"1699","SAEMP25S-10","56000","Wyoming","1984","Number of jobs","0",275951
+"1700","SAEMP25S-10","56000","Wyoming","1985","Number of jobs","0",276585
+"1701","SAEMP25S-10","56000","Wyoming","1986","Number of jobs","0",263687
+"1702","SAEMP25S-10","56000","Wyoming","1987","Number of jobs","0",258441
+"1703","SAEMP25S-10","56000","Wyoming","1988","Number of jobs","0",263690
+"1704","SAEMP25S-10","56000","Wyoming","1989","Number of jobs","0",265401
+"1705","SAEMP25S-10","56000","Wyoming","1990","Number of jobs","0",270832
+"1706","SAEMP25S-10","56000","Wyoming","1991","Number of jobs","0",277118
+"1707","SAEMP25S-10","56000","Wyoming","1992","Number of jobs","0",279892
+"1708","SAEMP25S-10","56000","Wyoming","1993","Number of jobs","0",284727
+"1709","SAEMP25S-10","56000","Wyoming","1994","Number of jobs","0",297591
+"1710","SAEMP25S-10","56000","Wyoming","1995","Number of jobs","0",300567
+"1711","SAEMP25S-10","56000","Wyoming","1996","Number of jobs","0",303696
+"1712","SAEMP25S-10","56000","Wyoming","1997","Number of jobs","0",306691
+"1713","SAEMP25S-10","56000","Wyoming","1998","Number of jobs","0",310043
+"1714","SAEMP25S-10","56000","Wyoming","1999","Number of jobs","0",315198
+"1715","SAEMP25S-10","56000","Wyoming","2000","Number of jobs","0",324653
+"1716","SAEMP25S-10","56000","Wyoming","2001","Number of jobs","0",330130
+"1717","SAEMP25S-10","91000","New England","1969","Number of jobs","0",5516209
+"1718","SAEMP25S-10","91000","New England","1970","Number of jobs","0",5518415
+"1719","SAEMP25S-10","91000","New England","1971","Number of jobs","0",5453812
+"1720","SAEMP25S-10","91000","New England","1972","Number of jobs","0",5573473
+"1721","SAEMP25S-10","91000","New England","1973","Number of jobs","0",5783040
+"1722","SAEMP25S-10","91000","New England","1974","Number of jobs","0",5842740
+"1723","SAEMP25S-10","91000","New England","1975","Number of jobs","0",5685171
+"1724","SAEMP25S-10","91000","New England","1976","Number of jobs","0",5810737
+"1725","SAEMP25S-10","91000","New England","1977","Number of jobs","0",6006686
+"1726","SAEMP25S-10","91000","New England","1978","Number of jobs","0",6275658
+"1727","SAEMP25S-10","91000","New England","1979","Number of jobs","0",6503010
+"1728","SAEMP25S-10","91000","New England","1980","Number of jobs","0",6623392
+"1729","SAEMP25S-10","91000","New England","1981","Number of jobs","0",6665508
+"1730","SAEMP25S-10","91000","New England","1982","Number of jobs","0",6666539
+"1731","SAEMP25S-10","91000","New England","1983","Number of jobs","0",6798965
+"1732","SAEMP25S-10","91000","New England","1984","Number of jobs","0",7158545
+"1733","SAEMP25S-10","91000","New England","1985","Number of jobs","0",7400020
+"1734","SAEMP25S-10","91000","New England","1986","Number of jobs","0",7637911
+"1735","SAEMP25S-10","91000","New England","1987","Number of jobs","0",7770510
+"1736","SAEMP25S-10","91000","New England","1988","Number of jobs","0",8018428
+"1737","SAEMP25S-10","91000","New England","1989","Number of jobs","0",8005259
+"1738","SAEMP25S-10","91000","New England","1990","Number of jobs","0",7853000
+"1739","SAEMP25S-10","91000","New England","1991","Number of jobs","0",7525849
+"1740","SAEMP25S-10","91000","New England","1992","Number of jobs","0",7565989
+"1741","SAEMP25S-10","91000","New England","1993","Number of jobs","0",7688552
+"1742","SAEMP25S-10","91000","New England","1994","Number of jobs","0",7782372
+"1743","SAEMP25S-10","91000","New England","1995","Number of jobs","0",7874773
+"1744","SAEMP25S-10","91000","New England","1996","Number of jobs","0",8004303
+"1745","SAEMP25S-10","91000","New England","1997","Number of jobs","0",8165312
+"1746","SAEMP25S-10","91000","New England","1998","Number of jobs","0",8360643
+"1747","SAEMP25S-10","91000","New England","1999","Number of jobs","0",8512502
+"1748","SAEMP25S-10","91000","New England","2000","Number of jobs","0",8739633
+"1749","SAEMP25S-10","91000","New England","2001","Number of jobs","0",8766028
+"1750","SAEMP25S-10","92000","Mideast","1969","Number of jobs","0",19431595
+"1751","SAEMP25S-10","92000","Mideast","1970","Number of jobs","0",19465172
+"1752","SAEMP25S-10","92000","Mideast","1971","Number of jobs","0",19298876
+"1753","SAEMP25S-10","92000","Mideast","1972","Number of jobs","0",19521401
+"1754","SAEMP25S-10","92000","Mideast","1973","Number of jobs","0",19968419
+"1755","SAEMP25S-10","92000","Mideast","1974","Number of jobs","0",19954192
+"1756","SAEMP25S-10","92000","Mideast","1975","Number of jobs","0",19479921
+"1757","SAEMP25S-10","92000","Mideast","1976","Number of jobs","0",19562540
+"1758","SAEMP25S-10","92000","Mideast","1977","Number of jobs","0",19848352
+"1759","SAEMP25S-10","92000","Mideast","1978","Number of jobs","0",20411324
+"1760","SAEMP25S-10","92000","Mideast","1979","Number of jobs","0",20871108
+"1761","SAEMP25S-10","92000","Mideast","1980","Number of jobs","0",20910540
+"1762","SAEMP25S-10","92000","Mideast","1981","Number of jobs","0",20978499
+"1763","SAEMP25S-10","92000","Mideast","1982","Number of jobs","0",20858208
+"1764","SAEMP25S-10","92000","Mideast","1983","Number of jobs","0",21044896
+"1765","SAEMP25S-10","92000","Mideast","1984","Number of jobs","0",21765755
+"1766","SAEMP25S-10","92000","Mideast","1985","Number of jobs","0",22333480
+"1767","SAEMP25S-10","92000","Mideast","1986","Number of jobs","0",22836571
+"1768","SAEMP25S-10","92000","Mideast","1987","Number of jobs","0",23321041
+"1769","SAEMP25S-10","92000","Mideast","1988","Number of jobs","0",23926563
+"1770","SAEMP25S-10","92000","Mideast","1989","Number of jobs","0",24200579
+"1771","SAEMP25S-10","92000","Mideast","1990","Number of jobs","0",24260159
+"1772","SAEMP25S-10","92000","Mideast","1991","Number of jobs","0",23702617
+"1773","SAEMP25S-10","92000","Mideast","1992","Number of jobs","0",23597395
+"1774","SAEMP25S-10","92000","Mideast","1993","Number of jobs","0",23714155
+"1775","SAEMP25S-10","92000","Mideast","1994","Number of jobs","0",23879127
+"1776","SAEMP25S-10","92000","Mideast","1995","Number of jobs","0",24157121
+"1777","SAEMP25S-10","92000","Mideast","1996","Number of jobs","0",24386892
+"1778","SAEMP25S-10","92000","Mideast","1997","Number of jobs","0",24762673
+"1779","SAEMP25S-10","92000","Mideast","1998","Number of jobs","0",25170029
+"1780","SAEMP25S-10","92000","Mideast","1999","Number of jobs","0",25710165
+"1781","SAEMP25S-10","92000","Mideast","2000","Number of jobs","0",26409297
+"1782","SAEMP25S-10","92000","Mideast","2001","Number of jobs","0",26495670
+"1783","SAEMP25S-10","93000","Great Lakes","1969","Number of jobs","0",17784792
+"1784","SAEMP25S-10","93000","Great Lakes","1970","Number of jobs","0",17629888
+"1785","SAEMP25S-10","93000","Great Lakes","1971","Number of jobs","0",17549161
+"1786","SAEMP25S-10","93000","Great Lakes","1972","Number of jobs","0",17933361
+"1787","SAEMP25S-10","93000","Great Lakes","1973","Number of jobs","0",18709641
+"1788","SAEMP25S-10","93000","Great Lakes","1974","Number of jobs","0",18910612
+"1789","SAEMP25S-10","93000","Great Lakes","1975","Number of jobs","0",18398540
+"1790","SAEMP25S-10","93000","Great Lakes","1976","Number of jobs","0",18891012
+"1791","SAEMP25S-10","93000","Great Lakes","1977","Number of jobs","0",19508275
+"1792","SAEMP25S-10","93000","Great Lakes","1978","Number of jobs","0",20189901
+"1793","SAEMP25S-10","93000","Great Lakes","1979","Number of jobs","0",20491061
+"1794","SAEMP25S-10","93000","Great Lakes","1980","Number of jobs","0",19978400
+"1795","SAEMP25S-10","93000","Great Lakes","1981","Number of jobs","0",19794639
+"1796","SAEMP25S-10","93000","Great Lakes","1982","Number of jobs","0",19247704
+"1797","SAEMP25S-10","93000","Great Lakes","1983","Number of jobs","0",19265036
+"1798","SAEMP25S-10","93000","Great Lakes","1984","Number of jobs","0",20027708
+"1799","SAEMP25S-10","93000","Great Lakes","1985","Number of jobs","0",20491601
+"1800","SAEMP25S-10","93000","Great Lakes","1986","Number of jobs","0",20933917
+"1801","SAEMP25S-10","93000","Great Lakes","1987","Number of jobs","0",21515533
+"1802","SAEMP25S-10","93000","Great Lakes","1988","Number of jobs","0",22070238
+"1803","SAEMP25S-10","93000","Great Lakes","1989","Number of jobs","0",22555767
+"1804","SAEMP25S-10","93000","Great Lakes","1990","Number of jobs","0",22928059
+"1805","SAEMP25S-10","93000","Great Lakes","1991","Number of jobs","0",22845115
+"1806","SAEMP25S-10","93000","Great Lakes","1992","Number of jobs","0",22971040
+"1807","SAEMP25S-10","93000","Great Lakes","1993","Number of jobs","0",23359251
+"1808","SAEMP25S-10","93000","Great Lakes","1994","Number of jobs","0",24059591
+"1809","SAEMP25S-10","93000","Great Lakes","1995","Number of jobs","0",24713277
+"1810","SAEMP25S-10","93000","Great Lakes","1996","Number of jobs","0",25105406
+"1811","SAEMP25S-10","93000","Great Lakes","1997","Number of jobs","0",25512693
+"1812","SAEMP25S-10","93000","Great Lakes","1998","Number of jobs","0",25953106
+"1813","SAEMP25S-10","93000","Great Lakes","1999","Number of jobs","0",26332508
+"1814","SAEMP25S-10","93000","Great Lakes","2000","Number of jobs","0",26830018
+"1815","SAEMP25S-10","93000","Great Lakes","2001","Number of jobs","0",26554355
+"1816","SAEMP25S-10","94000","Plains","1969","Number of jobs","0",7505929
+"1817","SAEMP25S-10","94000","Plains","1970","Number of jobs","0",7515685
+"1818","SAEMP25S-10","94000","Plains","1971","Number of jobs","0",7544238
+"1819","SAEMP25S-10","94000","Plains","1972","Number of jobs","0",7730682
+"1820","SAEMP25S-10","94000","Plains","1973","Number of jobs","0",8064620
+"1821","SAEMP25S-10","94000","Plains","1974","Number of jobs","0",8219329
+"1822","SAEMP25S-10","94000","Plains","1975","Number of jobs","0",8180642
+"1823","SAEMP25S-10","94000","Plains","1976","Number of jobs","0",8438457
+"1824","SAEMP25S-10","94000","Plains","1977","Number of jobs","0",8656898
+"1825","SAEMP25S-10","94000","Plains","1978","Number of jobs","0",8952740
+"1826","SAEMP25S-10","94000","Plains","1979","Number of jobs","0",9231708
+"1827","SAEMP25S-10","94000","Plains","1980","Number of jobs","0",9227034
+"1828","SAEMP25S-10","94000","Plains","1981","Number of jobs","0",9179615
+"1829","SAEMP25S-10","94000","Plains","1982","Number of jobs","0",9050226
+"1830","SAEMP25S-10","94000","Plains","1983","Number of jobs","0",9163323
+"1831","SAEMP25S-10","94000","Plains","1984","Number of jobs","0",9469948
+"1832","SAEMP25S-10","94000","Plains","1985","Number of jobs","0",9612034
+"1833","SAEMP25S-10","94000","Plains","1986","Number of jobs","0",9701239
+"1834","SAEMP25S-10","94000","Plains","1987","Number of jobs","0",9948963
+"1835","SAEMP25S-10","94000","Plains","1988","Number of jobs","0",10155661
+"1836","SAEMP25S-10","94000","Plains","1989","Number of jobs","0",10356893
+"1837","SAEMP25S-10","94000","Plains","1990","Number of jobs","0",10544130
+"1838","SAEMP25S-10","94000","Plains","1991","Number of jobs","0",10597216
+"1839","SAEMP25S-10","94000","Plains","1992","Number of jobs","0",10707957
+"1840","SAEMP25S-10","94000","Plains","1993","Number of jobs","0",10934005
+"1841","SAEMP25S-10","94000","Plains","1994","Number of jobs","0",11229940
+"1842","SAEMP25S-10","94000","Plains","1995","Number of jobs","0",11537241
+"1843","SAEMP25S-10","94000","Plains","1996","Number of jobs","0",11760554
+"1844","SAEMP25S-10","94000","Plains","1997","Number of jobs","0",11980349
+"1845","SAEMP25S-10","94000","Plains","1998","Number of jobs","0",12239692
+"1846","SAEMP25S-10","94000","Plains","1999","Number of jobs","0",12410535
+"1847","SAEMP25S-10","94000","Plains","2000","Number of jobs","0",12604124
+"1848","SAEMP25S-10","94000","Plains","2001","Number of jobs","0",12601236
+"1849","SAEMP25S-10","95000","Southeast","1969","Number of jobs","0",19084662
+"1850","SAEMP25S-10","95000","Southeast","1970","Number of jobs","0",19254078
+"1851","SAEMP25S-10","95000","Southeast","1971","Number of jobs","0",19634834
+"1852","SAEMP25S-10","95000","Southeast","1972","Number of jobs","0",20522779
+"1853","SAEMP25S-10","95000","Southeast","1973","Number of jobs","0",21636418
+"1854","SAEMP25S-10","95000","Southeast","1974","Number of jobs","0",22069204
+"1855","SAEMP25S-10","95000","Southeast","1975","Number of jobs","0",21642177
+"1856","SAEMP25S-10","95000","Southeast","1976","Number of jobs","0",22350782
+"1857","SAEMP25S-10","95000","Southeast","1977","Number of jobs","0",23208354
+"1858","SAEMP25S-10","95000","Southeast","1978","Number of jobs","0",24305438
+"1859","SAEMP25S-10","95000","Southeast","1979","Number of jobs","0",24987030
+"1860","SAEMP25S-10","95000","Southeast","1980","Number of jobs","0",25323533
+"1861","SAEMP25S-10","95000","Southeast","1981","Number of jobs","0",25594257
+"1862","SAEMP25S-10","95000","Southeast","1982","Number of jobs","0",25499166
+"1863","SAEMP25S-10","95000","Southeast","1983","Number of jobs","0",26030019
+"1864","SAEMP25S-10","95000","Southeast","1984","Number of jobs","0",27279919
+"1865","SAEMP25S-10","95000","Southeast","1985","Number of jobs","0",28089533
+"1866","SAEMP25S-10","95000","Southeast","1986","Number of jobs","0",28826343
+"1867","SAEMP25S-10","95000","Southeast","1987","Number of jobs","0",29529018
+"1868","SAEMP25S-10","95000","Southeast","1988","Number of jobs","0",30526803
+"1869","SAEMP25S-10","95000","Southeast","1989","Number of jobs","0",31250771
+"1870","SAEMP25S-10","95000","Southeast","1990","Number of jobs","0",31839773
+"1871","SAEMP25S-10","95000","Southeast","1991","Number of jobs","0",31724181
+"1872","SAEMP25S-10","95000","Southeast","1992","Number of jobs","0",32179597
+"1873","SAEMP25S-10","95000","Southeast","1993","Number of jobs","0",33186392
+"1874","SAEMP25S-10","95000","Southeast","1994","Number of jobs","0",34134731
+"1875","SAEMP25S-10","95000","Southeast","1995","Number of jobs","0",35253631
+"1876","SAEMP25S-10","95000","Southeast","1996","Number of jobs","0",36086983
+"1877","SAEMP25S-10","95000","Southeast","1997","Number of jobs","0",37049534
+"1878","SAEMP25S-10","95000","Southeast","1998","Number of jobs","0",38013686
+"1879","SAEMP25S-10","95000","Southeast","1999","Number of jobs","0",38801665
+"1880","SAEMP25S-10","95000","Southeast","2000","Number of jobs","0",39694005
+"1881","SAEMP25S-10","95000","Southeast","2001","Number of jobs","0",39630074
+"1882","SAEMP25S-10","96000","Southwest","1969","Number of jobs","0",7218590
+"1883","SAEMP25S-10","96000","Southwest","1970","Number of jobs","0",7310759
+"1884","SAEMP25S-10","96000","Southwest","1971","Number of jobs","0",7457193
+"1885","SAEMP25S-10","96000","Southwest","1972","Number of jobs","0",7807000
+"1886","SAEMP25S-10","96000","Southwest","1973","Number of jobs","0",8214605
+"1887","SAEMP25S-10","96000","Southwest","1974","Number of jobs","0",8510949
+"1888","SAEMP25S-10","96000","Southwest","1975","Number of jobs","0",8632724
+"1889","SAEMP25S-10","96000","Southwest","1976","Number of jobs","0",9000734
+"1890","SAEMP25S-10","96000","Southwest","1977","Number of jobs","0",9466478
+"1891","SAEMP25S-10","96000","Southwest","1978","Number of jobs","0",10046079
+"1892","SAEMP25S-10","96000","Southwest","1979","Number of jobs","0",10528267
+"1893","SAEMP25S-10","96000","Southwest","1980","Number of jobs","0",10922968
+"1894","SAEMP25S-10","96000","Southwest","1981","Number of jobs","0",11448816
+"1895","SAEMP25S-10","96000","Southwest","1982","Number of jobs","0",11681930
+"1896","SAEMP25S-10","96000","Southwest","1983","Number of jobs","0",11711840
+"1897","SAEMP25S-10","96000","Southwest","1984","Number of jobs","0",12258547
+"1898","SAEMP25S-10","96000","Southwest","1985","Number of jobs","0",12617093
+"1899","SAEMP25S-10","96000","Southwest","1986","Number of jobs","0",12482766
+"1900","SAEMP25S-10","96000","Southwest","1987","Number of jobs","0",12785009
+"1901","SAEMP25S-10","96000","Southwest","1988","Number of jobs","0",13054918
+"1902","SAEMP25S-10","96000","Southwest","1989","Number of jobs","0",13241498
+"1903","SAEMP25S-10","96000","Southwest","1990","Number of jobs","0",13553142
+"1904","SAEMP25S-10","96000","Southwest","1991","Number of jobs","0",13759100
+"1905","SAEMP25S-10","96000","Southwest","1992","Number of jobs","0",13884973
+"1906","SAEMP25S-10","96000","Southwest","1993","Number of jobs","0",14331945
+"1907","SAEMP25S-10","96000","Southwest","1994","Number of jobs","0",14844615
+"1908","SAEMP25S-10","96000","Southwest","1995","Number of jobs","0",15395525
+"1909","SAEMP25S-10","96000","Southwest","1996","Number of jobs","0",15883416
+"1910","SAEMP25S-10","96000","Southwest","1997","Number of jobs","0",16482214
+"1911","SAEMP25S-10","96000","Southwest","1998","Number of jobs","0",17034267
+"1912","SAEMP25S-10","96000","Southwest","1999","Number of jobs","0",17352947
+"1913","SAEMP25S-10","96000","Southwest","2000","Number of jobs","0",17899573
+"1914","SAEMP25S-10","96000","Southwest","2001","Number of jobs","0",18099376
+"1915","SAEMP25S-10","97000","Rocky Mountain","1969","Number of jobs","0",2216290
+"1916","SAEMP25S-10","97000","Rocky Mountain","1970","Number of jobs","0",2270924
+"1917","SAEMP25S-10","97000","Rocky Mountain","1971","Number of jobs","0",2342846
+"1918","SAEMP25S-10","97000","Rocky Mountain","1972","Number of jobs","0",2481637
+"1919","SAEMP25S-10","97000","Rocky Mountain","1973","Number of jobs","0",2645947
+"1920","SAEMP25S-10","97000","Rocky Mountain","1974","Number of jobs","0",2739588
+"1921","SAEMP25S-10","97000","Rocky Mountain","1975","Number of jobs","0",2778108
+"1922","SAEMP25S-10","97000","Rocky Mountain","1976","Number of jobs","0",2912267
+"1923","SAEMP25S-10","97000","Rocky Mountain","1977","Number of jobs","0",3060257
+"1924","SAEMP25S-10","97000","Rocky Mountain","1978","Number of jobs","0",3257216
+"1925","SAEMP25S-10","97000","Rocky Mountain","1979","Number of jobs","0",3401773
+"1926","SAEMP25S-10","97000","Rocky Mountain","1980","Number of jobs","0",3474372
+"1927","SAEMP25S-10","97000","Rocky Mountain","1981","Number of jobs","0",3559230
+"1928","SAEMP25S-10","97000","Rocky Mountain","1982","Number of jobs","0",3595661
+"1929","SAEMP25S-10","97000","Rocky Mountain","1983","Number of jobs","0",3642286
+"1930","SAEMP25S-10","97000","Rocky Mountain","1984","Number of jobs","0",3800502
+"1931","SAEMP25S-10","97000","Rocky Mountain","1985","Number of jobs","0",3860643
+"1932","SAEMP25S-10","97000","Rocky Mountain","1986","Number of jobs","0",3854312
+"1933","SAEMP25S-10","97000","Rocky Mountain","1987","Number of jobs","0",3884909
+"1934","SAEMP25S-10","97000","Rocky Mountain","1988","Number of jobs","0",4021294
+"1935","SAEMP25S-10","97000","Rocky Mountain","1989","Number of jobs","0",4113866
+"1936","SAEMP25S-10","97000","Rocky Mountain","1990","Number of jobs","0",4230473
+"1937","SAEMP25S-10","97000","Rocky Mountain","1991","Number of jobs","0",4334647
+"1938","SAEMP25S-10","97000","Rocky Mountain","1992","Number of jobs","0",4434408
+"1939","SAEMP25S-10","97000","Rocky Mountain","1993","Number of jobs","0",4625984
+"1940","SAEMP25S-10","97000","Rocky Mountain","1994","Number of jobs","0",4886464
+"1941","SAEMP25S-10","97000","Rocky Mountain","1995","Number of jobs","0",5045998
+"1942","SAEMP25S-10","97000","Rocky Mountain","1996","Number of jobs","0",5248733
+"1943","SAEMP25S-10","97000","Rocky Mountain","1997","Number of jobs","0",5439812
+"1944","SAEMP25S-10","97000","Rocky Mountain","1998","Number of jobs","0",5620655
+"1945","SAEMP25S-10","97000","Rocky Mountain","1999","Number of jobs","0",5752111
+"1946","SAEMP25S-10","97000","Rocky Mountain","2000","Number of jobs","0",5952793
+"1947","SAEMP25S-10","97000","Rocky Mountain","2001","Number of jobs","0",6006793
+"1948","SAEMP25S-10","98000","Far West","1969","Number of jobs","0",12295133
+"1949","SAEMP25S-10","98000","Far West","1970","Number of jobs","0",12312679
+"1950","SAEMP25S-10","98000","Far West","1971","Number of jobs","0",12300440
+"1951","SAEMP25S-10","98000","Far West","1972","Number of jobs","0",12741867
+"1952","SAEMP25S-10","98000","Far West","1973","Number of jobs","0",13404810
+"1953","SAEMP25S-10","98000","Far West","1974","Number of jobs","0",13865186
+"1954","SAEMP25S-10","98000","Far West","1975","Number of jobs","0",14103317
+"1955","SAEMP25S-10","98000","Far West","1976","Number of jobs","0",14624671
+"1956","SAEMP25S-10","98000","Far West","1977","Number of jobs","0",15286900
+"1957","SAEMP25S-10","98000","Far West","1978","Number of jobs","0",16248244
+"1958","SAEMP25S-10","98000","Far West","1979","Number of jobs","0",17133143
+"1959","SAEMP25S-10","98000","Far West","1980","Number of jobs","0",17522961
+"1960","SAEMP25S-10","98000","Far West","1981","Number of jobs","0",17693436
+"1961","SAEMP25S-10","98000","Far West","1982","Number of jobs","0",17563866
+"1962","SAEMP25S-10","98000","Far West","1983","Number of jobs","0",17989335
+"1963","SAEMP25S-10","98000","Far West","1984","Number of jobs","0",18767176
+"1964","SAEMP25S-10","98000","Far West","1985","Number of jobs","0",19392296
+"1965","SAEMP25S-10","98000","Far West","1986","Number of jobs","0",19959241
+"1966","SAEMP25S-10","98000","Far West","1987","Number of jobs","0",20793417
+"1967","SAEMP25S-10","98000","Far West","1988","Number of jobs","0",21789995
+"1968","SAEMP25S-10","98000","Far West","1989","Number of jobs","0",22453167
+"1969","SAEMP25S-10","98000","Far West","1990","Number of jobs","0",23122164
+"1970","SAEMP25S-10","98000","Far West","1991","Number of jobs","0",23124075
+"1971","SAEMP25S-10","98000","Far West","1992","Number of jobs","0",22824741
+"1972","SAEMP25S-10","98000","Far West","1993","Number of jobs","0",22934116
+"1973","SAEMP25S-10","98000","Far West","1994","Number of jobs","0",23379760
+"1974","SAEMP25S-10","98000","Far West","1995","Number of jobs","0",23938234
+"1975","SAEMP25S-10","98000","Far West","1996","Number of jobs","0",24579913
+"1976","SAEMP25S-10","98000","Far West","1997","Number of jobs","0",25148613
+"1977","SAEMP25S-10","98000","Far West","1998","Number of jobs","0",26089122
+"1978","SAEMP25S-10","98000","Far West","1999","Number of jobs","0",26658867
+"1979","SAEMP25S-10","98000","Far West","2000","Number of jobs","0",27241357
+"1980","SAEMP25S-10","98000","Far West","2001","Number of jobs","0",27368668
